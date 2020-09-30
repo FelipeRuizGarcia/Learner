@@ -28,4 +28,26 @@ https://learn.acloud.guru/course/aws-certified-solutions-architect-associate/das
 
 #### ` Practice Exam`
 
+#### Make the official questions example and the exam guide
+
+https://aws.amazon.com/certification/certified-solutions-architect-associate/
+
 https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/
+
+#### ` Get your Hands dirty | AWS Platform `
+
+####  Gain free, hands-on experience with the AWS platform, products, and services
+
+https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc
+
+
+#### Acloudguru Free Trial |  You can use the Playground to Practice with the AWS services https://acloudguru.com/pricing
+
+https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox
+
+
+#### You can simulate the AWS Platform in your Local!!!! with Docker!!!
+
+https://localstack.cloud/
+
+
