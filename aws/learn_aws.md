@@ -47,6 +47,7 @@ https://help.acloud.guru/hc/en-us/articles/360001389256-AWS-Cloud-Sandbox
 
 
 #### You can simulate the AWS Platform in your Local!!!! with Docker!!!
+LocalStack provides an easy-to-use test/mocking framework for developing Cloud applications. It spins up a testing environment on your local machine that provides the same functionality and APIs as the real AWS cloud environment. 
 
 https://localstack.cloud/
 
