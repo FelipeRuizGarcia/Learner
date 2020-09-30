@@ -1,42 +1,36 @@
 # Resources to learn and get the AWS certifications
 
 
-#### ` AWS Cert Quiz | Review | Community ` 
+## ` AWS Cert Quiz | Review | Analysis | Community ` 
 
 CQ Portal | Exam Review
 https://www.youtube.com/c/CQJohn/videos
 
 
-#### ` Official Guides, FAQ's and Documentation `
+## ` Official Guides, WhitePapers, FAQ's and Tech Documentation `
 
 https://docs.aws.amazon.com/
 
+i.e for VPC
+
 * https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
 
+* https://aws.amazon.com/vpc/faqs/
 
-#### ` How to book the exam and request the 30 minutes accommodation request`
+* https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/introduction.html
 
-https://tutorialsdojo.com/how-to-book-and-take-your-aws-certification-exam-online-saa-c02/
+## ` Courses `
 
-https://www.linkedin.com/pulse/30-minute-extension-your-aws-certification-exam-garcia-lozano/
-
-
-#### ` Courses `
+#### Acloudguru Free Trial 
 
 https://learn.acloud.guru/course/aws-certified-solutions-architect-associate/dashboard
 
+There are more courses that in Udemy that are the same acloudguru stuff.
 
-#### ` Practice Exam`
 
-#### Make the official questions example and the exam guide
+## ` Labs | Get your Hands dirty | AWS Platform `
 
-https://aws.amazon.com/certification/certified-solutions-architect-associate/
-
-https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/
-
-#### ` Get your Hands dirty | AWS Platform `
-
-####  Gain free, hands-on experience with the AWS platform, products, and services
+####  Free tier | Gain free, hands-on experience with the AWS platform, products, and services
 
 https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc
 
@@ -51,4 +45,19 @@ LocalStack provides an easy-to-use test/mocking framework for developing Cloud a
 
 https://localstack.cloud/
 
+
+## ` Practice Exam`
+
+#### Make the official questions example and the exam guide
+
+https://aws.amazon.com/certification/certified-solutions-architect-associate/
+
+https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/
+
+
+## ` How to book the exam and request the 30 minutes accommodation request`
+
+https://tutorialsdojo.com/how-to-book-and-take-your-aws-certification-exam-online-saa-c02/
+
+https://www.linkedin.com/pulse/30-minute-extension-your-aws-certification-exam-garcia-lozano/
 
