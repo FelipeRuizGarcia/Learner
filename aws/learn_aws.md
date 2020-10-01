@@ -7,6 +7,9 @@ CQ Portal | Exam Review
 https://www.youtube.com/c/CQJohn/videos
 
 
+https://www.twitch.tv/aws
+
+
 ## ` Official Guides, WhitePapers, FAQ's and Tech Documentation `
 
 https://docs.aws.amazon.com/
