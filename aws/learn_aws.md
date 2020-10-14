@@ -60,6 +60,9 @@ https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-assoc
 
 ## ` How to book the exam and request the 30 minutes accommodation request`
 
+Before to book your AWS Test, you need to request the ESL + 30 accommodation
+![ESL+30.jpeg](ESL+30.jpeg)
+
 https://tutorialsdojo.com/how-to-book-and-take-your-aws-certification-exam-online-saa-c02/
 
 https://www.linkedin.com/pulse/30-minute-extension-your-aws-certification-exam-garcia-lozano/
