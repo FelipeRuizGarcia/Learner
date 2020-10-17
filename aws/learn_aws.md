@@ -22,6 +22,18 @@ i.e for VPC
 
 * https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/introduction.html
 
+
+## ` Non Official Notes / 101 / AWS Sheets `
+
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/
+
+https://tutorialsdojo.com/aws-cheat-sheets/
+
+i.e for ELB
+
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-balancing/
+
+
 ## ` Courses `
 
 #### Acloudguru Free Trial 
@@ -65,7 +77,6 @@ Before to book your AWS Test, you need to request the ESL + 30 accommodation
 
 ![VUE_WITH_ESL+30.png](VUE_WITH_ESL+30.png)
 
+### ` Book and Take your Exam | The force is with you!~ Good Luck `
 https://tutorialsdojo.com/how-to-book-and-take-your-aws-certification-exam-online-saa-c02/
-
-https://www.linkedin.com/pulse/30-minute-extension-your-aws-certification-exam-garcia-lozano/
 
