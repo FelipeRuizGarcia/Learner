@@ -3,6 +3,21 @@
 
 ## ` AWS Cert Quiz | Review | Analysis | Community ` 
 
+The best resources are those that AWS provides in the `AWS Trainining` at 
+https://www.aws.training/LearningLibrary
+
+
+i.e
+
+* AWS Well-Architected Tool at
+https://www.aws.training/Details/eLearning?id=41984
+
+
+* Exam Readiness: AWS Certified Solutions Architect – Professional at https://www.aws.training/Details/eLearning?id=34737
+
+* Advanced Testing Practices using AWS DevOps Tools at https://www.aws.training/Details/eLearning?id=59874
+
+
 CQ Portal | Exam Review
 https://www.youtube.com/c/CQJohn/videos
 
@@ -36,11 +51,11 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 
 ## ` Courses `
 
-#### Acloudguru Free Trial 
-
+#### Acloudguru Free Trial
 https://learn.acloud.guru/course/aws-certified-solutions-architect-associate/dashboard
 
-There are more courses that in Udemy that are the same acloudguru stuff.
+#### AWS Digital Cloud Platform
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-hands-on-labs/
 
 
 ## ` Labs | Get your Hands dirty | AWS Platform `
@@ -63,11 +78,17 @@ https://localstack.cloud/
 
 ## ` Practice Exam`
 
+The best official mock test is the official `Practice exam` provide by AWS.
+
+
 #### Make the official questions example and the exam guide
 
 https://aws.amazon.com/certification/certified-solutions-architect-associate/
 
 https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/
+
+
+The Digital Cloud Platform and the acloudguru also provide practice exam, but in my experience, the best and more similar to the real test is the Digital Cloud Platform.
 
 
 ## ` How to book the exam and request the 30 minutes accommodation request`
