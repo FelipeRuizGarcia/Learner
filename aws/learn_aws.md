@@ -9,14 +9,16 @@ https://www.aws.training/LearningLibrary
 
 i.e
 
-* AWS Well-Architected Tool at
-https://www.aws.training/Details/eLearning?id=41984
+* AWS Well-Architected Tool at https://www.aws.training/Details/eLearning?id=41984
 
+* Exam Readiness: AWS Certified Solutions Architect – Associate (Digital) at https://www.aws.training/Details/Curriculum?id=20685
 
 * Exam Readiness: AWS Certified Solutions Architect – Professional at https://www.aws.training/Details/eLearning?id=34737
 
 * Advanced Testing Practices using AWS DevOps Tools at https://www.aws.training/Details/eLearning?id=59874
 
+
+Also, you can see the streamings about the Exam review at
 
 CQ Portal | Exam Review
 https://www.youtube.com/c/CQJohn/videos
