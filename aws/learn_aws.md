@@ -94,12 +94,16 @@ The Digital Cloud Platform and the acloudguru also provide practice exam, but in
 
 
 ## ` How to book the exam and request the 30 minutes accommodation request`
+The ESL+30 accommodation provides 30 minutes extra for all non native-speakers of the exam language. 
+Before to book your AWS Test, you need to request the ESL + 30 accommodation. The ESL30 must be request before schedule the test, in other case you will require to cancel and book it again. 
 
-Before to book your AWS Test, you need to request the ESL + 30 accommodation
 ![ESL+30.jpeg](ESL+30.jpeg)
 
 ![VUE_WITH_ESL+30.png](VUE_WITH_ESL+30.png)
 
 ### ` Book and Take your Exam | The force is with you!~ Good Luck `
+* again, before to book your test get the ESL+30 to get 30 minutes extra in your exam.
+* you can only can reschedule your exam 2 times, 24 before your date ( if not, that will be cancel and lost your money ) 
+* you can cancel it and get your money back!~ 
 https://tutorialsdojo.com/how-to-book-and-take-your-aws-certification-exam-online-saa-c02/
 
