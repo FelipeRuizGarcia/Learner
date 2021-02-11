@@ -23,14 +23,17 @@ https://github.com/aws/aws-codebuild-docker-images#how-to-build-docker-images
 `docker pull amazon/aws-codebuild-local:latest --disable-content-trust=false`
 
 
-3. Once, the build of the codebuild image finished, use the codebuild script to 
+3. Once, the build of the codebuild image finished, use the codebuild script:
+
+`Pro Tip: Use a symbolic link to the script instead of copy it to the working directory. 
+With this approach, you link is pointing to script in the repo.`
 
 https://github.com/aws/aws-codebuild-docker-images/tree/master/local_builds#aws-codebuild-local-builds
 
 Example
 ``` ~/codebuild_build.sh -i aws/codebuild/standard:4.0 -a ./ -b api/buildspec-testing.yml  ```
 
+
 _References_
 
 https://docs.aws.amazon.com/codebuild/latest/userguide/use-codebuild-agent.html
-https://github.com/aws/aws-codebuild-docker-images/tree/master/local_builds
