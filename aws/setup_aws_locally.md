@@ -69,7 +69,7 @@ b68cb7a05de7   aws/codebuild/standard:4.0          "sh -c 'while [ ! -f…"   37
 
 ##### Inspect the aws-codebuild-local
 
-Inspecting the master container, we can see that this is handled by docker-compose.
+Inspecting the master container, we can see that this is handled by docker-compose, and those script arguments are shared as environment variables.
 
 ```
  docker run -it --entrypoint bash amazon/aws-codebuild-local:latest
@@ -80,7 +80,22 @@ LocalBuild  bin  boot  dev  etc  home  lib  lib64  local  media  mnt  opt  proc 
 bash-4.2# cd agent-resources/
 bash-4.2# ls -a
 .  ..  bin  docker-compose-mount-src-dir.yml  docker-compose.yml  local-build-config.yml  start
-bash-4.2# 
+bash-4.2# env
+
+
+
 ```
 
+also you can check the container details with `$ docker inspect #idcontainer `
+
+In the normal state of the master container, we can see that
+
+```
+191             "WorkingDir": "/LocalBuild",
+192             "Entrypoint": [
+193                 "local_build.sh"
+194             ],
+
+```
+there is a local_build.sh script that perform the docker-compose actions.
 
