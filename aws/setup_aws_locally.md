@@ -60,10 +60,10 @@ The master image is the  amazon/aws-codebuild-local:latest, and it orchestrated 
 Such as the below table. ( $docker ps )
 
 ```
-                            COMMAND                  CREATED          STATUS          PORTS                     NAMES
-b68cb7a05de7   aws/codebuild/standard:4.0          "sh -c 'while [ ! -f…"   37 seconds ago   Up 34 seconds                             agent-resources_build_1
-49135b771d41   amazon/aws-codebuild-local:latest   "local_build.sh"         37 seconds ago   Up 36 seconds   0.0.0.0:55018->3000/tcp   agent-resources_agent_1
-9f5ed0424768   amazon/aws-codebuild-local:latest   "local_build.sh"         39 seconds ago   Up 38 seconds                             master
+                                     COMMAND                  CREATED          STATUS          PORTS                     NAMES
+aws/codebuild/standard:4.0          "sh -c 'while [ ! -f…"   37 seconds ago   Up 34 seconds                             agent-resources_build_1
+amazon/aws-codebuild-local:latest   "local_build.sh"         37 seconds ago   Up 36 seconds   0.0.0.0:55018->3000/tcp   agent-resources_agent_1
+amazon/aws-codebuild-local:latest   "local_build.sh"         39 seconds ago   Up 38 seconds                             master
 
 ```
 
@@ -98,4 +98,13 @@ In the normal state of the master container, we can see that
 
 ```
 there is a local_build.sh script that perform the docker-compose actions.
+
+the script is at 
+
+``` 
+bash-4.2# command -v local_build.sh
+/usr/local/bin/local_build.sh
+bash-4.2# 
+
+```
 
