@@ -108,3 +108,44 @@ bash-4.2#
 
 ```
 
+You can install vim ( or you preferer IDE, to debug the local_build.sh, where is the magic happens ) .
+
+Debugging the script we can see:
+
+```
+bash -x local_build.sh
+...
+
++ '[' TRUE '!=' TRUE ']'                                           
++ cp docker-compose-mount-src-dir.yml customer-specific.yml
++ export CODEBUILD_MOUNT_SRC_DIR=true
++ CODEBUILD_MOUNT_SRC_DIR=true                                     
++ '[' -n '' ']'                                                    
++ '[' '!' -z '' ']'                                                
++ '[' '!' -z '' ']'                                                
++ '[' '!' -z '' ']'                                                
++ docker-compose -f customer-specific.yml config --quiet
++ docker-compose -f customer-specific.yml down -v
+Removing agent-resources_build_1 ... done
+Removing agent-resources_agent_1 ... done
+Removing network agent-resources_default
+Removing volume agent-resources_source_volume
+Removing volume agent-resources_user_volume
++ docker-compose -f customer-specific.yml up --abort-on-container-exit
++ tee build_logs                                                   
+Creating network "agent-resources_default" with the default driver
+Creating volume "agent-resources_source_volume" with local driver
+Creating volume "agent-resources_user_volume" with local driver
+Creating agent-resources_agent_1 ... done
+Creating agent-resources_build_1 ... done
+Attaching to agent-resources_agent_1, agent-resources_build_1
+agent_1  | [Container] 2021/02/14 17:03:55 Waiting for agent ping
+agent_1  | [Container] 2021/02/14 17:03:57 Waiting for DOWNLOAD_SOURCE
+agent_1  | [Container] 2021/02/14 17:03:57 Phase is DOWNLOAD_SOURCE 
+agent_1  | [Container] 2021/02/14 17:03:57 CODEBUILD_SRC_DIR=/codebuild/output/src750243314/src
+
+....
+```
+
+In this point we can the docker compose file that enable the agent 
+` + docker-compose -f customer-specific.yml up --abort-on-container-exit `
