@@ -41,7 +41,7 @@ https://docs.aws.amazon.com/codebuild/latest/userguide/use-codebuild-agent.html
 
 
 
-### Advanced | Under Development
+### Codebuild Advanced | Under Development
 The goal of this appendice is discover how to attach the working directory 
 to the build docker image to avoid build the image every time and test the changes
 in the same container quickly.
@@ -147,5 +147,8 @@ agent_1  | [Container] 2021/02/14 17:03:57 CODEBUILD_SRC_DIR=/codebuild/output/s
 ....
 ```
 
-In this point we can the docker compose file that enable the agent 
+In this point we can the docker compose file that enable the agent , that is the docker-compose-mount-src-dir.yml only with a rename.
 ` + docker-compose -f customer-specific.yml up --abort-on-container-exit `
+
+
+
