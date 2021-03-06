@@ -1,6 +1,6 @@
 ### lambda deployment
 
-lambda solo escribe /tmp
+lambda only writes to /tmp
 <br>
 https://stackoverflow.com/questions/48364250/write-to-tmp-directory-in-aws-lambda-with-python
 
