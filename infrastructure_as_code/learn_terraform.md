@@ -11,13 +11,6 @@ https://www.terraform.io/docs/language/providers/requirements.html
 
 https://learn.hashicorp.com/tutorials/terraform/install-cli
 
-```
-Remeber use wokspace
-$ terraform workspace list
-
-Do not touch the tfstate file directly, use the Terraform cli.
-```
-
 
 ### Getting started Quickly with AWS
 
@@ -31,19 +24,41 @@ https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code
 
 
 
-### AWS References
+
+###  Key Concepts
+
+Terraform State
+<br>
+https://www.terraform.io/docs/cli/state/index.html
+
+https://www.terraform.io/docs/language/state/index.html
 
 
-IAM DOC
-https://registry.terraform.io/modules/terraform-aws-modules/iam/aws/latest/submodules/iam-account
+Terraform Import 
+<br>
+https://www.terraform.io/docs/cli/import/index.html
 
 
-https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_account_password_policy#max_password_age
+Terraform Plan
+<br>
+https://www.terraform.io/docs/cli/commands/plan.html
+
+
+Terraform Workspace
+<br>
+https://dzone.com/articles/manage-multiple-environments-with-terraform-worksp
 
 
 
+### Best Practices
 
-### Best Practices and Concepts
+```
+Remember use wokspace
+$ terraform workspace list
+
+Do not touch the tfstate file directly, use the Terraform cli.
+```
+
 
 https://www.terraform-best-practices.com/naming
 
@@ -63,19 +78,6 @@ https://github.com/antonbabenko/terraform-best-practices/tree/master/examples
 https://www.terraform-best-practices.com/code-styling
 
 
-https://www.terraform.io/docs/language/state/index.html
-
-
-Terraform Import 
-<br>
-https://www.terraform.io/docs/cli/import/index.html
-
-
-terraform plan
-<br>
-https://www.terraform.io/docs/cli/commands/plan.html
-
-
 
 
 ### Best Practices Videos
@@ -90,7 +92,6 @@ https://youtu.be/bdnH9BMcCUw
 
 
 
-
 ### COURSES
 
 https://platzi.com/cursos/devops-terraform/
@@ -98,9 +99,7 @@ https://platzi.com/cursos/devops-terraform/
 https://github.com/muchikon/terraform
 
 
-
-
-### Workshop
+### Workshops
 
 https://github.com/antonbabenko/terraform-best-practices-workshop
 
@@ -111,7 +110,6 @@ https://github.com/antonbabenko/terraform-best-practices-workshop
 https://github.com/bridgecrewio/terragoat/
 
 https://medium.com/bridgecrew/terragoat-vulnerable-by-design-terraform-training-by-bridgecrew-524b50728887
-
 
 
 
@@ -198,9 +196,24 @@ https://anthony-f-tannous.medium.com/set-up-terraform-cloud-to-work-with-aws-loc
 https://geekrodion.com/blog/localstack-terraform
 
 
-
-
 ### AWS Modules
 
 https://github.com/terraform-aws-modules
 Collection of Terraform AWS modules supported by the community
+
+
+
+### AWS References
+
+
+IAM DOC
+https://registry.terraform.io/modules/terraform-aws-modules/iam/aws/latest/submodules/iam-account
+
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_account_password_policy#max_password_age
+
+
+
+
+
+
