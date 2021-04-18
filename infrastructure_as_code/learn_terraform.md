@@ -53,13 +53,16 @@ https://dzone.com/articles/manage-multiple-environments-with-terraform-worksp
 ### Best Practices
 
 ```
-Remember use wokspace
-$ terraform workspace list
-
 Do not touch the tfstate file directly, use the Terraform cli.
 ```
 
 
+Use Workspace
+<br>
+https://dzone.com/articles/manage-multiple-environments-with-terraform-worksp
+
+Naming
+<br>
 https://www.terraform-best-practices.com/naming
 
 
