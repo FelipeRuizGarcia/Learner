@@ -23,3 +23,18 @@ Pytest provides a monkeypatch fixture to replace values and behaviors at runtime
 
 #### Test Parametrization
 #### Test Marks
+
+```
+
+## Debug Pytest
+
+
+```
+Instead of
+> import pdb; pdb.set_trace()
+$ python3 -m pdb
+
+Use
+> import pytest; pytest.set_trace()
+$ python3 -m pytest
+```
