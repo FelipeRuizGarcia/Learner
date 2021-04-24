@@ -15,6 +15,7 @@ https://www.microsoft.com/en-gb/software-download/windows10ISO
 
 
 Selecciona la opcion de 64 Bit
+
 ![image](https://user-images.githubusercontent.com/14207635/115975224-34233500-a563-11eb-8021-ca379603bb4d.png)
 
 
