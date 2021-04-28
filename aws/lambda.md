@@ -12,3 +12,10 @@ use lambda layers to handle the dependencies
 <br>
 https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html
 
+
+
+
+## Utilities
+
+#### chrome-aws-lambda
+https://github.com/alixaxel/chrome-aws-lambda
