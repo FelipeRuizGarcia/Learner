@@ -9,6 +9,8 @@ https://www.aws.training/LearningLibrary
 
 i.e
 
+* This is my **Architecture** playlist https://youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb
+
 * AWS Well-Architected Tool at https://www.aws.training/Details/eLearning?id=41984
 
 * Exam Readiness: AWS Certified Solutions Architect – Associate (Digital) at https://www.aws.training/Details/Curriculum?id=20685
