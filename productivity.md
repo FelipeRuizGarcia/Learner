@@ -1,5 +1,5 @@
 # Productivity
-### All the strategies, tools, and that I use to be focused and productive.
+### All the strategies, habits, tools that I use to be productive.
 
 
 _"I often say that when you can measure what you are speaking about, 
@@ -27,3 +27,13 @@ https://clockify.me/tracker
 Browser Extension, Mobile App to focus timeframe ( or stopwatch ) windows and block other apps ( or websites ).
 <br>
 https://www.forestapp.cc/
+
+
+### Strategies and Habits
+* Order -> cleanliness -> discipline -> Results.
+* Order like: "Is this Rock song in the right playlist?"
+* Cleanliness like: "This Rock song do not like anymore, should I remove from the Playlist ?"
+
+##### Other Habits
+* shower with cold water
+* ginger
