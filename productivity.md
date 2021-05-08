@@ -37,3 +37,7 @@ https://www.forestapp.cc/
 ##### Other Habits
 * shower with cold water
 * ginger
+
+
+### Blogs | Must
+https://medium.com/nowports-freight/c%C3%B3mo-mejorar-tu-productividad-mientras-desarrollas-tu-primera-empresa-292df71d2d91
