@@ -1,4 +1,17 @@
-# Business Rates
+# Startup
+
+
+### Mentorship
+
+
+##### Articles References
+
+Launching a company | Podcast
+<br>
+https://latamlist.com/bismarck-lepe-wizeline-building-world-class-startups-from-mexico-and-silicon-valley-ep-141/
+
+
+## Business Rates
 
 All the strategies, tools, and that I use to be define rates and close deals.
 
