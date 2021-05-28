@@ -1,11 +1,12 @@
 # Credits
 
-AWS provides credits for you
+AWS provides credits for you, sometimes in webinars, giving feedback, workshops and requests.
+<br>
+https://aws.amazon.com/awscredits/
 
 Founder } Higher $$$
 <br>
 https://aws.amazon.com/es/activate/founders/
-
 
 POC |  300 USD
 <br> 
