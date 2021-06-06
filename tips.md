@@ -2,6 +2,10 @@ Tips:
 
 ` the cost of being wrong is less than the cost of doing nothing -Seth Godin `
 
+* About your learning, Think in long term: Invest time to follow the best practices.
+Formalize your learning with the best practices. 
+If you think is not necessary at that time, I can  assure you that what you are doing will be repeated in one way or another, so, be ready for that. Why ? So, you do not have time to do things in the best way, but you can do it two o more time? 
+
 * Think global, even the development is for a short time period 
 or the scope is limited:
 Once you think globally, 
