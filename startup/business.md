@@ -20,6 +20,8 @@ All the strategies, tools, and that I use to be define rates and close deals.
 ##### Tips
 
 * Look for 60% of the total paid in advance.
+* ALWAYS sign a contract that includes features, uses cases, 
+clauses
 
 ##### Videos References
 
