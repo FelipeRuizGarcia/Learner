@@ -7,3 +7,11 @@
 
 #### Add the Epel Repo packages to dnf/yum
 ` dnf install epel-release  -y `
+
+
+#### Making dnf/yum Not Update Certain Packages
+```
+/etc/dnf/dnf.conf:
+exclude=kernel* nss nss-*
+```
+https://www.systutorials.com/making-dnf-yum-not-update-certain-packages/
