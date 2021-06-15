@@ -1,12 +1,20 @@
 # Testing with Pytest and Unittest
 
-Test Key Concepts, make sure to understand those in great detail.
-```
-Mock
-Patch
+#### Key Concepts
+Test Key Concepts: make sure to understand those in great detail.
+* Mock
+https://docs.python.org/3/library/unittest.mock.html#quick-guide
+
+* Patch
+https://docs.python.org/3/library/unittest.mock.html#where-to-patch
+
+    * Patch Decorators
+    https://docs.python.org/3/library/unittest.mock-examples.html#patch-decorators
+    
 Monkeypatch
+
 Fixture
-```
+
 
 #### Pytest
 
