@@ -21,6 +21,14 @@ https://www.digitalocean.com/community/tutorials/how-to-use-unittest-to-write-a-
 * setUp() method
 * tearDown()
 
+#### Types of testing
+
+https://realpython.com/python-testing/#unit-tests-vs-integration-tests
+
+* Unit Test
+* Integration Tests
+* Functional Test
+
 
 ### Pytest
 
