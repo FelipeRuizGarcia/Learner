@@ -11,10 +11,16 @@ https://docs.python.org/3/library/unittest.mock.html#where-to-patch
     * Patch Decorators
     https://docs.python.org/3/library/unittest.mock-examples.html#patch-decorators
     
-Monkeypatch
+Monkeypatch 
 
 Fixture
 
+TestCase | from unittest
+<br>
+https://www.digitalocean.com/community/tutorials/how-to-use-unittest-to-write-a-test-case-for-a-function-in-python#defining-a-testcase-subclass
+
+* setUp() method
+* tearDown()
 
 #### Pytest
 
