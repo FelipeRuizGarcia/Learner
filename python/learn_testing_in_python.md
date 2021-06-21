@@ -18,11 +18,11 @@ Fixture
 TestCase | from unittest
 <br>
 https://www.digitalocean.com/community/tutorials/how-to-use-unittest-to-write-a-test-case-for-a-function-in-python#defining-a-testcase-subclass
-
 * setUp() method
 * tearDown()
 
-#### Pytest
+
+### Pytest
 
 Fixtures
 pytests looks for the  `conftest.py` file in the file tree directory
@@ -66,3 +66,6 @@ Read and get your hands dirty to master the key concepts
 https://realpython.com/python-mock-library/
 <br>
 https://realpython.com/pytest-python-testing/
+<br>
+https://www.digitalocean.com/community/tutorials/how-to-use-unittest-to-write-a-test-case-for-a-function-in-python
+
