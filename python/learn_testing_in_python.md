@@ -13,7 +13,9 @@ https://docs.python.org/3/library/unittest.mock.html#where-to-patch
     
 Monkeypatch 
 
-Fixture
+Fixture | from Pytests
+<br>
+https://docs.pytest.org/en/latest/explanation/fixtures.html#what-fixtures-are
 
 TestCase | from unittest
 <br>
