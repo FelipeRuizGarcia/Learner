@@ -12,6 +12,11 @@ Design Delivery
 https://blog.zeplin.io/design-delivery-isnt-new-it-s-just-more-important-than-ever-9f6bc9cf6445
 
 
+Infographic
+<br>
+https://venngage.com/blog/what-is-an-infographic/
+
+
 ### Tips
 
 * Use third party libraries to build the mockups:
