@@ -24,6 +24,9 @@ https://aws.github.io/chalice/tutorials/basicrestapi.html
 https://aws.github.io/chalice/samples/todo-app/index.html
 
 
+##### Config File
+https://aws.github.io/chalice/topics/configfile.html#
+
 
 ##### Testing
 https://aws.amazon.com/blogs/developer/introducing-the-new-test-client-for-aws-chalice/
