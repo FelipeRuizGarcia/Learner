@@ -125,7 +125,17 @@ https://github.com/shuaibiyy/awesome-terraform
 
 ### Tools and Integrations
 
+https://github.com/cloudskiff/driftctl
+<br>
+Measures infrastructure as code coverage, and tracks infrastructure drift.
 
+https://github.com/infracost/infracost
+<br>
+Infracost shows cloud cost estimates for infrastructure-as-code projects such as Terraform. It helps DevOps, SRE and developers to quickly see a cost breakdown and compare different options upfront.
+
+https://github.com/iann0036/iamlive
+<br>
+Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
 
 https://github.com/runatlantis/atlantis
 <br>
