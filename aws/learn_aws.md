@@ -23,6 +23,7 @@ i.e
 Also, you can see the streamings about the Exam review at
 
 CQ Portal | Exam Review
+The AWS Architects answer the AWS certification exam in the Stream!!! there are many things 
 https://www.youtube.com/c/CQJohn/videos
 
 
@@ -45,6 +46,8 @@ i.e for VPC
 ## ` Non Official Notes / 101 / AWS Sheets `
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/
+<br>
+Note: the AWS test on this course is really accurate with the REAL AWS test.
 
 https://tutorialsdojo.com/aws-cheat-sheets/
 
