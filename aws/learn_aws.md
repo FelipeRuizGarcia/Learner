@@ -43,7 +43,11 @@ i.e for VPC
 * https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/introduction.html
 
 
-## ` Non Official Notes / 101 / AWS Sheets `
+## ` Non Official Guides / Notes / 101 / AWS Sheets `
+
+https://github.com/open-guides/og-aws
+<br>
+The Open Guide to Amazon Web Services
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/
 <br>
