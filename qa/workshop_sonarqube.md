@@ -67,7 +67,7 @@ It Works!
 
 ## Configure your Github app
 
-http://localhost:9000/documentation/analysis/github-integration/#importing-your-github-repositories-to-sonarqube
+https://docs.sonarqube.org/latest/analysis/github-integration/
 
 log in github and go to
 Settings > Developer .. > Github apps > New
