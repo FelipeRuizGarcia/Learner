@@ -34,7 +34,7 @@ Define some variable env / secret
     docker inspect -f '{{range.NetworkSettings.Networks}}{{.IPAddress}}{{end}}' sonarqube
 
 ```
-$ export SONAR_PROJECTKEY="test"
+$ export SONAR_PROJECT_KEY="test"
 $ export SONARQUBE_URL=< IP >:9000
 $ export TOKEN=< YOUR TOKEN >
 $ export YOUR_REPO=/home/pipo/repos/workshop_sonarqube
@@ -46,7 +46,7 @@ run the scanner
         --rm \
         -e SONAR_HOST_URL="http://${SONARQUBE_URL}" \
         -e SONAR_LOGIN="${TOKEN}" \
-        -e SONAR_PROJECTKEY"${SONAR_PROJECTKEY}" \
+        -e SONAR_PROJECTKEY"${SONAR_PROJECT_KEY}" \
         -v "${YOUR_REPO}:/usr/src" \
         sonarsource/sonar-scanner-cli -X -Dsonar.projectKey=${SONAR_PROJECT_KEY}
 
@@ -56,6 +56,9 @@ lets use -X to see the full log
 Now, we are able to analyze the project, lets go to view the report | http://127.0.0.1:9000/projects
 
 Lets introduce some code smells in your dummy python code.
+Now lets clone https://github.com/sobolevn/python-code-disasters and run some analysis
+
+It Works!
 
 ### Its the time Kahoot, get your katana ready
 
