@@ -74,7 +74,7 @@ https://docs.github.com/en/developers/apps/building-github-apps/creating-a-githu
 
 ####  Whats next
 
-If it runs on Docker.... it runs on Github Actions :P
+If it runs on Docker.... it runs on Github Actions, and under Kubernetes :P
 
 Next > Github Actions with Sonarqube for the CI/CD
 github-integration/#analyzing-projects-with-github-actions
