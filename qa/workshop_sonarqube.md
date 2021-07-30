@@ -66,6 +66,9 @@ It Works!
 # Workshop #2 Goal: Run sonarqube with docker to analyze a Github repo / Org
 
 ## Configure your Github app
+
+http://localhost:9000/documentation/analysis/github-integration/#importing-your-github-repositories-to-sonarqube
+
 log in github and go to
 Settings > Developer .. > Github apps > New
 
@@ -81,19 +84,3 @@ If it runs on Docker.... it runs on Github Actions, and under Kubernetes :P
 
 Next > Github Actions with Sonarqube for the CI/CD
 github-integration/#analyzing-projects-with-github-actions
-
-
-#### References
-
-https://docs.sonarqube.org/latest/setup/get-started-2-minutes/
-
-Github Apps
-https://docs.github.com/en/developers/apps/building-github-apps/creating-a-github-app
-
-
-Docker Hub
-https://hub.docker.com/r/sonarsource/sonar-scanner-cli
-
-
-Workaround for the IP issue
-https://github.com/luisaveiro/localhost-sonarqube/issues/5
