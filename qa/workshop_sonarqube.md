@@ -1,4 +1,4 @@
-# Goal: Run sonarqube with docker to analyze a python project
+# Workshop #1 Goal: Run sonarqube with docker to analyze a python project
 
 * WTF is SonarQube
 https://docs.sonarqube.org/latest/
@@ -53,6 +53,27 @@ run the scanner
 lets use -X to see the full log
 
 
+Now, we are able to analyze the project.
+
+
+# Workshop #2 Goal: Run sonarqube with docker to analyze a Github repo / Org
+
+## Configure your Github app
+log in github and go to
+Settings > Developer .. > Github apps > New
+
+https://github.com/settings/apps/new
+
+You can configure that according
+https://docs.github.com/en/developers/apps/building-github-apps/creating-a-github-app
+
+
+####  Whats next
+
+If it runs on Docker.... it runs on Github Actions :P
+
+Next > Github Actions with Sonarqube for the CI/CD
+github-integration/#analyzing-projects-with-github-actions
 
 
 #### References
@@ -69,22 +90,3 @@ https://hub.docker.com/r/sonarsource/sonar-scanner-cli
 
 Workaround for the IP issue
 https://github.com/luisaveiro/localhost-sonarqube/issues/5
-
-
-## Configure your Github app
-log in github and go to
-Settings > Developer .. > Github apps > New
-
-https://github.com/settings/apps/new
-
-You can configure that according
-https://docs.github.com/en/developers/apps/building-github-apps/creating-a-github-app
-
-
-
-####  Whats next
-
-If it runs on Docker.... it runs on Github Actions :P
-
-Next > Github Actions with Sonarqube for the CI/CD
-github-integration/#analyzing-projects-with-github-actions
