@@ -1,7 +1,7 @@
 # Workshop #1 Goal: Run sonarqube with docker to analyze a python project
 
-* WTF is SonarQube
-https://docs.sonarqube.org/latest/
+* WTF is SonarQube | https://docs.sonarqube.org/latest/
+* Overview SonarScanner | https://docs.sonarqube.org/latest/analysis/overview/
 
 ## Set up SonarQube with Docker
 
@@ -17,7 +17,7 @@ run the instance
 
 ## Configure the Repo manual on the Sonaqube server
 
-Create the project and the Token
+Go to http://127.0.0.1:9000 Configure the password, create the project and the Token:
 
 
 ## Set up the Scanner with Docker
