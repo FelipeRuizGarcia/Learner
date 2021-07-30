@@ -22,7 +22,8 @@ Go to http://127.0.0.1:9000 Configure the password, create the project and the T
 
 ## Set up the Scanner with Docker
 
-The scanner
+The scanner | 
+https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/
 
     docker pull sonarsource/sonar-scanner-cli
 
@@ -35,8 +36,8 @@ Define some variable env / secret
 ```
 $ export SONAR_PROJECTKEY="test"
 $ export SONARQUBE_URL=< IP >:9000
-$ export TOKEN=0a8592ea4b3a2a7f6976cb20cca4a32506792279
-$ export YOUR_REPO=/home/pipo/repos/personal/workshop_chalice/workshop-intro
+$ export TOKEN=< YOUR TOKEN >
+$ export YOUR_REPO=/home/pipo/repos/workshop_sonarqube
 ```
 
 run the scanner
