@@ -53,8 +53,11 @@ run the scanner
 
 lets use -X to see the full log
 
-
 Now, we are able to analyze the project, lets go to view the report | http://127.0.0.1:9000/projects
+
+Lets introduce some code smells in your dummy python code.
+
+### Its the time Kahoot, get your katana ready
 
 
 # Workshop #2 Goal: Run sonarqube with docker to analyze a Github repo / Org
