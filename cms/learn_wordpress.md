@@ -23,6 +23,8 @@ First 3 months free
 |[WordPress with NGINX and SSL Certified by Bitnami and Automattic](https://aws.amazon.com/marketplace/pp/prodview-s6cuqgfczpuwm) | $0.019/hr with t3a.small($0.0188) |
 |[WordPress Certified by Bitnami and Automattic](https://aws.amazon.com/marketplace/pp/prodview-bzstv3wbn5wkq) | $0.019/hr with t3a.small($0.0188) |
 
+Note: Free Tier
+EC2 charges for Micro instances are free for up to 750 hours a month if you qualify for the AWS Free Tier.
 
 ### References:
 
