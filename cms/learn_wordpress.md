@@ -15,6 +15,13 @@ https://hub.docker.com/_/wordpress
 
 ##### Launch and configure a WordPress instance with Amazon Lightsail
 https://aws.amazon.com/getting-started/hands-on/launch-a-wordpress-website/
+First 3 months free
+
+##### AWS Marketplace AMIS
+| AMI | Price per Hour in us-east-1 |
+| ----| -------------- | 
+|[WordPress with NGINX and SSL Certified by Bitnami and Automattic](https://aws.amazon.com/marketplace/pp/prodview-s6cuqgfczpuwm) | $0.019/hr with t3a.small($0.0188) |
+|[WordPress Certified by Bitnami and Automattic](https://aws.amazon.com/marketplace/pp/prodview-bzstv3wbn5wkq) | $0.019/hr with t3a.small($0.0188) |
 
 
 ### References:
