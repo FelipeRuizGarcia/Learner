@@ -6,5 +6,5 @@ https://docs.github.com/en/actions/learn-github-actions/introduction-to-github-a
 
 Event-driver:
 
-Event >  Workflow >  Job >  Steps ( PreBuilt Action or shell command )
+Event >  Workflow >  Job >  Steps ( Action or shell command )
 
