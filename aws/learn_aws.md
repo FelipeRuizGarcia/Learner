@@ -62,6 +62,10 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 
 ## ` Courses `
 
+#### Free / AWS Cloud for Beginners
+https://kodekloud.com/courses/aws-cloud-for-beginners/
+
+
 #### Acloudguru Free Trial
 https://learn.acloud.guru/course/aws-certified-solutions-architect-associate/dashboard
 
