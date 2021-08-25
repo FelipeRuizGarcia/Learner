@@ -26,3 +26,10 @@ Product Manager vs. Product Owner vs. Project Manager
 https://www.scrum.org/resources/blog/product-owner-vs-project-manager
 <br>
 https://www.aha.io/blog/product-manager-vs-product-owner-vs-project-manager
+
+
+
+
+### Feedback
+
+https://trello.com/templates/engineering/sprint-retrospectives-hkaQsLWx
