@@ -37,6 +37,9 @@ https://www.angellist.com/
 
 https://angel.co/
 
+https://www.svangel.com/
+
+https://bowerycap.com/
 
 
 # Platforms for Networking
