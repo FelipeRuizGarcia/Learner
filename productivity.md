@@ -15,6 +15,30 @@ If you can not meausure it, you can not control it "_
 \- Lord Kelvin
 
 
+# Shortcuts
+If you realize that you follow a process twice, you should learn a shortcut / automation to do it quickly.
+Investing in speed your workflow is saving time in the future:
+All the softwares provides shortcuts, from Excel until Youtube. 
+
+
+I really suggest learn the key shortcuts from layers, ( like OSI model ):
+
+First, make sure you are able to type fast.
+
+i.e
+L0: OS shortcuts: Like copy, paste, select all, delete, change the focus from other windows, resize the windows, change to full screen, etc etc...
+Typing: how to delete the entere word?
+
+L1: Apps: Chrome? Firefox ?: Close tab, move tab, change to tab, duplicat tab etc etc...
+L2? website: Google sheets? : how to insert the time
+L3? Plugings, frameworks:  You can also add pluging to extend the behaviors and shortcuts available.
+
+Follow the process and automate what you want.
+
+
+
+#### The intention is not use the mouse, and go directly that you want.
+
 ### Tools
 
 #### clockify
