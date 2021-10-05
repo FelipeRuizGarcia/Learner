@@ -66,6 +66,7 @@ To save the changes on the current state, and you could apply those to know "wha
 
 
 Define the type variables
+Use bvariables to hide secrets
 
 
 Use Workspace
