@@ -57,7 +57,12 @@ Do not touch the tfstate file directly, use the Terraform cli.
 ```
 
 To save the changes on the current state, and you could apply those to know "what change" 
-``` terraform plan -out out.terraform ```
+``` 
+    terraform plan -out out.terraform 
+
+    terraform apply out.terraform
+
+```
 
 
 Use Workspace
