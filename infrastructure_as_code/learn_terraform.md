@@ -67,7 +67,7 @@ To save the changes on the current state, and you could apply those to know "wha
     terraform apply out.terraform
 
 ```
-
+Do not save the terraform.tfvars in the scm.
 
 Define the type variables
 Use bvariables to hide secrets
