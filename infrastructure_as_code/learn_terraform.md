@@ -65,6 +65,9 @@ To save the changes on the current state, and you could apply those to know "wha
 ```
 
 
+Define the type variables
+
+
 Use Workspace
 <br>
 https://dzone.com/articles/manage-multiple-environments-with-terraform-worksp
