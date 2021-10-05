@@ -49,6 +49,10 @@ Terraform Workspace
 https://dzone.com/articles/manage-multiple-environments-with-terraform-worksp
 
 
+Terraform Functions
+<br>
+https://www.terraform.io/docs/language/functions/lookup.html
+
 
 ### Best Practices
 
