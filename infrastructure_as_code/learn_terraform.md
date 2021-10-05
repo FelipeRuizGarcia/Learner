@@ -56,6 +56,9 @@ https://dzone.com/articles/manage-multiple-environments-with-terraform-worksp
 Do not touch the tfstate file directly, use the Terraform cli.
 ```
 
+To save the changes on the current state, and you could apply those to know "what change" 
+``` terraform plan -out out.terraform ```
+
 
 Use Workspace
 <br>
