@@ -12,7 +12,7 @@ https://learn.hashicorp.com/tutorials/terraform/packer
 
 
 **AMI's**
-AWS AMI names must be unique: In your packer template
+AWS AMI names must be unique: In your packer variables,
 use `locals` block to create a formatted timestamp to keep your AMI name unique.
 
 ```
