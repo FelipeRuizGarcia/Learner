@@ -18,3 +18,8 @@ use `locals` block to create a formatted timestamp to keep your AMI name unique.
 ```
 locals { timestamp = regex_replace(timestamp(), "[- TZ:]", "") }
 ```
+
+
+### References
+
+https://www.sentiatechblog.com/ec2-image-builder-vs-packer
