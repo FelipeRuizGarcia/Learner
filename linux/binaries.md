@@ -8,4 +8,4 @@ whereis vim
 
 ```
 
-`type` to see if is command of builtin
+`type` to see if is command of builtin, shell function, alias, etc
