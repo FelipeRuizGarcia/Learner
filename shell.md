@@ -1,3 +1,5 @@
+`type` to see if is command of builtin, shell function, alias, etc
+
 #### where is the bin ?
 ```
 command -v vim
@@ -8,7 +10,10 @@ whereis vim
 
 ```
 
-`type` to see if is command of builtin, shell function, alias, etc
+put `\` before the command to execute Non alias
+```
+\dirma
+\rm
+```
 
-
-put `\` to execute Non alias
+Put a space before the command to avoid log it in the history.
