@@ -14,6 +14,11 @@ If you can not meausure it, you can not control it "_
 <br>
 \- Lord Kelvin
 
+# Habits
+2 minutes mind hack, from the atomic habits book
+
+# Discipline
+"your repetition is your reputation"
 
 # Shortcuts
 If you realize that you follow a process twice, you should learn a shortcut / automation to do it quickly.
