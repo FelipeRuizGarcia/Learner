@@ -33,3 +33,8 @@ https://www.aha.io/blog/product-manager-vs-product-owner-vs-project-manager
 ### Feedback
 
 https://trello.com/templates/engineering/sprint-retrospectives-hkaQsLWx
+
+
+
+# Shape UP
+https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles
