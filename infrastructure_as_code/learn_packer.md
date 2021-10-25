@@ -10,6 +10,7 @@ https://learn.hashicorp.com/tutorials/terraform/packer
 
 ### Best Practices
 
+`pull=false` to use a local image / artifact 
 
 **AMI's**
 AWS AMI names must be unique: In your packer variables,
