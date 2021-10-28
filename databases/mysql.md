@@ -6,3 +6,8 @@
 
 #### History
 `~/.mysql_history`
+
+
+
+#### miscellaneous
+`0.0.0.0` does not work given priviledges, use `%` instead.
