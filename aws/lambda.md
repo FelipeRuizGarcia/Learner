@@ -14,6 +14,13 @@ https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html
 
 
 
+#### Concurrency
+
+Reserved Concurrency(RC) vs Provisioned Concurrency (PR)
+https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html
+
+https://docs.aws.amazon.com/lambda/latest/dg/provisioned-concurrency.html
+
 
 ## Utilities
 
