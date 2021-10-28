@@ -1,3 +1,9 @@
+## Articles
+
+### SRE Principles
+
+https://www.blameless.com/sre/sre-principles
+
 
 https://medium.com/ibm-garage/building-sre-from-scratch-485e23985bbd
 
