@@ -13,3 +13,19 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 https://k8slens.dev/
 <br>
 IDE to take control of your Kubernetes clusters. 
+
+
+#### Helm
+
+
+
+##### Helmfile
+
+https://github.com/roboll/helmfile/blob/master/docs/writing-helmfile.md
+<br>
+Best Practices writing helmfiles
+
+https://lyz-code.github.io/blue-book/devops/helmfile/
+
+
+https://github.com/roboll/helmfile
