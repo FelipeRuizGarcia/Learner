@@ -1,4 +1,9 @@
-#### Add the dev group packages
+## Fedora Handling Packages
+` sudo rpm --install my.rpm --force ` To overwrite and force the pkg instalation
+
+
+
+## Add the dev group packages
 ##### Fedora/Centos:
 ` dnf groupinstall "Development Tools" -y `
 
