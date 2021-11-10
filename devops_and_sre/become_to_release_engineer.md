@@ -21,6 +21,11 @@ Artifacts are tested and best version of new build is deployed to prod! :
 We have test results to make the best decision which and when release. 
 
 
+### Hermetic Builds
+The Artifact: the build of the product are only dependent on the known
+version of compilers, dependencies, etc.
+
+
 ### Others
 
 * Identifiability: Identify all the necessary tools, envs, Artifacts + all things requried for a product release.
