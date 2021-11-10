@@ -14,6 +14,21 @@ Build and deployment tools are truly automatic and only require
 involvement if and when problems arise.
 
 
+### High Velocity
+
+
+
+
+### Others
+
+* Identifiability: Identify all the necessary tools, envs, all things requried for a product release.
+* Reproducibility:
+* Consistency:
+* Agility:
+
+
+#### Core 
+
 ## Blogs
 
 
