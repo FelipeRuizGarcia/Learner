@@ -8,7 +8,7 @@ pushing out new releases without interrupting services, and rolling back feature
 ## TLDR Concepts
 
 ### Self Service Model
-Teams must be self-sufficient.
+IN ORDER TO SCALE, Teams must be self-sufficient.
 All the product releases should be automated using the necessary tools.
 Build and deployment tools are truly automatic and only require
 involvement if and when problems arise.
