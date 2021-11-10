@@ -1,6 +1,11 @@
 # K8
 
 
+### Video Courses
+
+https://youtu.be/X48VuDVv0do
+
+
 ### K8's Clusters
 
 https://kind.sigs.k8s.io/
