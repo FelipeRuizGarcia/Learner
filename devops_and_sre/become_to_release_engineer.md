@@ -22,6 +22,7 @@ We have test results to make the best decision which and when release.
 
 
 ### Hermetic Builds
+we expect identical results in same Inputs.
 The Artifact: the build of the product are only dependent on the known
 version of compilers, dependencies, etc.
 
