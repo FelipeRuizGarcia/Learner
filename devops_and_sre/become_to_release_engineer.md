@@ -15,8 +15,9 @@ involvement if and when problems arise.
 
 
 ### High Velocity
-
-
+Small changes per version!.
+Releases quickly and frequently.
+Artifacts are tested and best version of new build is deployed to prod!.
 
 
 ### Others
