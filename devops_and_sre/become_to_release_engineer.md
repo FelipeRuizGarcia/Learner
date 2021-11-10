@@ -10,6 +10,8 @@ pushing out new releases without interrupting services, and rolling back feature
 ### Self Service Model
 Teams must be self-sufficient.
 All the product releases should be automated using the necessary tools.
+Build and deployment tools are truly automatic and only require
+involvement if and when problems arise.
 
 
 ## Blogs
