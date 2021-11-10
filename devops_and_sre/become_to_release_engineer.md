@@ -30,8 +30,10 @@ The build process is self-contained and must not rely on services that are
 external to the build env.
 
 ### Enforcement of Policies and Procedures
-Who can do this operation ?
+Who can do this operation ? Which resources will be impacted ? 
 We track all the operations, with security and access control.
+We have reports with all the changes in the release that is archived with the artifacts.
+Those reports are super useful for troubleshooting.
  
 
 ### Others
