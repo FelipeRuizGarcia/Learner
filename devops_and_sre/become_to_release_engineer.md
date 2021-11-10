@@ -29,6 +29,10 @@ and INSENSITIVE with other libraries and bin in the build machine.
 The build process is self-contained and must not rely on services that are
 external to the build env.
 
+### Enforcement of Policies and Procedures
+Who can do this operation ?
+We track all the operations, with security and access control.
+ 
 
 ### Others
 
