@@ -21,10 +21,10 @@ involvement if and when problems arise.
 
 ### Others
 
-* Identifiability: Identify all the necessary tools, envs, all things requried for a product release.
-* Reproducibility:
-* Consistency:
-* Agility:
+* Identifiability: Identify all the necessary tools, envs, Artifacts + all things requried for a product release.
+* Reproducibility: Able to integrate sources, data, third-party and deployment externals of sw.
+* Consistency: Have stable framework to be consistent.
+* Agility: Implement the best engineering practices in the sw cycle's productivity.
 
 
 #### Core 
