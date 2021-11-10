@@ -17,7 +17,8 @@ involvement if and when problems arise.
 ### High Velocity
 Small changes per version!.
 Releases quickly and frequently.
-Artifacts are tested and best version of new build is deployed to prod!.
+Artifacts are tested and best version of new build is deployed to prod! :
+We have test results to make the best decision which and when release. 
 
 
 ### Others
