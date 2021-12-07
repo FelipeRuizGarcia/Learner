@@ -100,6 +100,12 @@ The best official mock test is the official `Practice exam` provide by AWS.
 
 https://aws.amazon.com/certification/certified-solutions-architect-associate/
 
+
+#### Third Party portals
+
+https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english
+
+
 https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/
 
 
