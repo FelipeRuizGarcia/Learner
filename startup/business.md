@@ -6,6 +6,9 @@
 
 ##### Articles References
 
+Marketing & Innovation by Scott Galloway
+https://www.profgalloway.com/
+
 Launching a company | Podcast
 <br>
 https://latamlist.com/bismarck-lepe-wizeline-building-world-class-startups-from-mexico-and-silicon-valley-ep-141/
