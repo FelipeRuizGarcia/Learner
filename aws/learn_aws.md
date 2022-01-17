@@ -3,13 +3,17 @@
 
 ## ` AWS Cert Quiz | Review | Analysis | Community ` 
 
-The best resources are those that AWS provides in the `AWS Trainining` at 
+The best resources are those that AWS provides in
+<br>
 https://www.aws.training/LearningLibrary
-
+<br>
+https://explore.skillbuilder.aws/learn/
 
 i.e
 
 * This is my **Architecture** playlist https://youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb
+
+* __AWS Well-Architected__  https://explore.skillbuilder.aws/learn/course/external/view/elearning/2045/aws-well-architected
 
 * AWS Well-Architected Tool at https://www.aws.training/Details/eLearning?id=41984
 
