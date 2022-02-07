@@ -1,3 +1,8 @@
+### Monitors
+https://uptimerobot.com/
+Get 50 monitors with 5-minute checks totally FREE.
+Status Page.
+
 https://opstrace.com/
 <br>
 Features never hidden behind a paywall. Authentication, authorization,
