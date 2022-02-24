@@ -11,3 +11,6 @@
 
 #### miscellaneous
 `0.0.0.0` does not work given priviledges, use `%` instead.
+
+#### Using the MySQL super_read_only system variable
+https://www.percona.com/blog/2016/09/27/using-the-super_read_only-system-variable/
