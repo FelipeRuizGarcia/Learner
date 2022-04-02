@@ -8,4 +8,4 @@ https://www.pipedrive.com/es/blog/metodo-spin
 
 ** Question to the point
 
-** Put the objections first
+** Put the objections first and prevent those"
