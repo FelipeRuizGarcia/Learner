@@ -10,6 +10,10 @@ An open source game about learning Git!
 
 ### Git Submodules
 
+Git checkout on the parent repo does not change auto to the child repos:
+Once you checkout the desired branch that points to specific commits
+you should point the specific commits with `git submodule init && git submodule update`
+
 https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
 https://dev.to/colinmcd01/git-submodules-gbp
