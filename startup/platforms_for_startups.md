@@ -38,6 +38,8 @@ https://techfounders.com/
 
 ## Investment
 
+https://newchip.com/
+
 Invest deal-by-deal in world-changing startups
 <br>
 https://www.angellist.com/
