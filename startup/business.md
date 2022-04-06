@@ -1,4 +1,5 @@
 # Startup
+"Team, Team, Team, Market, market, progress and idea"
 
 
 ### Mentorship
