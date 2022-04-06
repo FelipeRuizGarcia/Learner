@@ -1,5 +1,8 @@
 ## Incubators / Accelerator
 
+https://www.techstars.com/
+<br>
+
 Accelerator startup
 <br>
 https://sherpastartup.com/
@@ -43,6 +46,9 @@ https://bowerycap.com/
 
 
 # Platforms for Networking
+
+https://www.airmeet.com
+<br>
 
 https://www.linkedin.com/
 
