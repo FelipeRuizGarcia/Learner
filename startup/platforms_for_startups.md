@@ -1,5 +1,9 @@
 ## Incubators / Accelerator
 
+Founder Institute: World's largest pre-seed startup accelerator.
+<br>
+https://fi.co/
+
 https://www.techstars.com/
 <br>
 
