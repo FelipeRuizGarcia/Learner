@@ -1,5 +1,5 @@
 # Learner
- Learn and Share! Always Learning.
+ Learn and Share! Always Learning: My Own Roadmap; Open Source Open Knownledge
 
 This repo includes workshops and references to "how to do something quickly".
 
