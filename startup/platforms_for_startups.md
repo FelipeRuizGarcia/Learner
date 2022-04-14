@@ -44,6 +44,9 @@ https://techfounders.com/
 
 ## Investment
 
+https://www.startengine.com/
+
+
 https://newchip.com/
 
 Invest deal-by-deal in world-changing startups
