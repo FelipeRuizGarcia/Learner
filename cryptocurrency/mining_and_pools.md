@@ -26,3 +26,7 @@ https://prohashing.com
 https://www.binance.com/en/support/faq/9bd21a9536d74d1fb65c83f8e60ded93
 
 https://www.binance.com/en/support/faq/20ba5cf0ce1b4956bda87d8aede5f31d
+
+#### SHA256
+
+https://www.ultimuspool.com
