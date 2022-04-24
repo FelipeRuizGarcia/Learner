@@ -26,3 +26,7 @@ https://docs.aws.amazon.com/lambda/latest/dg/provisioned-concurrency.html
 
 #### chrome-aws-lambda
 https://github.com/alixaxel/chrome-aws-lambda
+
+
+### Cold Boot
+https://www.simform.com/blog/lambda-cold-starts/
