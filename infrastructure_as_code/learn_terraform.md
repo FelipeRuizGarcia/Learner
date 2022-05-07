@@ -243,7 +243,5 @@ https://registry.terraform.io/modules/terraform-aws-modules/iam/aws/latest/submo
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_account_password_policy#max_password_age
 
 
-
-
-
-
+### Debug with TF CLI
+``` export TF_LOG=debug  ```
