@@ -245,3 +245,10 @@ https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/iam_
 
 ### Debug with TF CLI
 ``` export TF_LOG=debug  ```
+
+#### Graph Terraform
+https://www.terraform.io/cli/commands/graph
+
+``` 
+    terraform graph | dot -Tsvg > graph.svg
+```
