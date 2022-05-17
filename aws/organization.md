@@ -23,6 +23,19 @@ best practice AWS environment
 https://aws.amazon.com/organizations/getting-started/best-practices/
 
 
+
+### SCP's
+* Allow List Strategy
+* Deny List Strategy
+
+#### Videos
+
+https://youtu.be/uOrq8ZUuaAQ
+
+
+https://youtu.be/jtKqYM9GjNM
+
+
 ### Example of Org
 
 ![image](https://user-images.githubusercontent.com/14207635/132250175-3e1e8e22-8647-41bd-9927-a82ea4d4ce4a.png)
