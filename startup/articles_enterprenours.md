@@ -8,6 +8,6 @@ R: IF you are PREPARE to FAIL! Getting NOTHING ? Losing Money! you are ready to 
 **Why (are you doing it for the right reasons?)**
 * Not Money: 
 * Power: Forget all the C-levels fancy titles, The customer will get a shit about it SCREAMING as your boss!.
-* 
+* Flexible Time: Results and Deadlines will bring the food! not the free-time.
 
 Wa-How ? 
