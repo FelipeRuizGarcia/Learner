@@ -6,6 +6,8 @@ https://aws.amazon.com/startups/startup-programs/
 
 https://aws.amazon.com/activate/founders/
 
+https://pages.awscloud.com/GLOBAL-startup-LN-startups-website-contact-us-2020-reg.html
+
 
 **YC**
 <br>
