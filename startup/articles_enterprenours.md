@@ -10,4 +10,7 @@ R: IF you are PREPARE to FAIL! Getting NOTHING ? Losing Money! you are ready to 
 * Power: Forget all the C-levels fancy titles, The customer will get a shit about it SCREAMING as your boss!.
 * Flexible Time: Results and Deadlines will bring the food! not the free-time.
 
+**When**
+"Startup timing: Wait until the world changes so that an important problem goes from impossible to just really hard, then execute."
+https://twitter.com/plibin/status/293934918239657984
 Wa-How ? 
