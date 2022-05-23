@@ -13,4 +13,5 @@ R: IF you are PREPARE to FAIL! Getting NOTHING ? Losing Money! you are ready to 
 **When**
 "Startup timing: Wait until the world changes so that an important problem goes from impossible to just really hard, then execute."
 https://twitter.com/plibin/status/293934918239657984
-Wa-How ? 
+
+**Wa-How ?** 
