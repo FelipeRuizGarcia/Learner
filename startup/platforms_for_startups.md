@@ -1,5 +1,14 @@
 ### Programs
 
+**AWS**
+<br>
+https://aws.amazon.com/startups/startup-programs/
+
+https://aws.amazon.com/activate/founders/
+
+
+**YC**
+<br>
 https://www.startupschool.org/
 
 
