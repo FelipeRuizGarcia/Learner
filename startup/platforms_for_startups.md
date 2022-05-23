@@ -2,6 +2,8 @@
 
 **AWS**
 <br>
+https://aws.amazon.com/startups/
+
 https://aws.amazon.com/startups/startup-programs/
 
 
