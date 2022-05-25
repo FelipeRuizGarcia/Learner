@@ -20,3 +20,8 @@ R: IF you are PREPARE to FAIL! Getting NOTHING ? Losing Money! you are ready to 
 https://twitter.com/plibin/status/293934918239657984
 
 **Wa-How ?** 
+
+
+---
+
+https://businessinsider.mx/ycombinator-incubator-advice-founders-startups-economic-downturn-recession-advice-2022-5/?r=US&IR=T
