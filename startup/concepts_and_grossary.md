@@ -11,3 +11,10 @@ https://youtu.be/qp0HIF3SfI4
 https://startupeable.com/glosario/
 
 https://interesante.com/glosario/
+
+
+---
+
+**Sustainable Development Goals (SDGs)**
+
+**iKPIs ("Impact Key Performance Indicators")**
