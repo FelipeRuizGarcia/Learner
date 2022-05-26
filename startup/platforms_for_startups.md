@@ -11,6 +11,11 @@ https://aws.amazon.com/startups/startup-programs/
 <br>
 https://www.startupschool.org/
 
+## Venture Capital
+
+https://angel.co/v/back/latitud/
+
+
 
 ## Incubators / Accelerator
 
