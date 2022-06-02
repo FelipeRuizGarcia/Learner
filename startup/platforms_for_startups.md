@@ -15,6 +15,8 @@ https://www.startupschool.org/
 
 https://angel.co/v/back/latitud/
 
+https://daluscapital.com/
+
 
 
 ## Incubators / Accelerator
