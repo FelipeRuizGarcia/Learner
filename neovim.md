@@ -9,6 +9,8 @@ https://neovim.io/doc/lua-resources/
 
 ### LSP
 
+https://microsoft.github.io/language-server-protocol/
+
 https://neovim.io/doc/lsp/
 
 
