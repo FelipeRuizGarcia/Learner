@@ -18,3 +18,10 @@ https://interesante.com/glosario/
 **Sustainable Development Goals (SDGs)**
 
 **iKPIs ("Impact Key Performance Indicators")**
+
+---
+
+North Star KPI
+
+https://criteriaforsuccess.com/have-you-identified-your-north-star-kpi/
+
