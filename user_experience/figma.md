@@ -2,7 +2,13 @@
 ## Shortcuts
 
 T: Add Text
+
 Ctrl + D: Duplicated Frame
+
+
+### Components
+https://youtu.be/k74IrUNaJVk
+
 
 ### Frames
 https://youtu.be/CxAgmrdQKmI
