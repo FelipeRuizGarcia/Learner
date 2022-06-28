@@ -19,6 +19,9 @@ Think those as instances, where the master is created first.
 When a master component is udpated, all the instances are updated automatically.
 
 
+Instances supports overrides.
+
+
 See the components tab at the bottom of the layers panel.
 
 https://youtu.be/k74IrUNaJVk
