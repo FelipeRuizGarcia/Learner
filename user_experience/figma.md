@@ -1,6 +1,7 @@
 
 ## Shortcuts
 
+T: Add Text
 Ctrl + D: Duplicated Frame
 
 ### Frames
