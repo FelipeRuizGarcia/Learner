@@ -45,6 +45,10 @@ https://youtu.be/-d6zNGeF59M
 https://youtu.be/t82XRda5DnY
 
 
+### Presentation View
+
+https://help.figma.com/hc/en-us/articles/360039823894-Set-prototype-device-and-starting-point
+
 
 ### Intensive "I need to get this done NOW" course
 https://www.youtube.com/watch?v=WFLRASMq_XY&list=PLLnpHn493BHFFqJTrBbx8trAsuI0U-16w
