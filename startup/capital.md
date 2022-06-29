@@ -11,7 +11,10 @@ https://aws.amazon.com/startups/startup-programs/
 <br>
 https://www.startupschool.org/
 
+
 ## Venture Capital
+
+https://airtable.com/shrQVJyNevx0099pS/tblvIrjRDx80nEq63?utm_source=substack&utm_medium=email
 
 https://angel.co/v/back/latitud/
 
