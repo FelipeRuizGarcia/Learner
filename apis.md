@@ -3,3 +3,7 @@ https://mockapi.io/docs
 
 ### Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 https://github.com/typicode/json-server
+
+ ### A collective list of free APIs for use in software and web development 
+ https://github.com/public-apis/public-apis
+ 
