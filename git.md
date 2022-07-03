@@ -10,6 +10,8 @@ An open source game about learning Git!
 
 ### Git Submodules
 
+#### PROTIP: Always use submodules via `$ git submodules <>`, and not via .gitmodules, bc it updates all the refs required.
+
 Git checkout on the parent repo does not change auto to the child repos:
 Once you checkout the desired branch that points to specific commits
 you should point the specific commits with `git submodule init && git submodule update`
