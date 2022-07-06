@@ -40,6 +40,8 @@ https://aws.github.io/chalice/tutorials/basicrestapi.html
 
 https://aws.github.io/chalice/samples/todo-app/index.html
 
+### Chalice with Lambda Layer
+https://aws.amazon.com/blogs/developer/using-aws-lambda-layers-with-aws-chalice/
 
 ##### Config File
 https://aws.github.io/chalice/topics/configfile.html#
