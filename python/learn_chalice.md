@@ -19,6 +19,9 @@ https://chalice-workshop.readthedocs.io/en/latest/todo-app/part1/00-intro-chalic
 Tutorials
 <br>
 
+https://youtu.be/UCZXJpI1dKw
+
+
 https://aws.github.io/chalice/tutorials/index.html
 
 https://aws.github.io/chalice/tutorials/basicrestapi.html
