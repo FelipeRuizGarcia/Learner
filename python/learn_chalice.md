@@ -1,5 +1,11 @@
 ### Learn Chalice
 
+##### Pro tips: (learning after debugging for nights)
+* name and configs must be same, 
+* parent dir must match with app / package
+* dont install chalice as requirements
+* 
+
 ##### Awesome Chalice
 https://github.com/chalice-dev/awesome-chalice
 
