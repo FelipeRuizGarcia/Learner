@@ -1,5 +1,8 @@
 ### Learn Chalice
 
+##### Awesome Chalice
+https://github.com/chalice-dev/awesome-chalice
+
 ##### Repo
 https://github.com/aws/chalice
 
