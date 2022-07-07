@@ -24,6 +24,9 @@ https://docs.aws.amazon.com/lambda/latest/dg/provisioned-concurrency.html
 
 ## Utilities
 
+#### The AWS Lambda Developer Guide
+https://github.com/awsdocs/aws-lambda-developer-guide
+
 #### chrome-aws-lambda
 https://github.com/alixaxel/chrome-aws-lambda
 
