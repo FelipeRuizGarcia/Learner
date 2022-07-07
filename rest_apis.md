@@ -1,3 +1,13 @@
+https://restfulapi.net/
+
+https://restfulapi.net/rest-put-vs-post/
+
+
+
+----
+
+# Other APIS Resources
+
 ### MockAPI is a simple tool that lets you easily mock up APIs
 https://mockapi.io/docs
 
