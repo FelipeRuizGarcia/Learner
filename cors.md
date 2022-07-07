@@ -1,7 +1,10 @@
+### Getting started
+https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/
+
+
 
 https://fetch.spec.whatwg.org/#cors-safelisted-request-header
 
-https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS
 
