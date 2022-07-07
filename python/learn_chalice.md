@@ -35,9 +35,6 @@ https://youtu.be/UCZXJpI1dKw
 
 https://aws.github.io/chalice/samples/media-query/index.html
 
-
-
-
 https://aws.github.io/chalice/tutorials/index.html
 
 https://aws.github.io/chalice/tutorials/basicrestapi.html
@@ -51,6 +48,8 @@ https://aws.amazon.com/blogs/developer/using-aws-lambda-layers-with-aws-chalice/
 ##### Config File
 https://aws.github.io/chalice/topics/configfile.html#
 
-
 ##### Testing
 https://aws.amazon.com/blogs/developer/introducing-the-new-test-client-for-aws-chalice/
+
+#### CI
+https://aws.amazon.com/blogs/developer/automatically-deploy-a-serverless-rest-api-from-github-with-aws-chalice/
