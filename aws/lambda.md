@@ -27,6 +27,11 @@ https://docs.aws.amazon.com/lambda/latest/dg/provisioned-concurrency.html
 
 ## Utilities
 
+
+### CORS for Lambda
+https://github.com/awsdocs/aws-lambda-developer-guide/blob/main/doc_source/API_Cors.md
+
+
 #### The AWS Lambda Developer Guide
 https://github.com/awsdocs/aws-lambda-developer-guide
 
