@@ -13,6 +13,9 @@ use lambda layers to handle the dependencies
 https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html
 
 
+### Lambda Payload format version
+https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-develop-integrations-lambda.html#http-api-develop-integrations-lambda.proxy-format
+
 
 #### Concurrency
 
