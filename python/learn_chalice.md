@@ -1,5 +1,10 @@
 ### Learn Chalice
 
+### Chalice Best Practices
+
+https://aws.amazon.com/blogs/developer/following-serverless-best-practices-with-aws-chalice-and-lambda-powertools/
+
+
 ##### Pro tips: (learning after debugging for nights)
 * name and configs must be same, 
 * parent dir must match with app / package
