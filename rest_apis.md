@@ -1,5 +1,8 @@
 ## HTTP
 
+##### OPTIONS
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS
+
 ##### POST
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST
 
