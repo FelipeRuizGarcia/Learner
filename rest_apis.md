@@ -1,3 +1,14 @@
+## HTTP
+
+##### POST
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST
+
+##### GET
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET
+
+
+## Restful 
+
 https://restfulapi.net/
 
 https://restfulapi.net/rest-put-vs-post/
