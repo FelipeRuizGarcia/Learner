@@ -50,6 +50,8 @@ https://aws.amazon.com/blogs/developer/using-aws-lambda-layers-with-aws-chalice/
 
 https://aws.github.io/chalice/tutorials/basicrestapi.html#cors-support
 
+https://chalice.readthedocs.io/en/stable/quickstart.html#tutorial-cors-support
+
 ##### Config File
 https://aws.github.io/chalice/topics/configfile.html#
 
@@ -58,3 +60,14 @@ https://aws.amazon.com/blogs/developer/introducing-the-new-test-client-for-aws-c
 
 #### CI
 https://aws.amazon.com/blogs/developer/automatically-deploy-a-serverless-rest-api-from-github-with-aws-chalice/
+
+### Custom Domain Name
+
+https://aws.amazon.com/blogs/developer/configuring-custom-domain-names-with-aws-chalice/
+
+
+### Others 
+
+https://stackoverflow.com/questions/52789943/cannot-access-the-request-json-body-when-using-chalice
+
+
