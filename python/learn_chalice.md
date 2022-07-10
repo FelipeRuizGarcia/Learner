@@ -66,6 +66,8 @@ https://aws.amazon.com/blogs/developer/automatically-deploy-a-serverless-rest-ap
 
 ### Custom Domain Name
 
+https://aws.github.io/chalice/topics/configfile.html#custom-domain-name
+
 https://aws.amazon.com/blogs/developer/configuring-custom-domain-names-with-aws-chalice/
 
 
