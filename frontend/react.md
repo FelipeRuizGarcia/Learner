@@ -17,12 +17,19 @@ https://github.com/academind/react-complete-guide-code
 <br>
 https://dev.to/otamnitram/sorting-your-imports-correctly-in-react-213m
 
-### Libs
+### Libs and Tools
+
+####  React notification made easy rocket ! Alerts!
+https://github.com/fkhadra/react-toastify.git
+
 
 https://material-ui.com/
+
 
 ---
 
 
 ### Using HTTPS in Development
 https://create-react-app.dev/docs/using-https-in-development/
+
+
