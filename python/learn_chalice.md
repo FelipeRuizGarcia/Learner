@@ -51,9 +51,12 @@ https://aws.github.io/chalice/samples/index.html
 
 #### CORS
 
+
 https://aws.github.io/chalice/tutorials/basicrestapi.html#cors-support
 
 https://chalice.readthedocs.io/en/stable/quickstart.html#tutorial-cors-support
+
+https://aws.github.io/chalice/api.html?highlight=customauthorizer#cors
 
 ##### Config File
 https://aws.github.io/chalice/topics/configfile.html#
