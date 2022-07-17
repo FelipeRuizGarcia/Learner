@@ -9,8 +9,11 @@ https://ohmygit.org/
 An open source game about learning Git!
 
 
-#### PROTIP: Make an PR before to delete a branch, bc pr closed can restore the branch.
+#### PROTIP: My own journy! Learning
 
+##### Make an PR before to delete a branch, bc pr closed can restore the branch.
+
+##### `git log  --name-status`
 ---
 
 
