@@ -1,4 +1,10 @@
-## Redirect stdout to other tty ( terminal )
+#### Copy the target file vs the symlink recursively
+``` cp -P ... ```
+
+https://www.lostsaloon.com/technology/how-to-copy-symbolic-links-in-linux/
+
+
+#### Redirect stdout to other tty ( terminal )
 https://askubuntu.com/questions/484993/run-command-on-anothernew-terminal-window
 
     Open two terminals.
