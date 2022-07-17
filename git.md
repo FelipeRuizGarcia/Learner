@@ -9,15 +9,19 @@ https://ohmygit.org/
 An open source game about learning Git!
 
 
-#### PROTIP: My own journy! Learning
+## PRO TIPs: My own journy / flow
 
 ##### Make an PR before to delete a branch, bc pr closed can restore the branch.
 
+---
+
 ##### `git log  --name-status`
+https://stackoverflow.com/questions/8691199/what-does-t-mean-in-git-status-it-isnt-in-the-man-page
+
 ---
 
 
-### Git Submodules
+## Git Submodules
 
 #### PROTIP: Always use submodules via `$ git submodules <>`, and not via .gitmodules, bc it updates all the refs required.
 
