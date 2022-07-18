@@ -54,6 +54,10 @@ Terraform Functions
 https://www.terraform.io/docs/language/functions/lookup.html
 
 
+Terraform Variables
+https://www.terraform.io/language/values/variables
+
+
 ### Best Practices
 
 ```
