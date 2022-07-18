@@ -4,6 +4,8 @@
 ### Pro Tips
 `-auto-approve`
 
+
+
 ## ` Cert Quiz | Review | Analysis | Community ` 
 
 ### Introduction
@@ -104,6 +106,8 @@ https://github.com/antonbabenko/terraform-best-practices/tree/master/examples
 https://www.terraform-best-practices.com/code-styling
 
 
+### Running Terraform in Automation
+https://learn.hashicorp.com/tutorials/terraform/automate-terraform
 
 
 ### Best Practices Videos
