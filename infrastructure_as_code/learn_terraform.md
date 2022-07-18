@@ -1,6 +1,9 @@
 # Resources to learn and get the Terraform certifications
 
 
+### Pro Tips
+`-auto-approve`
+
 ## ` Cert Quiz | Review | Analysis | Community ` 
 
 ### Introduction
