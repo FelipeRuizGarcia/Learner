@@ -23,6 +23,8 @@ https://stackoverflow.com/questions/8691199/what-does-t-mean-in-git-status-it-is
 
 ## Git Submodules
 
+### PROTIP: use `git submodule set-branch -b dev common-modules` to track specific branch in a submodule
+
 #### PROTIP: Always use submodules via `$ git submodules <>`, and not via .gitmodules, bc it updates all the refs required.
 
 Git checkout on the parent repo does not change auto to the child repos:
