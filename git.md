@@ -7,6 +7,8 @@ https://ohmygit.org/
 <br>
 An open source game about learning Git!
 
+#### Best Practice
+https://initialcommit.com/blog/git-commit-messages-best-practices
 
 ## PRO TIPs: My own journy / flow
 
