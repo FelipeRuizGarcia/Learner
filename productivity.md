@@ -71,6 +71,7 @@ https://www.forestapp.cc/
 * shower with cold water
 * ginger
 
+###### if you going to work all the night, put funny videos in the second screen, really worth not "feeling tired"
 
 ### Blogs | Must
 https://medium.com/nowports-freight/c%C3%B3mo-mejorar-tu-productividad-mientras-desarrollas-tu-primera-empresa-292df71d2d91
