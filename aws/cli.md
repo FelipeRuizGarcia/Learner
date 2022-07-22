@@ -1,6 +1,8 @@
 List all profiles
+```
  aws configure list-profiles
  aws configure list
+```
  
 https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
 
