@@ -52,3 +52,8 @@ https://opensource.com/article/21/4/git-worktree
 https://dev.to/nichartley/whats-a-git-tree-5149
 
 https://git-scm.com/docs/git-ls-tree
+
+
+### Monorepos
+https://monorepo.tools/
+
