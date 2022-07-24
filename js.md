@@ -21,5 +21,6 @@ https://github.com/nvm-sh/nvm
 
 
 ###  pnpm
-https://github.com/pnpm/pnpm
 Fast, disk space efficient package manager:
+<br>
+https://github.com/pnpm/pnpm
