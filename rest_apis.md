@@ -20,6 +20,13 @@ https://aws.amazon.com/es/what-is/restful-api/
 
 ----
 
+## API Dev Ecosystem
+
+https://hoppscotch.io | alien Open source API development ecosystem
+<br>
+https://github.com/hoppscotch/hoppscotch
+
+----
 # Other APIS Resources
 
 ### MockAPI is a simple tool that lets you easily mock up APIs
