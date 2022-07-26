@@ -23,6 +23,8 @@ https://aws.amazon.com/es/what-is/restful-api/
 ## API Dev Ecosystem
 
 https://hoppscotch.io | alien Open source API development ecosystem
+
+Hopp VS postman / others, Hopp is free with UNLIMITED COLLECTION / USER, Open Source!
 <br>
 https://github.com/hoppscotch/hoppscotch
 
