@@ -39,6 +39,9 @@ https://git-scm.com/book/en/v2/Git-Tools-Submodules
 https://dev.to/colinmcd01/git-submodules-gbp
 
 
+https://stackoverflow.com/questions/4526910/rename-a-git-submodule
+
+
 ### Git WorkTree | Manage multiple working trees
 
 https://git-scm.com/docs/git-worktree
