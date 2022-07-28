@@ -34,6 +34,9 @@ https://create-react-app.dev/docs/using-https-in-development/
 
 ### react router
 Upgrade to 6
+
+https://reactrouter.com/docs/en/v6/upgrading/v5
+
 https://github.com/remix-run/react-router/blob/main/docs/upgrading/v5.md
 
 https://reactrouter.com/docs/en/v6/getting-started/overview
