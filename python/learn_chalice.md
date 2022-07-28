@@ -27,9 +27,11 @@ Hands on
 <br>
 https://chalice-workshop.readthedocs.io/en/latest/todo-app/part1/00-intro-chalice.html
 
+https://auth0.com/blog/how-to-create-crud-rest-api-with-aws-chalice/
+
+
 Tutorials
 <br>
-
 
 https://youtu.be/UCZXJpI1dKw
 
