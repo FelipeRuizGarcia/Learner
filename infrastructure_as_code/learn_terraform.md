@@ -4,6 +4,16 @@
 ### Pro Tips
 `-auto-approve`
 
+### Terraform Examples
+
+https://github.com/jetbrains-infra/terraform-aws-cognito-google-oauth-with-custom-domain
+
+https://github.com/jetbrains-infra/terraform-aws-rds-mysql
+
+https://github.com/jetbrains-infra/terraform-aws-oauth-jwt-edge-lambda
+
+https://github.com/jetbrains-infra/terraform-aws-static-website
+
 
 
 ## ` Cert Quiz | Review | Analysis | Community ` 
