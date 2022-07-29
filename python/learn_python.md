@@ -22,6 +22,10 @@ https://github.com/samuelcolvin/pydantic
 https://pydantic-docs.helpmanual.io/
 
 
+Pydantic to JSON schema
+
+https://pydantic-docs.helpmanual.io/usage/schema/
+
 
 ### Articles
 
