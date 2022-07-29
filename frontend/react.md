@@ -28,6 +28,11 @@ https://material-ui.com/
 
 ---
 
+### Serving the Same Build from Different Paths
+
+https://create-react-app.dev/docs/deployment/#serving-the-same-build-from-different-paths
+
+
 
 ### Using HTTPS in Development
 https://create-react-app.dev/docs/using-https-in-development/
