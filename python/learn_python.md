@@ -20,3 +20,9 @@ Data parsing and validation using Python type hints
  <br>
 https://github.com/samuelcolvin/pydantic
 https://pydantic-docs.helpmanual.io/
+
+
+
+### Articles
+
+https://towardsdatascience.com/how-to-make-the-most-of-pydantic-aa374d5c12d
