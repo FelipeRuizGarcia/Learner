@@ -3,6 +3,8 @@
 
 ### Capacitor
 
+https://capacitorjs.com/docs/getting-started
+
 https://capacitorjs.com/solution/react
 
 #### PWA
