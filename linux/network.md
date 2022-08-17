@@ -9,3 +9,6 @@ $ cat /proc/sys/net/ipv4/ip_local_port_range
 
 ### network interfaces
 $ /sys/class/net/
+
+### Know networks
+/etc/NetworkManager/system-connections/
