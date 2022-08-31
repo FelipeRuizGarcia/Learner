@@ -10,6 +10,10 @@ https://capacitorjs.com/docs/getting-started
 
 https://capacitorjs.com/solution/react
 
+https://www.freakyjolly.com/capacitor-how-to-create-a-simple-app-using-capacitor-with-or-without-ionic/
+
+
+
 #### PWA
 
 https://ionic.io/pwa
