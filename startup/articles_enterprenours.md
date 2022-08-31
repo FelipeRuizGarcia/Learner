@@ -1,5 +1,8 @@
 https://avc.com/
 
+---
+
+https://expansion.mx/opinion/2022/08/18/privilegiar-startup-rentabilidad-crecimiento
 
 --- 
 
