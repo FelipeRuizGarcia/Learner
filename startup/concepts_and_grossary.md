@@ -1,3 +1,7 @@
+#### Cap Table
+https://carta.com/blog/what-is-a-cap-table/
+
+
 #### Pivot
 
 #### Golden Circle model: Simon Sinek’s theory of value proposition, start with why
