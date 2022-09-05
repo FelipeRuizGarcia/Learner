@@ -5,6 +5,9 @@ https://www.oauth.com/playground/index.html
 https://www.rfc-editor.org/rfc/rfc6749
 
 ### OAuth Grant Types: Explained
+
+https://oauth.net/2/grant-types/
+
 https://frontegg.com/blog/oauth-grant-types
 
 
