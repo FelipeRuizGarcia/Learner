@@ -27,6 +27,9 @@ https://material-ui.com/
 
 
 ---
+### The guide to adding Google login to your React app
+https://blog.logrocket.com/guide-adding-google-login-react-app/
+
 
 ### Serving the Same Build from Different Paths
 
