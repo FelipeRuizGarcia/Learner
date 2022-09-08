@@ -22,5 +22,10 @@ https://aaronparecki.com/oauth-2-simplified/#web-server-apps
 https://www.rfc-editor.org/rfc/rfc7636#section-4.1
 
 
+### getting started
+https://blog.avenuecode.com/getting-started-with-oauth-2.0-authorization-code-with-pkce
+
+
+
 ### #SGVirtual 20.12 - OAuth 2 y OpenID Connect para mortales
 https://youtu.be/nNVlewjKQEQ?list=PLHAED1NPcJs_inP1olZzq7-IqOCwQS4y1
