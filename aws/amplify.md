@@ -2,6 +2,7 @@ https://docs.amplify.aws/lib/auth/manageusers/q/platform/js/#managing-security-t
 
 https://docs.amplify.aws/lib/auth/social/q/platform/js/
 
+https://ui.docs.amplify.aws/react/connected-components/authenticator
 
 ---
 
