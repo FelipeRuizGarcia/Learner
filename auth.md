@@ -1,3 +1,15 @@
+# Tokens
+
+
+### What Is A Token?
+https://youtu.be/EIYCJKR0I_g
+
+* ID Token -> OpenID Connect
+* Access Token -> API from app client
+* 
+
+# OAuth
+
 ###  OAuth 2.0 Playground 
 https://www.oauth.com/playground/index.html
 
