@@ -6,7 +6,7 @@ https://youtu.be/EIYCJKR0I_g
 
 * ID Token -> OpenID Connect
 * Access Token -> API from app client / Bearer Token / JWT
-* 
+* Refresh Token
 
 # OAuth
 
