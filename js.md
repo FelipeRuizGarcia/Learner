@@ -11,6 +11,11 @@ https://lit.dev/
 
 https://github.com/eslint/eslint.git
 
+---
+
+https://github.com/nolimits4web/Swiper
+
+
 
 
 ### Node
