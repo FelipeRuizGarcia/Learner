@@ -16,6 +16,13 @@ https://docs.sqlalchemy.org/en/14/orm/extensions/automap.html
 https://docs.sqlalchemy.org/en/14/core/metadata.html?highlight=tables+columns
 
 
+### Reflecting All Tables at Once
+
+https://docs.sqlalchemy.org/en/14/core/reflection.html#reflecting-all-tables-at-once
+
+https://stackoverflow.com/a/38883606/4714292
+
+
 ---
 
 ### An AWS Aurora Serverless Data API dialect for SQLAlchemy 
