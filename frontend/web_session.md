@@ -6,6 +6,16 @@ https://www.xenonstack.com/insights/local-vs-session-storage-vs-cookie
 ![Screenshot](https://i.stack.imgur.com/6EL55.png)
 
 
+
+
+
+---
+
+### React.js Login & Registration example – JWT & HttpOnly Cookie
+
+https://www.bezkoder.com/react-login-example-jwt-hooks/
+
+
 ### React Authentication: How to Store JWT in a Cookie
 
 https://medium.com/@ryanchenkie_40935/react-authentication-how-to-store-jwt-in-a-cookie-346519310e81
