@@ -1,3 +1,4 @@
+### Dashboard
 https://dashboard.stripe.com/dashboard
 
 ### Docs Billing
@@ -6,6 +7,8 @@ https://stripe.com/docs/billing
 ### Apps
 https://dashboard.stripe.com/apps
 
+### API Reference
+https://stripe.com/docs/api?lang=python
 
 ### Stripe Apps
 https://stripe.com/docs/stripe-apps
