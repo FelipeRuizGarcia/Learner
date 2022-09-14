@@ -7,8 +7,27 @@ https://stripe.com/docs/billing
 ### Apps
 https://dashboard.stripe.com/apps
 
-### API Reference
+---
+
+### DEV API Reference
+
+https://github.com/stripe/stripe-python
+
+https://stripe.com/docs/development/quickstart/python
+
 https://stripe.com/docs/api?lang=python
+
+#### API KEYS
+
+https://stripe.com/docs/keys#test-live-modes
+
+#### Testing
+
+https://stripe.com/docs/payments/quickstart?client=react&lang=python
+
+https://stripe.com/docs/testing#cards
+
+---
 
 ### Stripe Apps
 https://stripe.com/docs/stripe-apps
