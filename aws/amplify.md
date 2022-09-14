@@ -4,6 +4,9 @@ https://docs.amplify.aws/lib/auth/social/q/platform/js/
 
 https://ui.docs.amplify.aws/react/connected-components/authenticator
 
+#### Sandbox Live
+
+https://sandbox.amplifyapp.com/getting-started
 
 #### Login Live Demo
 
