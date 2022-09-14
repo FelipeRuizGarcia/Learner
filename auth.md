@@ -18,6 +18,10 @@ https://www.oauth.com/playground/index.html
 ### RFC Oauth
 https://www.rfc-editor.org/rfc/rfc6749
 
+### Client ID and Secret
+
+https://www.oauth.com/oauth2-servers/client-registration/client-id-secret/
+
 ### OAuth Grant Types: Explained
 
 https://oauth.net/2/grant-types/
