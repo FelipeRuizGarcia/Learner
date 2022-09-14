@@ -4,6 +4,11 @@ https://docs.amplify.aws/lib/auth/social/q/platform/js/
 
 https://ui.docs.amplify.aws/react/connected-components/authenticator
 
+
+#### Login Live Demo
+
+https://ui.docs.amplify.aws/react/connected-components/authenticator
+
 ---
 
 #### How to Process an AWS Cognito Authorization Code Grant using AWS Amplify
