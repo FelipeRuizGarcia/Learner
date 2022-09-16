@@ -1,3 +1,9 @@
+Configs and plugings at
+
+https://github.com/FelipeRuizGarcia/myDotFiles/tree/test_legion/vim
+
+### My IDE
+
 https://neovim.io/
 https://github.com/neovim/neovim
 
@@ -13,5 +19,6 @@ https://microsoft.github.io/language-server-protocol/
 
 https://neovim.io/doc/lsp/
 
+:LspInfo
 
 
