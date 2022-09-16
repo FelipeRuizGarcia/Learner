@@ -11,6 +11,9 @@ https://github.com/williamboman/mason.nvim
 
 ``` :checkhealth mason  ```
 
+https://github.com/nvim-lua/plenary.nvim
+
+
 
 https://github.com/nanotee/nvim-lua-guide
 
