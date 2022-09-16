@@ -29,3 +29,7 @@ https://neovim.io/doc/lsp/
 :LspInfo
 
 
+
+
+https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim#install-extensions-for-programming-languages-you-use-daily
+
