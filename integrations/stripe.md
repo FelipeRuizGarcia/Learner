@@ -29,6 +29,10 @@ https://stripe.com/docs/testing#cards
 
 ---
 
+### The Payment Intents API
+https://stripe.com/docs/payments/payment-intents
+
+---
 ### Stripe Apps
 https://stripe.com/docs/stripe-apps
 
