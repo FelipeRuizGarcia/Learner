@@ -11,6 +11,8 @@ https://dashboard.stripe.com/apps
 
 ### DEV API Reference
 
+https://stripe.com/docs/api
+
 https://github.com/stripe/stripe-python
 
 https://stripe.com/docs/development/quickstart/python
