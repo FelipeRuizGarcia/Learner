@@ -36,6 +36,9 @@ https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim#install-extensions-fo
 
 
 #### Coc & Marketplace
+
+https://github.com/neoclide
+
 https://github.com/neoclide/coc.nvim
 
 https://github.com/fannheyward/coc-marketplace
