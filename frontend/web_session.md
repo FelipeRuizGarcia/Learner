@@ -1,3 +1,5 @@
+
+
 ### Local Storage vs Session Storage vs Cookie
 
 https://www.xenonstack.com/insights/local-vs-session-storage-vs-cookie
@@ -17,6 +19,12 @@ https://www.bezkoder.com/react-login-example-jwt-hooks/
 
 
 ### React Authentication: How to Store JWT in a Cookie
+
+##### Video
+
+https://youtu.be/nI8PYZNFtac
+
+##### Articles
 
 https://medium.com/@ryanchenkie_40935/react-authentication-how-to-store-jwt-in-a-cookie-346519310e81
 
