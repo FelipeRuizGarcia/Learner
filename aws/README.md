@@ -1,6 +1,9 @@
 # Resources to learn and get the AWS certifications
 
 
+### ProTips
+If possible, create an independent aws root account for each domain: and you can apply for credits for each account, instead of 1 credit for the account.
+
 ## ` AWS Cert Quiz | Review | Analysis | Community ` 
 
 The best resources are those that AWS provides in
