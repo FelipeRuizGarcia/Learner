@@ -42,3 +42,6 @@ https://github.com/neoclide
 https://github.com/neoclide/coc.nvim
 
 https://github.com/fannheyward/coc-marketplace
+
+
+https://github.com/fannheyward/coc-pyright
