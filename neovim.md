@@ -44,4 +44,13 @@ https://github.com/neoclide/coc.nvim
 https://github.com/fannheyward/coc-marketplace
 
 
+https://github.com/fannheyward/coc-sql
+
 https://github.com/fannheyward/coc-pyright
+
+
+
+
+```
+:CocInstall coc-sql
+```
