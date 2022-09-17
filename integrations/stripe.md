@@ -7,6 +7,10 @@ https://stripe.com/docs/billing
 ### Apps
 https://dashboard.stripe.com/apps
 
+#### Payouts
+
+https://stripe.com/docs/payouts
+
 ---
 
 ### DEV API Reference
