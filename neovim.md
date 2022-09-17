@@ -33,3 +33,9 @@ https://neovim.io/doc/lsp/
 
 https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim#install-extensions-for-programming-languages-you-use-daily
 
+
+
+#### Coc & Marketplace
+https://github.com/neoclide/coc.nvim
+
+https://github.com/fannheyward/coc-marketplace
