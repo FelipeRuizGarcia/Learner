@@ -11,9 +11,10 @@ https://dashboard.stripe.com/apps
 
 https://stripe.com/docs/payouts
 
+
 ---
 
-### DEV API Reference
+## DEV API Reference
 
 https://stripe.com/docs/api
 
@@ -22,6 +23,11 @@ https://github.com/stripe/stripe-python
 https://stripe.com/docs/development/quickstart/python
 
 https://stripe.com/docs/api?lang=python
+
+##### Platform Logs
+
+https://dashboard.stripe.com/test/logs
+
 
 #### API KEYS
 
