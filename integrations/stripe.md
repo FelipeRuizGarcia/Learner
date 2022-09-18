@@ -29,6 +29,10 @@ https://stripe.com/docs/api?lang=python
 https://dashboard.stripe.com/test/logs
 
 
+##### Email Preferences
+
+https://dashboard.stripe.com/settings/emails
+
 #### API KEYS
 
 https://stripe.com/docs/keys#test-live-modes
