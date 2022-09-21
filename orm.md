@@ -28,3 +28,8 @@ https://stackoverflow.com/a/38883606/4714292
 ### An AWS Aurora Serverless Data API dialect for SQLAlchemy 
 
 https://github.com/cloud-utils/sqlalchemy-aurora-data-api
+
+
+
+###  Tools to convert SQLAlchemy models to Pydantic models 
+https://github.com/tiangolo/pydantic-sqlalchemy
