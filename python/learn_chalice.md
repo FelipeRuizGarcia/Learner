@@ -6,6 +6,10 @@ https://aws.amazon.com/blogs/developer/following-serverless-best-practices-with-
 
 
 ##### Pro tips: (learning after debugging for nights)
+
+### Delete old artifacts to avoid reuse those ``` /api/.chalice/deployments ```
+
+
 * name and configs must be same, 
 * parent dir must match with app / package
 * dont install chalice as requirements
