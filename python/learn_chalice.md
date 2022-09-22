@@ -9,6 +9,8 @@ https://aws.amazon.com/blogs/developer/following-serverless-best-practices-with-
 
 ### Delete old artifacts to avoid reuse those ``` /api/.chalice/deployments ```
 
+Also, ```  chalice delete --stage X ```
+
 
 * name and configs must be same, 
 * parent dir must match with app / package
