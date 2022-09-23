@@ -1,3 +1,8 @@
+### Logging
+##### Understanding Logging Levels: What They Are & How To Use Them
+https://sematext.com/blog/logging-levels/
+
+
 ### Monitors
 https://uptimerobot.com/
 Get 50 monitors with 5-minute checks totally FREE.
