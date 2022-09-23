@@ -13,7 +13,7 @@ https://docs.sqlalchemy.org/en/14/orm/extensions/automap.html
 
 ### Metadata
 
-https://docs.sqlalchemy.org/en/14/core/metadata.html?highlight=tables+columns
+https://docs.sqlalchemy.org/en/14/core/metadata.html
 
 
 ### Reflecting All Tables at Once
@@ -22,6 +22,11 @@ https://docs.sqlalchemy.org/en/14/core/reflection.html#reflecting-all-tables-at-
 
 https://stackoverflow.com/a/38883606/4714292
 
+
+
+#### Configuring Logging
+
+https://docs.sqlalchemy.org/en/14/core/metadata.html
 
 ---
 
