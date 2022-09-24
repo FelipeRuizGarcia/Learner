@@ -1,3 +1,7 @@
+### Valoracion
+https://premoney.notion.site/Fundamentos-de-valoraci-n-de-startups-bdc36f3c42854567a3ef9096e085b73f
+
+
 ### Programs
 
 **AWS**
