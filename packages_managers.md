@@ -1,6 +1,12 @@
 # brew
 https://github.com/Homebrew/brew
 
+---
+
+# Flatpak
+https://flatpak.org/
+
+---
 # snap
 https://snapcraft.io/
 
