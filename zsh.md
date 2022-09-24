@@ -1,2 +1,2 @@
 #### edit and run in the prompt
-` edit-command-line `
+` Ctrl Z + Ctrl E -->  $ edit-command-line `
