@@ -9,3 +9,9 @@ https://github.com/hoppscotch/hoppscotch
 
 ###  Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. 
 https://github.com/beekeeper-studio/beekeeper-studio
+
+
+https://github.com/dbeaver/dbeaver
+
+
+https://github.com/HeidiSQL/HeidiSQL
