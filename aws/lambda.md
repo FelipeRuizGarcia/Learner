@@ -41,3 +41,8 @@ https://github.com/alixaxel/chrome-aws-lambda
 
 ### Cold Boot
 https://www.simform.com/blog/lambda-cold-starts/
+
+---
+
+### Lambda Container
+https://hub.docker.com/r/amazon/aws-lambda-python
