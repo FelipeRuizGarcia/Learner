@@ -1,3 +1,7 @@
+
+### IP Basics
+https://youtu.be/-sYI7saBY7M
+
 ### Subtneting
 
 https://youtu.be/YGpzVw3gFdQ
