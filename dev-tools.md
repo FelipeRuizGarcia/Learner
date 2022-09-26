@@ -15,3 +15,8 @@ https://github.com/dbeaver/dbeaver
 
 
 https://github.com/HeidiSQL/HeidiSQL
+
+
+### CIDR Calculator
+
+https://cidr.xyz/
