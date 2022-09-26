@@ -1,6 +1,12 @@
+### IFRS |  International Financial Reporting Standard o normas internacionales de información financiera.
+https://www.gerencie.com/que-son-las-ifrs.html
+
+---
+
 ### Valoracion
 https://premoney.notion.site/Fundamentos-de-valoraci-n-de-startups-bdc36f3c42854567a3ef9096e085b73f
 
+---
 
 ### Programs
 
