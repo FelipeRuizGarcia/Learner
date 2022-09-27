@@ -1,3 +1,9 @@
+See the new dashboard for traces at
+
+Cloudwatch > Traces
+
+---
+
 https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-python.html
 
 ---
