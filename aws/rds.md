@@ -12,3 +12,6 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html
 
 https://aws.amazon.com/blogs/database/use-python-sqlalchemy-orm-to-interact-with-an-amazon-aurora-database-from-a-serverless-application/
 
+
+### Using Amazon RDS Proxy
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/rds-proxy.html
