@@ -30,3 +30,7 @@ https://pydantic-docs.helpmanual.io/usage/schema/
 ### Articles
 
 https://towardsdatascience.com/how-to-make-the-most-of-pydantic-aa374d5c12d
+
+
+### F string
+https://realpython.com/python-f-strings/
