@@ -20,3 +20,9 @@ https://github.com/HeidiSQL/HeidiSQL
 ### CIDR Calculator
 
 https://cidr.xyz/
+
+
+---
+
+### Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
+https://www.mockaroo.com/
