@@ -1,3 +1,11 @@
+Add profiles as < Account > . < user >
+``` 
+ CUSTOMER_A.felipe
+ PLATFORM_ADAPA_ERP.felipe
+ ```
+
+---
+
 List all profiles
 ```
  aws configure list-profiles
