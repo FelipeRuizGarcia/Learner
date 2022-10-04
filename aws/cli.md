@@ -14,3 +14,13 @@ Example:
   * https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3/index.html
   * https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/index.html
   * https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/index.html
+
+
+
+---
+
+Update console pass by cli
+
+```
+aws iam update-login-profile --user-name felipe --password
+```
