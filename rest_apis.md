@@ -18,6 +18,10 @@ https://restfulapi.net/rest-put-vs-post/
 
 https://aws.amazon.com/es/what-is/restful-api/
 
+
+##### Espanol, basico
+https://juanda.gitbooks.io/webapps/content/api/arquitectura-api-rest.html
+
 ----
 
 ## API Dev Ecosystem
