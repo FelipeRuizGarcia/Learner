@@ -7,6 +7,8 @@ https://github.com/aws-samples
 ### ProTips
 If possible, create an independent aws root account for each domain: and you can apply for credits for each account, instead of 1 credit for the account.
 
+* Tag ALL your resources properly. ( Believe me ... )
+
 * Use AWS Resource Groups > Tag Editor, to list all the resources in the account.
 
 * Deactivate all the unused AWS Regions at IAM > Account settings
