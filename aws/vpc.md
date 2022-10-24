@@ -1,3 +1,7 @@
+### tips
+
+Route tables associate all the subnets,, go there to check it out the full traces.
+
 ### Concepts
 
 Region > AZ ( Availability Zone ) 
