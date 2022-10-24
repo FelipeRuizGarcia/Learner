@@ -4,6 +4,8 @@ Route tables associate all the subnets,, go there to check it out the full trace
 
 Network interfaces with the subnets
 
+Vpc endpoints... to Eni
+
 ### Concepts
 
 Region > AZ ( Availability Zone ) 
