@@ -2,6 +2,8 @@
 
 Route tables associate all the subnets,, go there to check it out the full traces.
 
+Network interfaces with the subnets
+
 ### Concepts
 
 Region > AZ ( Availability Zone ) 
