@@ -1,3 +1,11 @@
+### Pro Tips
+
+the cheapest domain to register are `.CLICK`... for $3 USD
+https://aws.amazon.com/es/route53/pricing/#Domain_Names
+
+
+----
+
 
 ####  What are the prerequisites for updating my name servers at the Route 53 registrar?
 https://aws.amazon.com/premiumsupport/knowledge-center/route-53-update-name-servers-registrar/
