@@ -1,5 +1,8 @@
-# Tokens
+# HTTP Basic Authentication
 
+https://roadmap.sh/guides/http-basic-authentication
+
+# Tokens
 
 ### What Is A Token?
 https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/#token-storage
