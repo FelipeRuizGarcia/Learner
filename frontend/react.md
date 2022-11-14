@@ -48,3 +48,13 @@ https://reactrouter.com/docs/en/v6/upgrading/v5
 https://github.com/remix-run/react-router/blob/main/docs/upgrading/v5.md
 
 https://reactrouter.com/docs/en/v6/getting-started/overview
+
+
+
+## React Integrations
+
+https://mui.com/x/react-date-pickers/date-picker/
+
+
+https://www.npmjs.com/package/react-input-verification-code
+
