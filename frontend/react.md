@@ -58,3 +58,9 @@ https://mui.com/x/react-date-pickers/date-picker/
 
 https://www.npmjs.com/package/react-input-verification-code
 
+
+## Debugging
+
+https://raygun.com/blog/react-debugging-guide/
+
+https://dev.to/colocodes/how-to-debug-a-react-app-51l4
