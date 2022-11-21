@@ -32,3 +32,13 @@ Update console pass by cli
 ```
 aws iam update-login-profile --user-name felipe --password
 ```
+
+
+---
+
+### Auto-prompt features
+
+https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-parameters-prompting.html#cli-usage-auto-prompt-features
+
+https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html#envvars-list-aws_cli_auto_prompt
+
