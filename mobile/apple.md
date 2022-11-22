@@ -34,6 +34,16 @@ With XCode Cloud
 <img width="427" alt="image" src="https://user-images.githubusercontent.com/14207635/203414910-64a6489c-b033-4e20-9a0e-bdc97167a866.png">
 
 
+---
+
+### Capacitor Apps
+
+Put the ci scripts at
+
+```
+ios/App/ci_scripts/ci_pre_xcodebuild.sh
+```
+
 ----
 
 https://help.apple.com/developer-account/#/devbfa00fef7
