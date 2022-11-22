@@ -22,6 +22,14 @@ https://developer.apple.com/documentation/xcode/writing-custom-build-scripts
 https://developer.apple.com/documentation/xcode/making-dependencies-available-to-xcode-cloud#Use-a-custom-build-script-to-install-a-third-party-dependency-or-tool
 
 
+
+#### How to see the full logs on the CI ? 
+
+with xcode IDE
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/14207635/203414670-899f91ad-bc3c-4c4b-8700-5637fa94d035.png">
+
+
 ----
 
 https://help.apple.com/developer-account/#/devbfa00fef7
