@@ -5,6 +5,8 @@ https://developer.apple.com/app-store/review/guidelines/#introduction
 
 ## xcode Cloud | apple ci
 
+Its Free (  25 hours / month) until Dic 2023!!!!
+
 #### Intro
 
 https://developer.apple.com/xcode-cloud/
