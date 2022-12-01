@@ -62,6 +62,9 @@ https://appstoreconnect.apple.com/access/users
 
 ![image](https://user-images.githubusercontent.com/14207635/205101927-3fd90a2c-f9f8-4547-8903-97493c713eac.png)
 
+Then, the user needs accept the email invitation as dev in the apple account.
+Later, send the invitation to Testing Internal team, for the desired app.
+In this point, the user needs can go to TF app, accept and ready !
 
 
 ---
