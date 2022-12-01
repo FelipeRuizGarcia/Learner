@@ -54,6 +54,15 @@ External testing require approval from TF team.
 
 You can link the builds from xcode cloud to TF internal or external testing.
 
+##### Internal Testing
+
+Add the team in the `Users and Access` with `Developer` Access.
+
+https://appstoreconnect.apple.com/access/users
+
+![image](https://user-images.githubusercontent.com/14207635/205101927-3fd90a2c-f9f8-4547-8903-97493c713eac.png)
+
+
 
 ---
 
