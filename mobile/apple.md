@@ -7,6 +7,8 @@ https://developer.apple.com/app-store/review/guidelines/#introduction
 
 Its Free (  25 hours / month) until Dic 2023!!!!
 
+* You can set up a workflow able to deploy for `App Store`
+
 #### Intro
 
 https://developer.apple.com/xcode-cloud/
@@ -50,7 +52,8 @@ https://developer.apple.com/testflight/
 Internal testing can access immediately to beta apps for 90 days.
 External testing require approval from TF team. 
 
-You can link the builds from xcode cloud to TF.
+You can link the builds from xcode cloud to TF internal or external testing.
+
 
 ---
 
