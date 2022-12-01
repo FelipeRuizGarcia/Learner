@@ -50,6 +50,8 @@ https://developer.apple.com/testflight/
 Internal testing can access immediately to beta apps for 90 days.
 External testing require approval from TF team. 
 
+You can link the builds from xcode cloud to TF.
+
 ---
 
 ### Capacitor Apps
