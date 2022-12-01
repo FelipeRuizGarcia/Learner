@@ -47,7 +47,8 @@ Beta Testing Made Simple with TestFlight
 
 https://developer.apple.com/testflight/
 
-
+Internal testing can access immediately to beta apps for 90 days.
+External testing require approval from TF team. 
 
 ---
 
