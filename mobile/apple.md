@@ -89,3 +89,17 @@ https://developer.apple.com/es/support/enrollment/
 https://developer.apple.com/es/support/D-U-N-S/
 
 https://www.dnb.com/duns-number/get-a-duns.html
+
+
+
+----
+
+
+### Hackintosh
+
+https://github.com/kholia/OSX-KVM
+
+
+#### EC2 MacOs
+
+https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-ec2-mac-instances-for-macos/
