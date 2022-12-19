@@ -1,3 +1,11 @@
+https://open.substack.com/pub/ancla/p/impacto-salud-mental?r=1etnts&utm_campaign=post&utm_medium=web
+
+---
+
+https://www.linkedin.com/posts/ponchomayto_emprendimiento-negocios-reclutamiento-activity-7010664478274895872-GBO0?utm_source=share&utm_medium=member_desktop
+
+---
+
 https://avc.com/
 
 ---
