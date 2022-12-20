@@ -76,3 +76,6 @@ https://swiperjs.com/
 https://raygun.com/blog/react-debugging-guide/
 
 https://dev.to/colocodes/how-to-debug-a-react-app-51l4
+
+https://bobbyhadz.com/blog/react-hooks-exhaustive-deps
+
