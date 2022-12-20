@@ -12,6 +12,11 @@ Resources of the course at
 https://github.com/academind/react-complete-guide-code
 
 
+#### Core Topics
+
+https://reactjs.org/docs/hooks-reference.html#usememo
+
+
 ### Best Practices
  Sorting your imports correctly in React 
 <br>
