@@ -20,7 +20,7 @@ set an alias in the AWS account ...
 https://github.com/gruntwork-io/cloud-nuke
 
 ```
-$ cloud-nuke aws --region us-east-1 global
+$ cloud-nuke aws --region us-east-1 global --resource-type s3    
 ```
 ---
 
