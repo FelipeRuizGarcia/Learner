@@ -7,7 +7,7 @@ https://github.com/rebuy-de/aws-nuke
 set an alias in the AWS account ... 
 
 ```
-./aws-nuke-v2.21.2-linux-amd64 -c nuke-config.yml --profile THE-AWS-PROFILE --no-dry-run 
+./aws-nuke-v2.21.2-linux-amd64 -c nuke-config.yml --profile THE-AWS-PROFILE --no-dry-run --force
 
 ```
 
