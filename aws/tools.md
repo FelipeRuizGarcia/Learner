@@ -1,5 +1,7 @@
 
 ## Nuking
+Sometimes the both tools does not delete S3 buckets correctly, still debugging ...
+
 ---
 
 A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it.
