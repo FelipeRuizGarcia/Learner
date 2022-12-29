@@ -29,3 +29,10 @@ $ cloud-nuke aws --region us-east-1 global --resource-type s3
  Cloud cost estimates for Terraform in pull requestsmoneybagchart_with_downwards_trend Love your cloud bill!
  <br>
 https://github.com/infracost/infracost
+
+
+## EKS
+
+Runs checks to see if an EKS cluster follows EKS Best Practices. 
+<br>
+https://github.com/aws-samples/hardeneks
