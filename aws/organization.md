@@ -14,7 +14,9 @@ SCPs
 <br>
 https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html
 
+### Protip
 
+To avoid loss the access to the root user for the AWS accounts for the team or projects, link those aws accounts to an email alias instead or email list, of email personal email accounts. 
 
 # Best Practices
 
