@@ -43,3 +43,12 @@ https://github.com/infracost/infracost
 Runs checks to see if an EKS cluster follows EKS Best Practices. 
 <br>
 https://github.com/aws-samples/hardeneks
+
+
+----
+
+
+https://github.com/99designs/aws-vault
+
+https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+
