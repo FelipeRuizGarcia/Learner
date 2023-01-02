@@ -9,7 +9,7 @@ A tool for cleaning up your cloud accounts by nuking (deleting) all resources wi
 https://github.com/rebuy-de/aws-nuke
 
 * Does not requires add the aws profile, use access key instead.
-* requires set an alias in the AWS account ... 
+* requires set an alias in the AWS account, and edit the config file
 
 ```
 ./aws-nuke-v2.21.2-linux-amd64 -c nuke-config.yml --profile THE-AWS-PROFILE --no-dry-run --force
