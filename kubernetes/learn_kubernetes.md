@@ -38,6 +38,15 @@ https://github.com/roboll/helmfile
 
 ### Minikube
 
+https://minikube.sigs.k8s.io/docs/start/
+
 ```
 brew install minikube
 ```
+
+### Istio
+
+```
+brew install istioctl
+```
+
