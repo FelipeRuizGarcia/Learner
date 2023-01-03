@@ -2,16 +2,52 @@
 
 
 ### Video Courses
-
 https://youtu.be/X48VuDVv0do
 
+### kubectl
+https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/#install-using-native-package-management
 
-### K8's Clusters
 
+Use moby instead of docker-ce
+```
+# dnf install moby-engine
+
+```
+
+
+## Clusters
+
+### Kind
 https://kind.sigs.k8s.io/
 <br>
 kind is a tool for running local Kubernetes clusters using Docker container “nodes”.
 kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
+
+---
+
+
+### Minikube
+
+https://minikube.sigs.k8s.io/docs/start/
+
+
+```
+brew install minikube
+
+minikube config set driver docker
+
+minikube start --driver=docker
+
+```
+
+### Istio
+
+```
+brew install istioctl
+```
+
+
+--
 
 ### Tools
 
@@ -37,43 +73,15 @@ https://github.com/roboll/helmfile
 
 
 
-Use moby instead of docker-ce
-```
-# dnf install moby-engine
-
-```
-
-### Minikube
-
-https://minikube.sigs.k8s.io/docs/start/
-
-
-```
-brew install minikube
-
-minikube config set driver docker
-
-minikube start --driver=docker
-
-```
-
-### Istio
-
-```
-brew install istioctl
-```
-
-
---
 
 ### containers
 
-#### attach to running container 
-` docker exec -it < short hash > bash `
+##### attach to running container 
+``` docker exec -it < short hash > bash ```
 
-#### exit of a contianer without stop it :
-##### in other words, we turn the interactive mode and say
-#### to the daemon "hey, return me back to my shell
-` ctrl + p -> ctrl + q  `
+exit of a contianer without stop it :
+in other words, we turn the interactive mode and say
+to the daemon "hey, return me back to my shell
+``` ctrl + p -> ctrl + q  ```
 
 
