@@ -34,3 +34,10 @@ https://lyz-code.github.io/blue-book/devops/helmfile/
 
 
 https://github.com/roboll/helmfile
+
+
+### Minikube
+
+```
+brew install minikube
+```
