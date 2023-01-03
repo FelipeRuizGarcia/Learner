@@ -36,6 +36,13 @@ https://lyz-code.github.io/blue-book/devops/helmfile/
 https://github.com/roboll/helmfile
 
 
+
+Use moby instead of docker-ce
+```
+# dnf install moby-engine
+
+```
+
 ### Minikube
 
 https://minikube.sigs.k8s.io/docs/start/
@@ -55,4 +62,18 @@ minikube start --driver=docker
 ```
 brew install istioctl
 ```
+
+
+--
+
+### containers
+
+#### attach to running container 
+` docker exec -it < short hash > bash `
+
+#### exit of a contianer without stop it :
+##### in other words, we turn the interactive mode and say
+#### to the daemon "hey, return me back to my shell
+` ctrl + p -> ctrl + q  `
+
 
