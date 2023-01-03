@@ -40,8 +40,14 @@ https://github.com/roboll/helmfile
 
 https://minikube.sigs.k8s.io/docs/start/
 
+
 ```
 brew install minikube
+
+minikube config set driver docker
+
+minikube start --driver=docker
+
 ```
 
 ### Istio
