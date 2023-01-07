@@ -1,6 +1,9 @@
 ### Tmux
 Master the Tmux terminal multiplexor with the plugings, shortcuts and tips.
 
+(M-d) -> `Alt + d` to switch to that Window
+---
+
 ##### The status line
 
 https://man7.org/linux/man-pages/man1/tmux.1.html#STATUS_LINE
