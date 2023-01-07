@@ -1,6 +1,9 @@
 # Productivity
 ### All the strategies, habits, tools that I use to be productive.
 
+Become good at X to enjoy ... if you aren't, start in the basics. Enjoy is the goal. Then speed. 
+
+---
 
 _"I often say that when you can measure what you are speaking about, 
 and express it in numbers, 
