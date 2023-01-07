@@ -1,3 +1,15 @@
+
+```
+ First delete the blank lines:
+:g/^\s*$/d
+
+Then use a substitution (:s///) over each line (%) to replace all (g) continuous whitespace (\s\+) with a comma (,).
+ 
+ :%s/\s\+/,/g
+
+```
+---
+
 ### Neovim setup
 
 Configs and plugings at
