@@ -9,6 +9,9 @@ https://help.zoho.com/portal/en/kb/forms/user-guide/embedding-forms/embedding-fo
 ### Translations
 https://help.zoho.com/portal/en/kb/forms/user-guide/form-settings/language-translation/articles/setting-up-language-translation#Translating_a_form_into_supported_languages
 
+https://help.zoho.com/portal/en/kb/forms/user-guide/form-settings/language-translation/articles/sharing-translated-forms#Embedding_translated_forms_on_website
+
+
 
 Remove the branding with standart
 
