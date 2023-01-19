@@ -2,6 +2,17 @@
 
 Always connect to the main writer in the cluster, avoid instance connect directly.
 
+can not upgrade dbs stopped xD.
+
+See the top querys in Monitoring -> Permormance 
+
+<img width="1165" alt="imagen" src="https://user-images.githubusercontent.com/14207635/213445250-f0d75afb-cb19-47c4-b2c9-e6c267faec46.png">
+
+
+RDS -> events
+
+---
+
 ### Best Practices
 
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html
