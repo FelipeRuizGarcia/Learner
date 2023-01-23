@@ -50,3 +50,7 @@ https://blog.avenuecode.com/getting-started-with-oauth-2.0-authorization-code-wi
 
 ### #SGVirtual 20.12 - OAuth 2 y OpenID Connect para mortales
 https://youtu.be/nNVlewjKQEQ?list=PLHAED1NPcJs_inP1olZzq7-IqOCwQS4y1
+
+
+### Using OAuth 2.0 for Web Server Applications
+https://developers.google.com/identity/protocols/oauth2/web-server
