@@ -17,3 +17,13 @@ En la declacion anual se reajustara el pago de ISR.
 Todo ingreso se considera acorde de la fecha de la trasnferencia del pago y NO de la factura.
 
 El IVA que se transporta tambien se debe pagar en la declaracion provisional.
+
+---
+
+### Ingresos exentos
+
+Artículo 93 Ingresos exentos
+https://www.sat.gob.mx/articulo/15199/articulo-93
+
+https://www.cayso.com.mx/cursosenlinea/ingresos-exentos-exentos-para-personas-fisicas/
+
