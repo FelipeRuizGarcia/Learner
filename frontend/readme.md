@@ -11,6 +11,11 @@ https://purifycss.online/
 https://unused-css.com/
 
 
+### Create FAvicon
+
+
+https://favicon.io/favicon-converter/
+
 ----
 
 # Frontend path
