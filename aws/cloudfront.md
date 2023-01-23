@@ -4,6 +4,8 @@ https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/LocationsOfEd
 
 IP Ranges for cloudfront distributions
 
+https://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html
+
 https://ip-ranges.amazonaws.com/ip-ranges.json
 
 
