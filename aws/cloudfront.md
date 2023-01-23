@@ -1,3 +1,12 @@
+### Locations and IP address ranges of CloudFront edge servers
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/LocationsOfEdgeServers.html
+
+
+IP Ranges for cloudfront distributions
+
+https://ip-ranges.amazonaws.com/ip-ranges.json
+
+---
 
 ### Generate a signed URL for Amazon CloudFront
 
