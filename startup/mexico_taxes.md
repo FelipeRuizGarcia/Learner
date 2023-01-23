@@ -1,6 +1,12 @@
-Dependiendo el regimen es la obligacion.
+
+#### ISR
+
+https://www.tiendanube.com/blog/mx/que-es-el-isr/
+
 
 ### Pagos provisionales
+
+Dependiendo el regimen es la obligacion.
 
 Los pagos provisionales son similares a fecha de corte y fecha de pago de una tarjeta de credito.
 
@@ -25,6 +31,12 @@ La tasa de recargos, según se establece en la regla 2.1.23. de la Resolución M
 https://www.elcontribuyente.mx/2019/12/asi-se-calculan-las-actualizaciones-y-recargos-por-no-pagarle-a-tiempo-al-sat/
 
 ---
+
+### Deducciones personales
+
+Artículo 151 Deducciones personales.
+
+https://www.sat.gob.mx/articulo/82615/articulo-151
 
 ### Ingresos exentos
 
