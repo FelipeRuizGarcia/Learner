@@ -1,5 +1,11 @@
 My Fav tools in my workflow ( Free software + Open Source ) 
 
+
+### Create Favicon quick!
+
+https://favicon.io/favicon-converter/
+
+
 ### Alien Open source API development ecosystem | API Dev Ecosystem
 Hopp VS postman / others, Hopp is free with UNLIMITED COLLECTION / USER, Open Source!
 
@@ -26,3 +32,5 @@ https://cidr.xyz/
 
 ### Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
 https://www.mockaroo.com/
+
+
