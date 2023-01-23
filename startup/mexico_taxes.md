@@ -18,6 +18,12 @@ Todo ingreso se considera acorde de la fecha de la trasnferencia del pago y NO d
 
 El IVA que se transporta tambien se debe pagar en la declaracion provisional.
 
+`
+La tasa de recargos, según se establece en la regla 2.1.23. de la Resolución Miscelánea Fiscal, es de 1.47% mensual. Así, hay que multiplicar 1.47 por la cantidad de meses pasados desde el mes en que debió pagarse.
+`
+
+https://www.elcontribuyente.mx/2019/12/asi-se-calculan-las-actualizaciones-y-recargos-por-no-pagarle-a-tiempo-al-sat/
+
 ---
 
 ### Ingresos exentos
