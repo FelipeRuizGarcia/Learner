@@ -3,6 +3,10 @@
 
 https://www.tiendanube.com/blog/mx/que-es-el-isr/
 
+ISR Retenido
+
+https://www.tiendanube.com/blog/mx/que-es-el-isr-retenido/
+
 
 ### Pagos provisionales
 
