@@ -11,6 +11,10 @@ https://ip-ranges.amazonaws.com/ip-ranges.json
 
 Alternatively, you can view only the CloudFront IP ranges at https://d7uri8nf7uskq.cloudfront.net/tools/list-cloudfront-ips.
 
+
+
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/CNAMEs.html#alternate-domain-names-move-find-source
+
 ---
 
 ### Generate a signed URL for Amazon CloudFront
