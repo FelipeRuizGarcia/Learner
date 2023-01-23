@@ -18,5 +18,3 @@ https://csslayout.io/
 Covers are made with CSS only. Inspect them!
 
 ---
-
-# Tailwind CSS
