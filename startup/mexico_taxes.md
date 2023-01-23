@@ -27,8 +27,8 @@ Artículo 93 Ingresos exentos
 https://www.sat.gob.mx/articulo/15199/articulo-93
 
 
-```
+`
 Es importante mencionar que cuando un contribuyente perciba ingresos exentos tendrá que informarlos en su declaración, como en el caso de los préstamos, los donativos  y los premios, obtenidos, siempre que estos, en lo individual o en su conjunto, excedan de $600,000.00; de no hacerlo, se considerarán objeto del pago del impuesto.
-```
+`
 https://www.cayso.com.mx/cursosenlinea/ingresos-exentos-exentos-para-personas-fisicas/
 
