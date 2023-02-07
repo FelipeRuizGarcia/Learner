@@ -40,13 +40,6 @@ minikube start --driver=docker
 
 ```
 
-### Istio
-
-```
-brew install istioctl
-```
-
-
 --
 
 ### Tools
@@ -54,6 +47,18 @@ brew install istioctl
 https://k8slens.dev/
 <br>
 IDE to take control of your Kubernetes clusters. 
+
+
+
+### Istio
+
+```
+brew install istioctl
+```
+
+### Traefik
+https://github.com/traefik/traefik
+
 
 
 #### Helm
