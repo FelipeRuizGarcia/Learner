@@ -1,7 +1,14 @@
-www.office.com/
+# www.office.com/
 
 
-## email exchange
+## Domains
+
+Add a domain to Microsoft 365
+https://learn.microsoft.com/en-us/microsoft-365/admin/setup/add-domain?view=o365-worldwide#add-a-domain
+
+---
+
+## Email Exchange
 
 ### Migration Batches
 
