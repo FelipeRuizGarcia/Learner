@@ -10,6 +10,13 @@ https://learn.microsoft.com/en-us/microsoft-365/admin/setup/add-domain?view=o365
 
 ## Email Exchange
 
+##### Shared Mailbox
+
+https://learn.microsoft.com/en-us/microsoft-365/admin/email/create-a-shared-mailbox
+
+https://support.microsoft.com/en-us/office/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd
+
+
 #### Perform a Google Workspace (formerly G Suite) migration to Microsoft 365 or Office 365
 
 
