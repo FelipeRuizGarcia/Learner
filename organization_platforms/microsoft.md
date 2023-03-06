@@ -19,6 +19,7 @@ https://support.microsoft.com/en-us/office/open-and-use-a-shared-mailbox-in-outl
 
 #### Perform a Google Workspace (formerly G Suite) migration to Microsoft 365 or Office 365
 
+https://learn.microsoft.com/en-us/exchange/mailbox-migration/migrating-imap-mailboxes/migrate-g-suite-mailboxes
 
 #### Migration Batches
 
