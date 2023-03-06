@@ -21,6 +21,8 @@ https://support.microsoft.com/en-us/office/open-and-use-a-shared-mailbox-in-outl
 
 https://learn.microsoft.com/en-us/exchange/mailbox-migration/migrating-imap-mailboxes/migrate-g-suite-mailboxes
 
+https://learn.microsoft.com/en-us/exchange/mailbox-migration/manual-gspace-migration-classiceac#create-a-google-service-account
+
 #### Migration Batches
 
 https://admin.exchange.microsoft.com/#/migrationbatch
