@@ -21,6 +21,12 @@ https://stackoverflow.com/questions/8691199/what-does-t-mean-in-git-status-it-is
 
 ---
 
+# Git Branching Strategy
+https://www.flagship.io/git-branching-strategies/
+
+###  Gitflow Workflow
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
 
 # Git Submodules
 
