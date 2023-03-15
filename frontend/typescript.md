@@ -17,3 +17,7 @@ https://www.typescriptlang.org/docs/handbook/jsx.html
 
 https://www.typescriptlang.org/tsconfig#jsx
 
+
+#### Tools
+
+https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html
