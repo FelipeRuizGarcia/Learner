@@ -4,8 +4,9 @@
 
 https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
 
-
 https://www.w3schools.com/typescript/index.php
+
+https://www.typescripttutorial.net/
 
 
 #### React + JSX
