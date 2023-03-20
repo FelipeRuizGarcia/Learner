@@ -18,3 +18,10 @@ https://www.systutorials.com/making-dnf-yum-not-update-certain-packages/
 
 ##### Ubuntu/Debian:
 ` apt-get install build-essential `
+
+
+#### https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/
+
+```
+sudo dnf system-upgrade download --releasever=37 --allowerasing 
+```
