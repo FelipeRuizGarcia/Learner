@@ -21,3 +21,8 @@ https://www.typescriptlang.org/tsconfig#jsx
 #### Tools
 
 https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html
+
+
+#### Setup TypeScript with React
+
+https://react-typescript-cheatsheet.netlify.app/docs/basic/setup/
