@@ -1,3 +1,30 @@
+### Frontend Use Rest APIS
+
+There are 2 ways of use a Rest API with Amplify, describe below
+
+#### With Amplify ecosystem
+
+Amplify handles the providing the Backend amplify context.
+
+https://docs.amplify.aws/start/getting-started/setup/q/integration/react/#initialize-a-new-backend
+
+https://docs.amplify.aws/start/getting-started/data-model/q/integration/react/#connect-frontend-to-api
+
+https://docs.amplify.aws/lib/restapi/fetch/q/platform/js/
+
+#### Custom Rest Endpoints
+
+Amplify libs allows setup a custom Rest API to your Frontend:
+
+https://docs.amplify.aws/lib/restapi/getting-started/q/platform/js/#configure-your-application
+
+https://docs.amplify.aws/start/getting-started/setup/q/integration/react/#initialize-a-new-backend
+
+https://docs.amplify.aws/lib/restapi/fetch/q/platform/js/
+
+
+---
+
 https://docs.amplify.aws/lib/auth/manageusers/q/platform/js/#managing-security-tokens
 
 https://docs.amplify.aws/lib/auth/social/q/platform/js/
