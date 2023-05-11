@@ -1,3 +1,8 @@
+https://thezbook.com/the-biggest-mistake-i-see-engineers-make
+<br>
+The Biggest Mistake I See Engineers Make - by Zach Lloyd
+
+
 https://staffeng.com/
 <br>
 The StaffEng project aims to collect the stories of folks who are operating in Staff,
