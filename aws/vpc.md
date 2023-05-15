@@ -25,6 +25,9 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html
 https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html
 
 ### VPC Endpoint
+
+https://docs.aws.amazon.com/whitepapers/latest/aws-privatelink/what-are-vpc-endpoints.html
+
 https://docs.aws.amazon.com/vpc/latest/privatelink/privatelink-access-aws-services.html
 
 
