@@ -22,6 +22,11 @@ https://docs.amplify.aws/start/getting-started/setup/q/integration/react/#initia
 
 https://docs.amplify.aws/lib/restapi/fetch/q/platform/js/
 
+#### Amplify Lambda Layers
+
+https://aws.amazon.com/blogs/mobile/how-to-use-lambda-layers-with-the-amplify-cli/
+
+https://docs.amplify.aws/cli/function/layers/
 
 ---
 
