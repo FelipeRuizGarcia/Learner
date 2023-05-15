@@ -69,6 +69,7 @@ https://react-select.com/home
 
 https://swiperjs.com/
 
+https://react-dropzone.js.org/
 
 
 ## Debugging
