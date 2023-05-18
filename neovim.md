@@ -18,14 +18,11 @@ https://github.com/FelipeRuizGarcia/myDotFiles/tree/test_legion/vim
 
 ### LUA
 
-
 https://github.com/williamboman/mason.nvim
 
 ``` :checkhealth mason  ```
 
 https://github.com/nvim-lua/plenary.nvim
-
-
 
 https://github.com/nanotee/nvim-lua-guide
 
@@ -39,8 +36,6 @@ https://microsoft.github.io/language-server-protocol/
 https://neovim.io/doc/lsp/
 
 :LspInfo
-
-
 
 
 https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim#install-extensions-for-programming-languages-you-use-daily
@@ -60,9 +55,12 @@ https://github.com/fannheyward/coc-sql
 
 https://github.com/fannheyward/coc-pyright
 
-
-
-
 ```
 :CocInstall coc-sql
 ```
+
+#### AUTO FORMAT
+
+https://github.com/sbdchd/neoformat
+
+https://github.com/dense-analysis/ale
