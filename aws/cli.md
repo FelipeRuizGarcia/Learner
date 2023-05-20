@@ -6,6 +6,16 @@ Add profiles as < Account > . < user >
 
 ---
 
+#### Import CSV
+
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/import.html#examples
+
+```
+aws configure import --csv
+```
+
+---
+
 List all profiles
 ```
  aws configure list-profiles
