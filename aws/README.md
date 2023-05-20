@@ -3,6 +3,14 @@
 ## AWS Samples
 https://github.com/aws-samples
 
+https://github.com/awslabs
+
+
+##### https://github.com/aws-samples/retail-demo-store
+
+https://github.com/awslabs/aws-well-architected-labs
+
+----
 
 ### ProTips
 If possible, create an independent aws root account for each domain: and you can apply for credits for each account, instead of 1 credit for the account.
