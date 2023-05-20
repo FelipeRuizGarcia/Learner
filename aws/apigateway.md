@@ -19,3 +19,15 @@ https://aws.amazon.com/blogs/compute/simply-serverless-using-aws-lambda-to-expos
 
 https://medium.com/nirman-tech-blog/aws-gateway-api-endpoints-multi-value-cookie-mapping-a36586cebd5e
 
+### Reduce risk by implementing HttpOnly cookie authentication in Amazon API Gateway
+
+https://aws.amazon.com/blogs/security/reduce-risk-by-implementing-httponly-cookie-authentication-in-amazon-api-gateway/
+
+
+### Serverless AWS API Gateway
+
+Simply Serverless: Using AWS Lambda to Expose Custom Cookies with API Gateway
+
+https://aws.amazon.com/blogs/compute/simply-serverless-using-aws-lambda-to-expose-custom-cookies-with-api-gateway/
+
+https://medium.com/nirman-tech-blog/aws-gateway-api-endpoints-multi-value-cookie-mapping-a36586cebd5e
