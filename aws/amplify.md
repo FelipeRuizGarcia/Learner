@@ -55,3 +55,6 @@ https://github.com/aws-amplify/amplify-js/issues/6236
 
 ### Use existing Cognito resources for your Amplify API, Storage and more
 https://aws.amazon.com/blogs/mobile/use-existing-cognito-resources-for-your-amplify-api-storage-and-more/
+
+#### ammplify samples
+https://github.com/aws-amplify
