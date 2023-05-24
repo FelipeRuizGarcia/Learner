@@ -87,8 +87,8 @@ Browser Extensions
 
 React Developer Tools
 
-https://github.com/petrenkoVitaliy/formik-devtools
-
 https://github.com/deeppatel234/react-context-devtool
 
+https://github.com/petrenkoVitaliy/formik-devtools
 
+https://github.com/reduxjs/redux-devtools
