@@ -80,3 +80,15 @@ https://dev.to/colocodes/how-to-debug-a-react-app-51l4
 
 https://bobbyhadz.com/blog/react-hooks-exhaustive-deps
 
+
+### DevTools
+
+Browser Extensions 
+
+React Developer Tools
+
+https://github.com/petrenkoVitaliy/formik-devtools
+
+https://github.com/deeppatel234/react-context-devtool
+
+
