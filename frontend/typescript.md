@@ -33,3 +33,16 @@ https://react-typescript-cheatsheet.netlify.app/docs/basic/setup/
 https://www.typescriptlang.org/tsconfig#paths
 
 https://www.typescriptlang.org/docs/handbook/module-resolution.html#path-mapping
+
+
+Enable absolute paths
+```
+{
+  "compilerOptions": {
+    ...
+    "baseUrl": "src"
+  },
+  "include": ["src"]
+}
+
+```
