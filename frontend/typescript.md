@@ -26,3 +26,10 @@ https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.htm
 #### Setup TypeScript with React
 
 https://react-typescript-cheatsheet.netlify.app/docs/basic/setup/
+
+
+### Paths
+
+https://www.typescriptlang.org/tsconfig#paths
+
+https://www.typescriptlang.org/docs/handbook/module-resolution.html#path-mapping
