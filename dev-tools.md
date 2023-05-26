@@ -1,6 +1,10 @@
 My Fav tools in my workflow ( Free software + Open Source ) 
 
 
+### git hooks
+
+https://github.com/typicode/husky
+
 ### Create Favicon quick!
 
 https://favicon.io/favicon-converter/
