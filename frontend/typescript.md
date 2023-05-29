@@ -46,3 +46,9 @@ Enable absolute paths
 }
 
 ```
+### Type declarations
+
+https://microsoft.github.io/TypeScript-New-Handbook/chapters/type-declarations/
+
+#### .d.ts files
+https://microsoft.github.io/TypeScript-New-Handbook/chapters/type-declarations/
