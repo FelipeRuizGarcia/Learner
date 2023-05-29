@@ -17,6 +17,18 @@ https://initialcommit.com/blog/git-commit-messages-best-practices
 
 ## PRO TIPs: My own journy / flow
 
+---
+
+#### From commit to working dir / stage area
+
+Using git cherry-pick in combination with the --no-commit flag allows you to apply the changes while keeping them in the working directory and the staging area, instead of automatically creating a new commit. 
+
+```
+git cherry-pick --no-commit <commit_hash>
+```
+
+---
+
 ##### Make an PR before to delete a branch, bc pr closed can restore the branch.
 
 ---
