@@ -1,3 +1,11 @@
+### Shortcuts
+
+```
+Super + Shift + Page Up to move the window to a workspace left of the current workspace on the workspace selector.
+Super + Shift + Page Down to move the window to a workspace right of the current workspace on the workspace selector.
+```
+---
+
 # Gnome Configs
 
 https://extensions.gnome.org/
