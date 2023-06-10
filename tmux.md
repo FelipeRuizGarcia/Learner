@@ -24,3 +24,11 @@ https://unix.stackexchange.com/questions/24274/attach-to-different-windows-in-se
 
 https://bezhermoso.github.io/til/move-a-tmux-pane-from-one-window-to-another/
 
+
+---
+
+### Debugging
+
+```
+tmux -vvv
+```
