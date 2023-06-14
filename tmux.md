@@ -34,7 +34,12 @@ tmux -vvv
 ```
 
 ## Plugins
-Tmux Plugin Manager
-
+### Tmux Plugin Manager
 #### Automatic tpm installation
 https://github.com/tmux-plugins/tpm/blob/master/docs/automatic_tpm_installation.md
+
+---
+
+### tmux-continuum
+#### Systemd automatic start for tmux
+https://github.com/tmux-plugins/tmux-continuum/blob/master/docs/systemd_details.md
