@@ -32,3 +32,9 @@ https://bezhermoso.github.io/til/move-a-tmux-pane-from-one-window-to-another/
 ```
 tmux -vvv
 ```
+
+## Plugins
+Tmux Plugin Manager
+
+#### Automatic tpm installation
+https://github.com/tmux-plugins/tpm/blob/master/docs/automatic_tpm_installation.md
