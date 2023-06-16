@@ -2,6 +2,8 @@
 
 https://json-schema.org/
 
+http://json-schema.org/understanding-json-schema/
+
 https://github.com/json-schema-org/json-schema-spec
 
 
