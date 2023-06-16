@@ -4,6 +4,8 @@ https://json-schema.org/
 
 http://json-schema.org/understanding-json-schema/
 
+https://www.learnjsonschema.com/
+
 https://github.com/json-schema-org/json-schema-spec
 
 
