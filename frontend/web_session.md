@@ -15,6 +15,12 @@ https://www.xenonstack.com/insights/local-vs-session-storage-vs-cookie
 
 ---
 
+### React Protected routes and roles
+
+https://youtu.be/42tFXd1PdCk
+
+https://blog.logrocket.com/complete-guide-authentication-with-react-router-v6/
+
 ### React.js Login & Registration example – JWT & HttpOnly Cookie
 
 https://www.bezkoder.com/react-login-example-jwt-hooks/
