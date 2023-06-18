@@ -20,7 +20,14 @@ https://docs.amplify.aws/lib/restapi/getting-started/q/platform/js/#configure-yo
 
 https://docs.amplify.aws/start/getting-started/setup/q/integration/react/#initialize-a-new-backend
 
-https://docs.amplify.aws/lib/restapi/fetch/q/platform/js/
+https://docs.amplify.aws/lib/restapi/fetch/q/platform/js/\
+
+
+### Graphql whit Amplify
+
+https://docs.amplify.aws/cli/graphql/overview/#update-schema
+
+
 
 #### Amplify Lambda Layers
 
