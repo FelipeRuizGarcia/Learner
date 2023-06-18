@@ -27,6 +27,9 @@ https://docs.amplify.aws/lib/restapi/fetch/q/platform/js/\
 
 https://docs.amplify.aws/cli/graphql/overview/#update-schema
 
+```
+src/API.ts
+```
 
 
 #### Amplify Lambda Layers
