@@ -46,6 +46,10 @@ Enable absolute paths
 }
 
 ```
+
+### Interfaces
+https://www.tutorialsteacher.com/typescript/typescript-interface
+
 ### Type declarations
 
 https://microsoft.github.io/TypeScript-New-Handbook/chapters/type-declarations/
