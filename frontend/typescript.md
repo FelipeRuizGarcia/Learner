@@ -52,3 +52,11 @@ https://microsoft.github.io/TypeScript-New-Handbook/chapters/type-declarations/
 
 #### .d.ts files
 https://microsoft.github.io/TypeScript-New-Handbook/chapters/type-declarations/
+
+
+#### TSC CLI / compiler options
+https://www.typescriptlang.org/docs/handbook/compiler-options.html
+
+
+#### TSConfig
+https://www.typescriptlang.org/tsconfig
