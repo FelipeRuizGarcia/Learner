@@ -64,14 +64,26 @@ https://dev.to/colinmcd01/git-submodules-gbp
 
 https://stackoverflow.com/questions/4526910/rename-a-git-submodule
 
+---
 
 ### Git WorkTree | Manage multiple working trees
+
 
 https://git-scm.com/docs/git-worktree
 
 https://opensource.com/article/21/4/git-worktree
 
+Pro: My alias
 
+```
+gwt='git worktree'
+gwta='git worktree add'
+gwtls='git worktree list'
+gwtmv='git worktree move'
+gwtrm='git worktree remove'
+```
+
+---
 
 ### Git Tree
 
