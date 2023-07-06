@@ -14,6 +14,19 @@ https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/imp
 aws configure import --csv
 ```
 
+Considerate the next workarounds
+
+```
+dos2unix ci-dev-fix.Felipe_accessKeys.csv
+    change the encoding of the CSV file from utf8bom to utf8
+
+    re-save the file in a plain text editor with User Name header added
+
+```
+https://github.com/aws/aws-cli/issues/7721#issuecomment-1469206388
+
+
+
 ---
 
 List all profiles
