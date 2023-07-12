@@ -12,9 +12,13 @@ Then use a substitution (:s///) over each line (%) to replace all (g) continuous
 
 ### Neovim setup
 
+nvim plug
+https://github.com/junegunn/vim-plug
+
+
+
 Configs and plugings at
 
-https://github.com/FelipeRuizGarcia/myDotFiles/tree/test_legion/vim
 
 ### LUA
 
