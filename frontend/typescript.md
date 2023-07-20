@@ -64,3 +64,11 @@ https://www.typescriptlang.org/docs/handbook/compiler-options.html
 
 #### TSConfig
 https://www.typescriptlang.org/tsconfig
+
+## Tools and Libs
+
+https://typestrong.org/ts-node/
+
+## Tips
+
+use tsc 
