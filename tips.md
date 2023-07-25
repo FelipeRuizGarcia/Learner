@@ -1,6 +1,8 @@
 ## Master with codebases
 Dominate `git stash + origin + branches + worktree ` to switch and handle as much as possible with git / stash / worktrees
 
+`git diff --color-words origin/dev`
+
 if not possible compare with git, use tools 
 to compare files between codebases with $diff and also $shasum
 
