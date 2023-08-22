@@ -63,3 +63,7 @@ https://aws.amazon.com/blogs/mobile/use-existing-cognito-resources-for-your-ampl
 
 #### ammplify samples
 https://github.com/aws-amplify
+
+
+#### TROUBLESHOOTING
+https://docs.amplify.aws/cli/project/troubleshooting/
