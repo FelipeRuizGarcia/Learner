@@ -1,3 +1,9 @@
+config options to speed up the performance
+
+<img width="611" alt="image" src="https://github.com/FelipeRuizGarcia/Learner/assets/14207635/acde8ea5-08f6-440c-bbb1-dc85d05fd288">
+
+---
+
 ```
 
 Enable option key as meta key
