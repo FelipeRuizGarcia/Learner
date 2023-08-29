@@ -37,6 +37,8 @@ api gateway with custom domain mappings not supported yet
 
 clusters with "protection deletion" not supported yet.
 
+vpc private subnets not supported yet.
+
 
 ---
 
