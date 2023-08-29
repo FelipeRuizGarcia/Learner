@@ -21,8 +21,6 @@ If possible, create an independent aws root account for each domain: and you can
 
 * Deactivate all the unused AWS Regions at IAM > Account settings
 
-* Creating access keys for the root user
-
 https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html#id_root-user_manage_add-key
 
 ----
