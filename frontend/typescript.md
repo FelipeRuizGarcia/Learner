@@ -69,6 +69,9 @@ https://www.typescriptlang.org/tsconfig
 
 https://typestrong.org/ts-node/
 
+##### ORMS
+https://blog.logrocket.com/best-typescript-orms/
+
 ## Tips
 
 use tsc 
