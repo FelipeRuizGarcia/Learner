@@ -32,6 +32,7 @@ best practice AWS environment
 <br>
 https://aws.amazon.com/organizations/getting-started/best-practices/
 
+* Do not create root access key https://docs.aws.amazon.com/accounts/latest/reference/best-practices-root-user.html#bp-root-lock-away-credentials
 
 
 ### SCP's
