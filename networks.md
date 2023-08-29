@@ -1,3 +1,8 @@
+commands
+
+`$ dig `
+
+---
 
 ### IP Basics
 https://youtu.be/-sYI7saBY7M
