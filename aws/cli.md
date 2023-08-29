@@ -1,8 +1,9 @@
-Add profiles as < Account > . < user >
+Add profiles as < Account > - < user >
 ``` 
- CUSTOMER_A.felipe
- PLATFORM_ADAPA_ERP.felipe
+ CUSTOMER_A-felipe
+ PLATFORM_ADAPA_ERP-felipe
  ```
+use `-` instead of `.`, some tools does not import aws profiles with `.` properly.
 
 ---
 
