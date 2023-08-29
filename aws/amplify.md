@@ -4,6 +4,10 @@
 [https://amplify.aws/learn/courses/Fullstack-for-Frontend-Developers-e7319/lessons/1
 ](https://amplify.aws/learn/courses/Fullstack-for-Frontend-Developers-e7319)
 
+## CI / CD
+
+https://docs.aws.amazon.com/amplify/latest/userguide/deploy-backend.html#step-3-connect-backend-to-frontend
+
 ### Frontend Use Rest APIS
 
 There are 2 ways of use a Rest API with Amplify, describe below
