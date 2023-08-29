@@ -27,7 +27,7 @@ $ brew upgrade cloud-nuke
 
 $ cloud-nuke aws --region us-east-1 global --resource-type s3 --force
 
-$ cloud-nuke aws --region us-east-1 us-east-2 us-west-1 us-west-2 --resource-type apigateway,lambda,vpc,s3,iam,eip,nat-gateway --config ./cloud-nuke-s3.yml --log-level trace --force
+$ cloud-nuke aws --region us-east-1 us-east-2 us-west-1 us-west-2 --resource-type apigateway,apigatewayv2,lambda,vpc,s3,iam,eip,nat-gateway,ec2,ec2-keypairs --config ./cloud-nuke-s3.yml --log-level trace --force
 
 ```
 
