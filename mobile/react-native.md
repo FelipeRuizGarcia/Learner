@@ -15,8 +15,12 @@ https://docs.expo.dev/workflow/web/
 https://docs.expo.dev/distribution/publishing-websites/#aws-amplify-console
 
 **Local Builds**
+
 <br>
 https://docs.expo.dev/eas-update/build-locally/
+<br>
+https://docs.expo.dev/build-reference/local-builds/#using-local-builds-for-debugging
+
 
 ###  Fastlane
 https://fastlane.tools/
