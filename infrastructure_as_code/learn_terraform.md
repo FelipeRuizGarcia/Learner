@@ -1,5 +1,5 @@
-# Resources to learn and get the Terraform certifications
 
+# Resources to learn and get the Terraform certifications
 
 ### Pro Tips
 `-auto-approve`
@@ -273,3 +273,11 @@ https://www.terraform.io/cli/commands/graph
 ``` 
     terraform graph | dot -Tsvg > graph.svg
 ```
+
+#### Articles
+
+TF isnt open sources anymore, instead 
+<br>
+https://opentofu.org/
+
+https://www.theregister.com/2023/08/11/hashicorp_bsl_licence/
