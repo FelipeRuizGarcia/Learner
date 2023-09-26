@@ -56,13 +56,25 @@ https://reactrouter.com/docs/en/v6/getting-started/overview
 
 
 
-## React Integrations
+# React Integrations
 
-https://mui.com/x/react-date-pickers/date-picker/
+#### Phone Number
 
+https://www.npmjs.com/package/react-international-phone
+
+https://www.npmjs.com/package/react-phone-number-input
 
 https://www.npmjs.com/package/react-input-verification-code
 
+---
+
+#### Dates
+
+https://mui.com/x/react-date-pickers/date-picker/
+
+---
+
+#### Others
 
 https://react-select.com/home
 
@@ -70,6 +82,8 @@ https://react-select.com/home
 https://swiperjs.com/
 
 https://react-dropzone.js.org/
+
+
 
 
 ## Debugging
