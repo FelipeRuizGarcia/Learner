@@ -1,3 +1,8 @@
+### Articles
+
+https://newsletter.systemdesign.one/p/whatsapp-engineering
+
+
 https://thezbook.com/the-biggest-mistake-i-see-engineers-make
 <br>
 The Biggest Mistake I See Engineers Make - by Zach Lloyd
