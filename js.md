@@ -1,3 +1,13 @@
+### ES6
+
+https://nodejs.org/docs/latest/api/esm.html#esm_differences_between_es_modules_and_commonjs
+
+https://stackoverflow.com/questions/57492546/what-is-the-difference-between-js-and-mjs-files
+
+
+
+---
+
 ### Logging
 https://github.com/pinojs/pino
 
