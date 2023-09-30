@@ -42,6 +42,12 @@ Fast, disk space efficient package manager:
 <br>
 https://github.com/pnpm/pnpm
 
+```
+Update all the packages and update the package.json
+
+pnpm up -L -f
+
+```
 
 ### Node Package Manager
 Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions 
