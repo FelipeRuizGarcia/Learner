@@ -1,9 +1,23 @@
+### JSDoc
+
+https://jsdoc.app/index.html
+
+https://jsdoc.app/about-getting-started.html
+
+https://codedamn.com/news/javascript/the-benefits-of-using-jsdoc-for-commenting-your-javascript-code
+
+---
+
+### eslint
+https://eslint.org/
+
+---
+
 ### ES6
 
 https://nodejs.org/docs/latest/api/esm.html#esm_differences_between_es_modules_and_commonjs
 
 https://stackoverflow.com/questions/57492546/what-is-the-difference-between-js-and-mjs-files
-
 
 
 ---
