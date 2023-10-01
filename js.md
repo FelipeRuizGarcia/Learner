@@ -11,6 +11,10 @@ https://codedamn.com/news/javascript/the-benefits-of-using-jsdoc-for-commenting-
 ### eslint
 https://eslint.org/
 
+Personal configs
+<br>
+https://eslint.org/docs/latest/use/configure/configuration-files#personal-configuration-files-deprecated
+
 ---
 
 ### ES6
