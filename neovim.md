@@ -16,7 +16,6 @@ nvim plug
 https://github.com/junegunn/vim-plug
 
 
-
 Configs and plugings at
 
 
@@ -50,7 +49,12 @@ https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim#install-extensions-fo
 
 https://github.com/neoclide
 
+--- 
 https://github.com/neoclide/coc.nvim
+
+https://github.com/neoclide/coc.nvim/wiki/Statusline-integration
+
+---
 
 https://github.com/fannheyward/coc-marketplace
 
