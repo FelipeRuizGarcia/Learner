@@ -68,6 +68,8 @@ https://github.com/fannheyward/coc-sql
 
 https://github.com/fannheyward/coc-pyright
 
+https://github.com/yaegassy/coc-tailwindcss3
+
 ```
 :CocInstall coc-sql
 ```
