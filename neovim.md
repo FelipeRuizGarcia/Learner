@@ -49,6 +49,8 @@ https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim#install-extensions-fo
 
 https://github.com/neoclide
 
+
+##### coc.nvim
 --- 
 https://github.com/neoclide/coc.nvim
 
@@ -56,8 +58,11 @@ https://github.com/neoclide/coc.nvim/wiki/Statusline-integration
 
 ---
 
-https://github.com/fannheyward/coc-marketplace
+##### coc extensions
 
+https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions#manage-extensions-with-coclist
+
+https://github.com/fannheyward/coc-marketplace
 
 https://github.com/fannheyward/coc-sql
 
