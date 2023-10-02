@@ -1,6 +1,5 @@
 https://graphql.org/
 
-
 ### LSP + tools
 
 https://github.com/graphql/graphiql
@@ -15,3 +14,11 @@ https://www.npmjs.com/package/graphql-language-service-cli
 https://the-guild.dev/graphql/config/docs
 
 pnpm add graphql-config
+
+#### Learning
+
+https://graphql.org/learn/
+
+#### Topics
+
+https://graphql.org/learn/introspection/
