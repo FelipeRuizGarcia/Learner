@@ -35,9 +35,9 @@ https://stackoverflow.com/questions/57492546/what-is-the-difference-between-js-a
 
 ### Compilers
 
-https://babeljs.io/
+https://babel.dev/
 
-https://github.com/google/traceur-compiler#what-is-traceur
+https://github.com/google/traceur-compiler
 
 ---
 
