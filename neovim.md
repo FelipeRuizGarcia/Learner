@@ -1,3 +1,15 @@
+### Topics
+
+```
+
+:h diff-mode
+
+:h jumpto-diffs
+:h jumpto-diffs
+
+```
+
+---
 
 ```
  First delete the blank lines:
