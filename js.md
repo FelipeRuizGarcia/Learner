@@ -7,7 +7,11 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules#dynamic_mo
 
 
 
+#####  CJS, AMD, UMD, and ESM
+https://dev.to/iggredible/what-the-heck-are-cjs-amd-umd-and-esm-ikm
 
+* CJS does not work in the browser, browsers uses ES.
+  
 ---
 
 ### JSDoc
@@ -73,6 +77,7 @@ https://github.com/eslint/eslint.git
 
 https://github.com/nolimits4web/Swiper
 
+---
 
 ### bun
 Bun is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, test runner, and Node.js-compatible package manager.
