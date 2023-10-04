@@ -5,6 +5,10 @@
 
 https://vitejs.dev/guide/dep-pre-bundling.html#dependency-pre-bundling
 
+##### Chunking Strategy 
+
+https://vitejs.dev/guide/build.html#chunking-strategy
+
 ---
 
 #### Intro Vite
