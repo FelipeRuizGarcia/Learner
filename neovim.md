@@ -1,7 +1,7 @@
 ### Topics
 
 ```
-
+:h windows
 :h diff-mode
 
 :h jumpto-diffs
