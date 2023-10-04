@@ -1,3 +1,8 @@
+### Tips and tricks
+
+```
+AWS Amplify assumes CommonJS
+```
 
 ## Tutorials
 
