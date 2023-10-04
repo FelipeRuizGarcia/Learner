@@ -13,3 +13,10 @@ https://radixweb.com/blog/webpack-vs-vitejs-comparison
 
 ### Static Asset Handling
 https://vitejs.dev/guide/assets.html#static-asset-handling
+
+
+---
+
+### Articles
+
+https://dev.to/this-is-learning/why-use-vite-when-bun-is-also-a-bundler-vite-vs-bun-2723
