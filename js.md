@@ -5,14 +5,17 @@
 ##### Dynamic module loading
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules#dynamic_module_loading
 
-##### Bundlers
-https://snipcart.com/blog/javascript-module-bundler#top-5-javascript-module-bundlers
-
-
 #####  CJS, AMD, UMD, and ESM
 https://dev.to/iggredible/what-the-heck-are-cjs-amd-umd-and-esm-ikm
 
 * CJS does not work in the browser, browsers uses ES.
+
+---
+
+##### Bundlers
+https://snipcart.com/blog/javascript-module-bundler#top-5-javascript-module-bundlers
+
+https://esbuild.github.io/
   
 ---
 
