@@ -1,4 +1,12 @@
 
+### Topics
+
+##### Dependency Pre-Bundling
+
+https://vitejs.dev/guide/dep-pre-bundling.html#dependency-pre-bundling
+
+---
+
 #### Intro Vite
 https://youtu.be/UX4gvort2TU
 
