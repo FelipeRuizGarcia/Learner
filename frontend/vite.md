@@ -31,4 +31,6 @@ https://vitejs.dev/guide/assets.html#static-asset-handling
 
 ### Articles
 
+https://github.com/vitejs/vite/discussions/7622
+
 https://dev.to/this-is-learning/why-use-vite-when-bun-is-also-a-bundler-vite-vs-bun-2723
