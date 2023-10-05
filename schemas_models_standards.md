@@ -22,3 +22,11 @@ https://modern-json-schema.com/what-is-modern-json-schema
 ---
 
 ### https://github.com/OAI/OpenAPI-Specification
+
+---
+
+### Tools
+The most powerful schema description language
+and data validator for JavaScript
+<br>
+https://joi.dev/
