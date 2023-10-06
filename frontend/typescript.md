@@ -67,6 +67,12 @@ https://www.typescriptlang.org/tsconfig
 
 ## Tools and Libs
 
+##### ts-pattern pattern matching
+https://www.npmjs.com/package/ts-pattern
+
+
+
+
 https://typestrong.org/ts-node/
 
 ##### ORMS
