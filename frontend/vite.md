@@ -27,6 +27,10 @@ https://radixweb.com/blog/webpack-vs-vitejs-comparison
 https://vitejs.dev/guide/assets.html#static-asset-handling
 
 
+### Plugins
+
+https://github.com/vitejs/awesome-vite#plugins
+
 ---
 
 ### Articles
