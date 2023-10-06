@@ -14,6 +14,7 @@ https://vitejs.dev/guide/build.html#chunking-strategy
 #### Intro Vite
 https://youtu.be/UX4gvort2TU
 
+https://github.com/vitejs/awesome-vite
 
 #### Understanding a Comparison: Webpack vs ViteJS 
 
