@@ -17,3 +17,8 @@ Principal or Distinguished Engineer roles.
 https://lethain.com/
 <br>
 a bunch of random links about Staff Engineer
+
+
+https://12factor.net/
+<br>
+The twelve-factor app is a methodology for building software-as-a-service apps
