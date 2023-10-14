@@ -124,4 +124,7 @@ Node Version Manager - POSIX-compliant bash script to manage multiple active nod
 <br>
 https://github.com/nvm-sh/nvm
 
-Node by default uses CommonJS unless package.json says `"type": "module"`
+Node by default uses CommonJS unless package.json says `"type": "module"`.
+By default, uses callbacks instead of promises. Node promises APIs are available in default packages.
+
+
