@@ -1,3 +1,21 @@
+### Think, Plan and Action
+Think in terms of processes
+
+### Ramp like a champ
+
+Personal stage
+* intro
+* I am ...
+    - I can help you with
+        + this is my learning repo
+
+* You are ...
+* What a
+
+Project Stage
+
+---
+
 ### Articles
 
 https://newsletter.systemdesign.one/p/whatsapp-engineering
