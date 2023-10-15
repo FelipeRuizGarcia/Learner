@@ -1,7 +1,17 @@
 # brew
+
 https://github.com/Homebrew/brew
 
 You can build from sources with `--build-from-source`
+
+### I need to compile all ?
+
+NO, MacOs and "ubuntu" are precompiled
+Only build for Fedora or non-stable / upstream branches
+
+<https://docs.brew.sh/FAQ#why-do-you-compile-everything>
+
+---
 
 #### Homebrew terminology
 
