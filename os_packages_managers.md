@@ -1,6 +1,22 @@
 # brew
 https://github.com/Homebrew/brew
 
+You can build from sources with `--build-from-source`
+
+#### Homebrew terminology
+
+https://docs.brew.sh/Formula-Cookbook#homebrew-terminology
+
+
+```
+formula
+Homebrew package definition that builds from upstream sources
+
+cask
+Homebrew package definition that installs macOS native applications
+```
+
+
 ---
 
 # Flatpak
