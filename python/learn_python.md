@@ -8,6 +8,12 @@ you can use the @classmethod decorator for classmethod definition.
 https://www.programiz.com/python-programming/methods/built-in/classmethod
 
 
+### Packages
+
+##### Poetry
+
+Python packaging and dependency management made easy
+<https://github.com/python-poetry/poetry>
 
 ### Tools
 
