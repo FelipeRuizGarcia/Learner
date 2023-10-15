@@ -1,18 +1,24 @@
 ### Think, Plan and Action
 Think in terms of processes
 
+---
+
 ### Ramp like a champ
 
 Personal stage
-* intro
+* intro / personal / hobbies
 * I am ...
-    - I can help you with
-        + this is my learning repo
+    * I can help you with
+    * this is my learning repo
 
 * You are ...
 * What a
 
 Project Stage
+* what are the priorities
+* what are the more valuable things
+* what are the quickest things to do ?
+*
 
 ---
 
