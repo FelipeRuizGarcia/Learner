@@ -1,5 +1,13 @@
 # Git
 
+### User Local Files
+
+```
+~/.gitconfig
+
+~/.git-credentials
+```
+
 #### hooks
 
 https://githooks.com/

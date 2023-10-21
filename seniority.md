@@ -20,6 +20,11 @@ Project Stage
 * what are the quickest things to do ?
 *
 
+Then
+* Evaluate the priorities with the leadership / directors
+* make a plan
+* rock and roll
+
 ---
 
 ### Articles

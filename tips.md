@@ -1,4 +1,5 @@
 ## Master with codebases
+
 Dominate `git stash + origin + branches + worktree ` to switch and handle as much as possible with git / stash / worktrees
 
 `git diff --color-words origin/dev`
@@ -6,8 +7,8 @@ Dominate `git stash + origin + branches + worktree ` to switch and handle as muc
 if not possible compare with git, use tools 
 to compare files between codebases with $diff and also $shasum
 
-
 ---
+
 ` the cost of being wrong is less than the cost of doing nothing -Seth Godin `
 
 * About your learning, Think in long term: Invest time to follow the best practices.

@@ -91,3 +91,7 @@ https://github.com/yaegassy/coc-tailwindcss3
 https://github.com/sbdchd/neoformat
 
 https://github.com/dense-analysis/ale
+
+### Snippets
+
+https://github.com/ults-io/vscode-react-javascript-snippets

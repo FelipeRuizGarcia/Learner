@@ -1,4 +1,8 @@
-# brew
+### dnf
+
+https://copr.fedorainfracloud.org/coprs/
+
+### brew
 
 https://github.com/Homebrew/brew
 

@@ -23,15 +23,20 @@ loadable in the browser.
 
 https://snipcart.com/blog/javascript-module-bundler#top-5-javascript-module-bundlers
 
-
-
 https://esbuild.github.io/
 
 https://turbo.build/
 
-
 ---
   
+#### Compression
+
+https://swc.rs/playground
+
+** Brotli vs. GZIP vs. Zopfli **
+
+https://dev.to/codingcrafts/brotli-vs-gzip-vs-zopfli-comparing-javascript-compression-techniques-1fo2
+
 ---
 
 ### JSDoc
@@ -81,13 +86,28 @@ https://github.com/google/traceur-compiler
 https://github.com/pinojs/pino
 
 ### Dates
+
+https://github.com/moment/luxon/
+
 ---
+
 https://day.js.org
 
---- 
+---
+
+https://github.com/moment/moment
+
+---
+
+### Others
+
+    Financial Charts
+
+    https://github.com/tradingview/lightweight-charts
+
+---
 
 https://lit.dev/
-
 
 ---
 
@@ -127,4 +147,10 @@ https://github.com/nvm-sh/nvm
 Node by default uses CommonJS unless package.json says `"type": "module"`.
 By default, uses callbacks instead of promises. Node promises APIs are available in default packages.
 
+---
 
+### Competitions and conferences
+
+https://js13kgames.com/
+
+---

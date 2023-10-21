@@ -20,14 +20,17 @@ https://askubuntu.com/questions/484993/run-command-on-anothernew-terminal-window
 `type` to see if is command of builtin, shell function, alias, etc
 
 #### where is the bin ?
-```
-command -v vim
+
+* command -v vim
+    show wich is execute in the current shell
+    validate the type of execution, is that an alias ? is a binary and show the dir
 
 which vim
 
-whereis vim
+* whereis vim
+    search the package in the diff paths... show the diff paths for each package.
+    ideal to validate the diff packages version of a package are installed and where.
 
-```
 
 put `\` before the command to execute Non alias
 ```
