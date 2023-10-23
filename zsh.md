@@ -12,3 +12,7 @@ https://unix.stackexchange.com/questions/273201/updating-shell-functions-and-ali
 
 #### edit and run in the prompt
 ` Ctrl X + Ctrl E -->  $ edit-command-line `
+
+#### Plugins
+
+https://github.com/unixorn/awesome-zsh-plugins
