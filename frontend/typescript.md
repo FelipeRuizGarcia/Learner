@@ -17,12 +17,6 @@ https://www.typescriptlang.org/docs/handbook/jsx.html
 
 https://www.typescriptlang.org/tsconfig#jsx
 
-
-#### Tools
-
-https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html
-
-
 #### Setup TypeScript with React
 
 https://react-typescript-cheatsheet.netlify.app/docs/basic/setup/
@@ -66,6 +60,10 @@ https://www.typescriptlang.org/docs/handbook/compiler-options.html
 https://www.typescriptlang.org/tsconfig
 
 ## Tools and Libs
+
+https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html
+
+https://github.com/typescript-eslint/typescript-eslint
 
 ##### ts-pattern pattern matching
 https://www.npmjs.com/package/ts-pattern
