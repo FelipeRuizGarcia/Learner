@@ -27,9 +27,15 @@ https://dev.to/otamnitram/sorting-your-imports-correctly-in-react-213m
 ####  React notification made easy rocket ! Alerts!
 https://github.com/fkhadra/react-toastify.git
 
+#### React Admin
+
+https://github.com/marmelab/react-admin
+
+---
+
+#### Install Material UI, the world's most popular React UI framework
 
 https://material-ui.com/
-
 
 ---
 ### The guide to adding Google login to your React app
@@ -87,9 +93,6 @@ https://swiperjs.com/
 
 https://react-dropzone.js.org/
 
-
-
-
 ## Debugging
 
 https://raygun.com/blog/react-debugging-guide/
@@ -98,10 +101,9 @@ https://dev.to/colocodes/how-to-debug-a-react-app-51l4
 
 https://bobbyhadz.com/blog/react-hooks-exhaustive-deps
 
-
 ### DevTools
 
-Browser Extensions 
+Browser Extensions
 
 React Developer Tools
 
