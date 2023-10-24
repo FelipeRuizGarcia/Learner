@@ -1,5 +1,14 @@
 ## Master with codebases
 
+Remove all the noisy notifications and configure the external repos as you need.
+Only releases ?
+Only bug fixes ?
+Ignore at all ?
+
+https://github.com/notifications/subscriptions
+
+---
+
 Dominate `git stash + origin + branches + worktree ` to switch and handle as much as possible with git / stash / worktrees
 
 `git diff --color-words origin/dev`
