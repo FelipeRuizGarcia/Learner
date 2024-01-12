@@ -1,3 +1,8 @@
+# New Amplify Gen 2 with TS
+https://docs.amplify.aws/gen2/how-amplify-works/concepts/
+
+---
+
 ### Tips and tricks
 
 ```
