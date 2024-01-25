@@ -1,3 +1,21 @@
+# tips
+
+aws cli read profiles from the file `~/.aws/profiles` ,
+amplify reads profiles from the file `~/.aws/config` ,
+
+so, make sure to add those
+
+
+If you add the profile via:
+
+```
+aws configure import --profile-prefix
+```
+
+the profiles are NOT added to `~/.aws/config` ,
+
+---
+
 Add profiles as < Account > - < user >
 ``` 
  CUSTOMER_A-felipe
