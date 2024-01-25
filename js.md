@@ -1,6 +1,10 @@
 # JS
 
-### Topics and Concepts
+## Topics and Concepts
+
+#### Callbacks
+
+https://lenguajejs.com/javascript/asincronia/callbacks/
 
 ##### Dynamic module loading
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules#dynamic_module_loading
@@ -9,6 +13,17 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules#dynamic_mo
 https://dev.to/iggredible/what-the-heck-are-cjs-amd-umd-and-esm-ikm
 
 * CJS does not work in the browser, browsers uses ES.
+
+---
+
+
+#### Tooling
+
+Rust tools:
+
+https://github.com/biomejs/biome
+
+https://github.com/oxc-project/oxc
 
 ---
 
@@ -101,6 +116,18 @@ https://github.com/moment/moment
 
 ### Others
 
+ Embedded JavaScript templates
+
+https://github.com/mde/ejs
+
+---
+
+Async utilities for node and the browser
+
+https://github.com/caolan/async
+
+---
+
     Financial Charts
 
     https://github.com/tradingview/lightweight-charts
@@ -149,8 +176,10 @@ By default, uses callbacks instead of promises. Node promises APIs are available
 
 ---
 
-### Competitions and conferences
+### Communities and conferences
 
 https://js13kgames.com/
+
+https://risingstars.js.org/
 
 ---

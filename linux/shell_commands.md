@@ -1,3 +1,7 @@
+### wildcards
+
+https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
+
 #### Copy the target file vs the symlink recursively
 ``` cp -P ... ```
 

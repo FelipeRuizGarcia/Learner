@@ -1,12 +1,44 @@
+### cargo
+
+Cargo is the Rust package manager
+
+https://doc.rust-lang.org/cargo/
+
+https://crates.io/
+
+---
+
 ### dnf
 
+search by pkgs in corp
+
+https://copr.fedorainfracloud.org/
 https://copr.fedorainfracloud.org/coprs/
+
+
+dnf5
+```
+dnf5 distro-sync
+```
+https://dnf5.readthedocs.io/en/latest/commands/distro-sync.8.html
 
 ### brew
 
 https://github.com/Homebrew/brew
 
-You can build from sources with `--build-from-source`
+```
+ brew install -s --HEAD neovim
+```
+
+Seems that upstream `--HEAD` only can be used
+from `install` stage, it will not work at `update` or `reinstall`.
+
+You can build from sources with `-s` or `--build-from-source`.
+
+---
+
+#### How to 'build-from-source' from a specific checkout, not HEAD? #1230 
+https://github.com/orgs/Homebrew/discussions/1230
 
 ### I need to compile all ?
 

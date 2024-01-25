@@ -1,4 +1,22 @@
-### Topics
+# Nvim Topics
+
+#### Treesitter
+
+https://blog.pabuisson.com/2022/08/neovim-modern-features-treesitter-and-lsp/
+
+https://github.com/nvim-treesitter/nvim-treesitter/issues/2533
+---
+
+#### Lua under vimscript
+Put things after the package manager, example `call plug#end()`
+
+https://github.com/nvim-treesitter/nvim-treesitter/issues/270#issuecomment-725883316
+
+---
+
+#### Providers
+https://neovim.io/doc/user/provider.html
+---
 
 ```
 :h windows
@@ -63,6 +81,35 @@ https://github.com/neoclide
 
 
 ##### coc.nvim
+
+```
+
+Paths for configuration
+
+~/.local/share/nvim/plugged
+───────────────────────────
+~/.cache/nvim
+───────────────────────────
+~/.config/coc/extensions
+
+```
+
+
+```
+
+ ~/.config/coc/extensions  la
+total 0
+lrwxrwxrwx. 1 adapa adapa 54 Jan 23 01:12 package.json -> /home/user/repos/super-machine-setup/vim/package.json
+
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+ ~/.config/nvim  la
+total 0
+lrwxrwxrwx. 1 adapa adapa 50 Jan 23 01:12 init.vim -> /home/user/repos/super-machine-setup/vim/init.vim
+lrwxrwxrwx. 1 adapa adapa 54 Jan 23 01:12 package.json -> /home/user/repos/super-machine-setup/vim/package.json
+
+```
+
 --- 
 https://github.com/neoclide/coc.nvim
 

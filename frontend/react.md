@@ -24,6 +24,9 @@ https://dev.to/otamnitram/sorting-your-imports-correctly-in-react-213m
 
 ### Libs and Tools
 
+#### responsive pagination
+https://react-responsive-pagination.elantha.com/
+
 ####  React notification made easy rocket ! Alerts!
 https://github.com/fkhadra/react-toastify.git
 
@@ -114,3 +117,7 @@ https://github.com/open-source-labs/reactime
 https://github.com/petrenkoVitaliy/formik-devtools
 
 https://github.com/reduxjs/redux-devtools
+
+# MISC
+
+https://stackoverflow.com/questions/77284472/importing-svg-as-reactcomponent-in-vite-ambiguous-indirect-export-reactcompon

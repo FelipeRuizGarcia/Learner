@@ -59,7 +59,7 @@ https://www.typescriptlang.org/docs/handbook/compiler-options.html
 #### TSConfig
 https://www.typescriptlang.org/tsconfig
 
-## Tools and Libs
+## Plugins Tools and Libs
 
 https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html
 
@@ -69,7 +69,11 @@ https://github.com/typescript-eslint/typescript-eslint
 https://www.npmjs.com/package/ts-pattern
 
 
+---
 
+https://github.com/rollup/plugins/tree/master/packages/typescript
+
+---
 
 https://typestrong.org/ts-node/
 

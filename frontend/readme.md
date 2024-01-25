@@ -24,3 +24,6 @@ https://roadmap.sh/frontend
 
 ### Tools
 https://10015.io/
+
+### Web Components
+https://www.webcomponents.org/

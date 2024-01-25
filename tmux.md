@@ -1,4 +1,27 @@
-### Tmux
+
+# Tmux
+
+---
+
+### Plugins
+
+##### Resurrect
+
+https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/restoring_previously_saved_environment.md
+
+
+The path is defined with $XDG_DATA_DIRS
+
+https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/save_dir.md
+
+https://github.com/tmux-plugins/tmux-resurrect/blob/master/docs/restoring_previously_saved_environment.md
+
+---
+
+https://github.com/tmux-plugins/tmux-continuum/blob/master/docs/faq.md
+
+---
+
 Master the Tmux terminal multiplexor with the plugings, shortcuts and tips.
 
 (M-d) -> `Alt + d` to switch to that Window
