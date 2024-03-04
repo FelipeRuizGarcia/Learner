@@ -22,3 +22,9 @@ https://graphql.org/learn/
 #### Topics
 
 https://graphql.org/learn/introspection/
+
+#### DevTools
+
+https://github.com/the-guild-org
+
+https://the-guild.dev/graphql/codegen

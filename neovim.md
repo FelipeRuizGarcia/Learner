@@ -1,13 +1,61 @@
 # Nvim Topics
 
+Understanding nvim ecosystem
+
+https://roobert.github.io/2022/12/03/Extending-Neovim/
+
+---
+
+### Buffers / Windows / Tabs
+
+https://neovim.io/doc/user/windows.html
+
+### Moving
+
+https://neovim.io/doc/user/usr_29.html#29.3
+
+### Scrolling
+
+https://neovim.io/doc/user/scroll.html
+
+### Tags
+
+https://neovim.io/doc/user/usr_29.html#29.1
+
+https://neovim.io/doc/user/tagsrch.html
+
+---
+
+### Text Objects
+
+https://neovim.io/doc/user/motion.html#text-objects
+
+https://jdhao.github.io/2020/11/15/nvim_text_objects/
+
+https://github.com/nvim-treesitter/nvim-treesitter-textobjects
+
+```
+
+:options
+
+```
+
+---
+
+By default your <leader> is \, backslash. You can check it with:
+
+```
+:echo mapleader
+```
+
 #### Treesitter
 
 https://blog.pabuisson.com/2022/08/neovim-modern-features-treesitter-and-lsp/
 
-https://github.com/nvim-treesitter/nvim-treesitter/issues/2533
----
+## https://github.com/nvim-treesitter/nvim-treesitter/issues/2533
 
 #### Lua under vimscript
+
 Put things after the package manager, example `call plug#end()`
 
 https://github.com/nvim-treesitter/nvim-treesitter/issues/270#issuecomment-725883316
@@ -15,8 +63,8 @@ https://github.com/nvim-treesitter/nvim-treesitter/issues/270#issuecomment-72588
 ---
 
 #### Providers
-https://neovim.io/doc/user/provider.html
----
+
+## https://neovim.io/doc/user/provider.html
 
 ```
 :h windows
@@ -34,10 +82,11 @@ https://neovim.io/doc/user/provider.html
 :g/^\s*$/d
 
 Then use a substitution (:s///) over each line (%) to replace all (g) continuous whitespace (\s\+) with a comma (,).
- 
+
  :%s/\s\+/,/g
 
 ```
+
 ---
 
 ### Neovim setup
@@ -45,22 +94,19 @@ Then use a substitution (:s///) over each line (%) to replace all (g) continuous
 nvim plug
 https://github.com/junegunn/vim-plug
 
-
 Configs and plugings at
-
 
 ### LUA
 
 https://github.com/williamboman/mason.nvim
 
-``` :checkhealth mason  ```
+`:checkhealth mason `
 
 https://github.com/nvim-lua/plenary.nvim
 
 https://github.com/nanotee/nvim-lua-guide
 
 https://neovim.io/doc/lua-resources/
-
 
 ### LSP
 
@@ -70,15 +116,11 @@ https://neovim.io/doc/lsp/
 
 :LspInfo
 
-
 https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim#install-extensions-for-programming-languages-you-use-daily
-
-
 
 #### Coc & Marketplace
 
 https://github.com/neoclide
-
 
 ##### coc.nvim
 
@@ -93,7 +135,6 @@ Paths for configuration
 ~/.config/coc/extensions
 
 ```
-
 
 ```
 
@@ -110,7 +151,8 @@ lrwxrwxrwx. 1 adapa adapa 54 Jan 23 01:12 package.json -> /home/user/repos/super
 
 ```
 
---- 
+---
+
 https://github.com/neoclide/coc.nvim
 
 https://github.com/neoclide/coc.nvim/wiki/Statusline-integration

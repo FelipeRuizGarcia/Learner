@@ -1,5 +1,8 @@
 # CSS
 
+### Tricks
+https://moderncss.dev/12-modern-css-one-line-upgrades/
+
 ### Learn Grid
 
 https://cssgridgarden.com/
@@ -27,7 +30,8 @@ https://postcss.org/docs/postcss-runner-guidelines
 
 ---
 
-####  A Complete Guide to Flexbox 
+#### A Complete Guide to Flexbox
+
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
@@ -37,7 +41,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_C
 98 patterns
 Covers are made with CSS only. Inspect them!
 
-https://csslayout.io/ 
-
+https://csslayout.io/
 
 ---

@@ -146,6 +146,14 @@ https://github.com/nolimits4web/Swiper
 
 ---
 
+### Node
+
+https://nodejs.org/api/corepack.html
+
+Using Corepack
+
+* https://pnpm.io/installation#using-corepack
+
 ### bun
 Bun is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, test runner, and Node.js-compatible package manager.
 

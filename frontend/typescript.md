@@ -61,6 +61,19 @@ https://www.typescriptlang.org/tsconfig
 
 ## Plugins Tools and Libs
 
+
+https://github.com/TypeStrong/typedoc
+
+---
+
+https://github.com/microsoft/tsdoc
+
+---
+
+https://github.com/typescript-eslint/typescript-eslint
+
+---
+
 https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html
 
 https://github.com/typescript-eslint/typescript-eslint

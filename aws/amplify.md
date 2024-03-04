@@ -1,9 +1,37 @@
 # New Amplify Gen 2 with TS
+
 https://docs.amplify.aws/gen2/how-amplify-works/concepts/
 
 ---
 
+## Amplify Gen 1
+
+#### CLI
+https://docs.amplify.aws/javascript/tools/cli/
+
+#### aws appsync / graphql
+https://docs.amplify.aws/javascript/prev/build-a-backend/graphqlapi/
+
+https://docs.amplify.aws/react/prev/build-a-backend/graphqlapi/api-graphql-concepts/
+
+### Migrate v5 to v6
+
+https://docs.amplify.aws/javascript/build-a-backend/troubleshooting/migrate-from-javascript-v5-to-v6/
+
 ### Tips and tricks
+
+If you try
+
+```
+amplify pull --appId WRONG_ID --envName test
+```
+
+with the wrong aws profile credentials, it will raise
+an `opening link` to confirm or to confirm login
+
+### Files and Folders
+
+https://docs.amplify.aws/javascript/tools/cli/reference/files/#amplifyconfigurationjson
 
 ```
 AWS Amplify assumes CommonJS
@@ -42,7 +70,6 @@ https://docs.amplify.aws/start/getting-started/setup/q/integration/react/#initia
 
 https://docs.amplify.aws/lib/restapi/fetch/q/platform/js/\
 
-
 ### Graphql whit Amplify
 
 https://docs.amplify.aws/cli/graphql/overview/#update-schema
@@ -72,18 +99,27 @@ https://ui.docs.amplify.aws/react/connected-components/authenticator
 ---
 
 #### How to Process an AWS Cognito Authorization Code Grant using AWS Amplify
-https://medium.com/codex/how-to-process-an-aws-cognito-authorization-code-grant-using-aws-amplify-b49d9ee052ca
 
+https://medium.com/codex/how-to-process-an-aws-cognito-authorization-code-grant-using-aws-amplify-b49d9ee052ca
 
 https://github.com/aws-amplify/amplify-js/issues/6236
 
-
 ### Use existing Cognito resources for your Amplify API, Storage and more
+
 https://aws.amazon.com/blogs/mobile/use-existing-cognito-resources-for-your-amplify-api-storage-and-more/
 
 #### ammplify samples
+
 https://github.com/aws-amplify
 
+---
+
+### Amplify UI COMPONENTS
+
+https://ui.docs.amplify.aws/react/components
+
+---
 
 #### TROUBLESHOOTING
+
 https://docs.amplify.aws/cli/project/troubleshooting/
