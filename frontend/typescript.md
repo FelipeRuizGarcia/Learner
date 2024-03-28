@@ -76,8 +76,6 @@ https://github.com/typescript-eslint/typescript-eslint
 
 https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html
 
-https://github.com/typescript-eslint/typescript-eslint
-
 ##### ts-pattern pattern matching
 https://www.npmjs.com/package/ts-pattern
 

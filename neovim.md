@@ -118,6 +118,23 @@ https://neovim.io/doc/lsp/
 
 https://github.com/neoclide/coc.nvim/wiki/Install-coc.nvim#install-extensions-for-programming-languages-you-use-daily
 
+### DAP
+
+https://microsoft.github.io/debug-adapter-protocol/implementors/adapters/
+
+https://github.com/mfussenegger/nvim-dap/wiki/Debug-Adapter-installation
+
+---
+
+### Paths for configuration
+
+```
+/.local/state/nvim
+
+```
+
+---
+
 #### Coc & Marketplace
 
 https://github.com/neoclide
@@ -184,3 +201,11 @@ https://github.com/dense-analysis/ale
 ### Snippets
 
 https://github.com/ults-io/vscode-react-javascript-snippets
+
+### TUTORIALS ARTICLES
+
+https://nathan-long.com/blog/modern-javascript-tooling-in-neovim/
+
+https://harrisoncramer.me/debugging-in-neovim/
+
+https://davelage.com/posts/nvim-dap-getting-started/

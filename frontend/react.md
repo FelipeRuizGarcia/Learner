@@ -27,6 +27,13 @@ https://dev.to/otamnitram/sorting-your-imports-correctly-in-react-213m
 
 https://github.com/jsx-eslint/eslint-plugin-react#conf%E2%94%82
 
+plugins
+
+```
+eslint-config-prettier
+eslint-plugin-react-hooks
+```
+
 #### responsive pagination
 
 https://react-responsive-pagination.elantha.com/

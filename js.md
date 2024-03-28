@@ -21,7 +21,11 @@ https://dev.to/iggredible/what-the-heck-are-cjs-amd-umd-and-esm-ikm
 
 Rust tools:
 
+Pro: The Biome eco is amazing!
+
 https://github.com/biomejs/biome
+
+---
 
 https://github.com/oxc-project/oxc
 

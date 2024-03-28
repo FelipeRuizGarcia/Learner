@@ -7,9 +7,11 @@ https://docs.amplify.aws/gen2/how-amplify-works/concepts/
 ## Amplify Gen 1
 
 #### CLI
+
 https://docs.amplify.aws/javascript/tools/cli/
 
 #### aws appsync / graphql
+
 https://docs.amplify.aws/javascript/prev/build-a-backend/graphqlapi/
 
 https://docs.amplify.aws/react/prev/build-a-backend/graphqlapi/api-graphql-concepts/
@@ -19,6 +21,10 @@ https://docs.amplify.aws/react/prev/build-a-backend/graphqlapi/api-graphql-conce
 https://docs.amplify.aws/javascript/build-a-backend/troubleshooting/migrate-from-javascript-v5-to-v6/
 
 ### Tips and tricks
+
+replacing `aws-export.js` with `src/amplifyconfiguration.json`
+
+---
 
 If you try
 
@@ -71,6 +77,8 @@ https://docs.amplify.aws/start/getting-started/setup/q/integration/react/#initia
 https://docs.amplify.aws/lib/restapi/fetch/q/platform/js/\
 
 ### Graphql whit Amplify
+
+https://docs.amplify.aws/javascript/tools/cli/graphqlapi/directives-reference/
 
 https://docs.amplify.aws/cli/graphql/overview/#update-schema
 
