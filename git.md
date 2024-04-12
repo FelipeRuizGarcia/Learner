@@ -1,5 +1,16 @@
 # Git
 
+---
+
+```
+M  package.j # FIRST FROM STAGE TO HEAD
+MM package.j # FIRST FROM STAGE TO HEAD + FROM TRACKED FILE TO STAGE
+UU src/compo # IN MERGE / FROM BRANCH AND HEAD ARE UPDATED
+UD src/compo # IN MERGE / FROM BRANCH UPDATED AND DELETE FROM HEAD
+```
+
+---
+
 ### User Local Files
 
 ```
