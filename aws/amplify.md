@@ -48,6 +48,23 @@ AWS Amplify assumes CommonJS
 [https://amplify.aws/learn/courses/Fullstack-for-Frontend-Developers-e7319/lessons/1
 ](https://amplify.aws/learn/courses/Fullstack-for-Frontend-Developers-e7319)
 
+aws-samples/aws-amplify-stepfunctions-example: Learn how to extend AWS Amplify resources with CDK v2 with this example that deploys a Step Functions workflow triggered via an Amplify-managed AppSync API
+https://github.com/aws-samples/aws-amplify-stepfunctions-example
+
+aws-samples/retail-demo-store: AWS Retail Demo Store is a sample retail web application and workshop platform demonstrating how AWS infrastructure and services can be used to build compelling customer experiences for eCommerce, retail, and digital marketing use-cases
+https://github.com/aws-samples/retail-demo-store
+
+aws-samples/aws-real-user-monitoring-amplifyapps: Example of how to instrument an AWS Amplify React application with Amazon CloudWatch RUM to monitor the experience of end users
+https://github.com/aws-samples/aws-real-user-monitoring-amplifyapps
+
+aws-samples/pizza-delivery-tracker: Pizza Delivery Tracker using AWS Amplify, Amazon Location Service, AWS AppRunner, and AWS Fargate.
+https://github.com/aws-samples/pizza-delivery-tracker
+
+awslabs/amplify-graphql-seed-plugin: This is an Amplify Plugin which helps your to seed the databases of your Amplify projects with data using an AppSync GraphQL API. It can be used to seed local mock databases, as well as remote databases, e.g. for testing purposes. This plugin allows you to customize and auto-generate mock data, including data with relationships between models.
+https://github.com/awslabs/amplify-graphql-seed-plugin
+
+
+## Examples and Workshops
 ## CI / CD
 
 https://docs.aws.amazon.com/amplify/latest/userguide/deploy-backend.html#step-3-connect-backend-to-frontend

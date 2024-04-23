@@ -59,6 +59,12 @@ https://www.typescriptlang.org/docs/handbook/compiler-options.html
 #### TSConfig
 https://www.typescriptlang.org/tsconfig
 
+#### Exceptions
+
+https://howtodoinjava.com/typescript/exception-handling/
+
+https://www.slingacademy.com/article/using-try-catch-in-typescript-a-complete-guide/#Enhancing_Error_Handling
+
 ## Plugins Tools and Libs
 
 
@@ -93,4 +99,4 @@ https://blog.logrocket.com/best-typescript-orms/
 
 ## Tips
 
-use tsc 
+use tsc
