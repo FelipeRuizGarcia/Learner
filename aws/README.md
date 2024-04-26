@@ -5,6 +5,7 @@ https://github.com/aws-samples
 
 https://github.com/awslabs
 
+https://github.com/aws-solutions/
 
 ##### https://github.com/aws-samples/retail-demo-store
 

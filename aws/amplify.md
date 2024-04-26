@@ -1,6 +1,12 @@
-# New Amplify Gen 2 with TS
+## New Amplify Gen 2 with TS
 
 https://docs.amplify.aws/gen2/how-amplify-works/concepts/
+
+#### aws appsync / graphql
+
+Best Practices
+
+https://docs.amplify.aws/react/build-a-backend/graphqlapi/best-practice/warehouse-management/
 
 ---
 
@@ -40,7 +46,7 @@ an `opening link` to confirm or to confirm login
 https://docs.amplify.aws/javascript/tools/cli/reference/files/#amplifyconfigurationjson
 
 ```
-AWS Amplify assumes CommonJS
+AWS Amplify gen 1 assumes CommonJS
 ```
 
 ## Tutorials
@@ -63,8 +69,8 @@ https://github.com/aws-samples/pizza-delivery-tracker
 awslabs/amplify-graphql-seed-plugin: This is an Amplify Plugin which helps your to seed the databases of your Amplify projects with data using an AppSync GraphQL API. It can be used to seed local mock databases, as well as remote databases, e.g. for testing purposes. This plugin allows you to customize and auto-generate mock data, including data with relationships between models.
 https://github.com/awslabs/amplify-graphql-seed-plugin
 
-
 ## Examples and Workshops
+
 ## CI / CD
 
 https://docs.aws.amazon.com/amplify/latest/userguide/deploy-backend.html#step-3-connect-backend-to-frontend
