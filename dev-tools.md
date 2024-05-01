@@ -10,6 +10,8 @@ https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
 
 ### git hooks
 
+https://github.com/evilmartians/lefthook
+
 https://github.com/typicode/husky
 
 ### Create Favicon quick!

@@ -18,6 +18,14 @@ https://neovim.io/doc/user/usr_29.html#29.3
 
 https://neovim.io/doc/user/scroll.html
 
+### Folding
+
+```
+zM: fold all in file
+zO: unfold all in cursor
+zR unfold all in file
+```
+
 ### Tags
 
 https://neovim.io/doc/user/usr_29.html#29.1
@@ -48,7 +56,7 @@ By default your <leader> is \, backslash. You can check it with:
 :echo mapleader
 ```
 
-#### Treesitter
+## Treesitter
 
 https://blog.pabuisson.com/2022/08/neovim-modern-features-treesitter-and-lsp/
 
