@@ -23,3 +23,7 @@ https://github.com/meta-llama/llama3
 ### lm studio
 
 https://github.com/lmstudio-ai
+
+### Agents
+
+https://github.com/Codium-ai/cover-agent
