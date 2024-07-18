@@ -2,20 +2,25 @@
 
 ## Topics and Concepts
 
+#### Sourcemap
+
+https://esbuild.github.io/api/#sourcemap
+
 #### Callbacks
 
 https://lenguajejs.com/javascript/asincronia/callbacks/
 
 ##### Dynamic module loading
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules#dynamic_module_loading
 
-#####  CJS, AMD, UMD, and ESM
+##### CJS, AMD, UMD, and ESM
+
 https://dev.to/iggredible/what-the-heck-are-cjs-amd-umd-and-esm-ikm
 
-* CJS does not work in the browser, browsers uses ES.
+-   CJS does not work in the browser, browsers uses ES.
 
 ---
-
 
 #### Tooling
 
@@ -47,7 +52,7 @@ https://esbuild.github.io/
 https://turbo.build/
 
 ---
-  
+
 #### Compression
 
 https://swc.rs/playground
@@ -69,6 +74,7 @@ https://codedamn.com/news/javascript/the-benefits-of-using-jsdoc-for-commenting-
 ---
 
 ### eslint
+
 https://eslint.org/
 
 Personal configs
@@ -102,6 +108,7 @@ https://github.com/google/traceur-compiler
 ---
 
 ### Logging
+
 https://github.com/pinojs/pino
 
 ### Dates
@@ -120,7 +127,7 @@ https://github.com/moment/moment
 
 ### Others
 
- Embedded JavaScript templates
+Embedded JavaScript templates
 
 https://github.com/mde/ejs
 

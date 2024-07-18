@@ -1,6 +1,21 @@
 # Nvim Topics
 
-Understanding nvim ecosystem
+### Remote Plugins
+
+https://neovim.io/doc/user/remote_plugin.html#remote-plugin
+
+---
+
+### Troubleshooting
+
+```
+nvim -V1 -v
+
+```
+
+---
+
+### Understanding nvim ecosystem
 
 https://roobert.github.io/2022/12/03/Extending-Neovim/
 

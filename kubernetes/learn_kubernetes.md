@@ -1,23 +1,31 @@
 # K8
 
+### Topics
+
+DaemonSet:
+A DaemonSet ensures that a copy of a specific Pod runs on all / some nodes in the cluster.
+This is particularly useful for deploying backgroud task like monitoring agents, log collection daemons, or other system-level
+that need to run on every node.
 
 ### Video Courses
+
 https://youtu.be/X48VuDVv0do
 
 ### kubectl
+
 https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/#install-using-native-package-management
 
-
 Use moby instead of docker-ce
+
 ```
 # dnf install moby-engine
 
 ```
 
-
 ## Clusters
 
 ### Kind
+
 https://kind.sigs.k8s.io/
 <br>
 kind is a tool for running local Kubernetes clusters using Docker container “nodes”.
@@ -25,11 +33,9 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 
 ---
 
-
 ### Minikube
 
 https://minikube.sigs.k8s.io/docs/start/
-
 
 ```
 brew install minikube
@@ -46,9 +52,7 @@ minikube start --driver=docker
 
 https://k8slens.dev/
 <br>
-IDE to take control of your Kubernetes clusters. 
-
-
+IDE to take control of your Kubernetes clusters.
 
 ### Istio
 
@@ -57,13 +61,10 @@ brew install istioctl
 ```
 
 ### Traefik
+
 https://github.com/traefik/traefik
 
-
-
 #### Helm
-
-
 
 ##### Helmfile
 
@@ -73,20 +74,15 @@ Best Practices writing helmfiles
 
 https://lyz-code.github.io/blue-book/devops/helmfile/
 
-
 https://github.com/roboll/helmfile
-
-
-
 
 ### containers
 
-##### attach to running container 
-``` docker exec -it < short hash > bash ```
+##### attach to running container
+
+`docker exec -it < short hash > bash`
 
 exit of a contianer without stop it :
 in other words, we turn the interactive mode and say
 to the daemon "hey, return me back to my shell
-``` ctrl + p -> ctrl + q  ```
-
-
+`ctrl + p -> ctrl + q `

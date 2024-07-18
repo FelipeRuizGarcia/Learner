@@ -1,10 +1,8 @@
 ## Alsa
 
 ```
-
-$ aplay -l
-$ alsamixer
-
+aplay -l
+alsamixer
 
 ```
 
@@ -15,3 +13,13 @@ $ alsamixer
 ```
 sudo dnf swap --allowerasing pulseaudio pipewire-pulseaudio
 ```
+
+### Inspecting the PipeWire state
+
+```
+pw-cli info 0
+```
+
+### Wireplumber
+
+https://pipewire.pages.freedesktop.org/wireplumber/

@@ -23,3 +23,23 @@ the stages for the presenter and for the team are
 
 4. Present / Share / Teach:
    The presenter reinforce his knowledge
+
+
+#### Rewriting Technique
+
+The Revision and Rewriting Technique
+
+What is it?
+
+    It is an iterative process of improving and perfecting a text.
+    It involves reworking the thinking from the initial draft to clarify, improve the writing, and transform the knowledge.
+    It is an improvement function that requires time to think, make changes, and refine details.
+
+Benefits
+
+    Helps consolidate and deepen the learning of concepts.
+    Develops writing, organization, and communication skills.
+    Fosters critical reflection and the ability to review and self-critique.
+    Produces texts of higher quality, clarity, and coherence.
+
+Those personal notes are in `./rewriting` directory
