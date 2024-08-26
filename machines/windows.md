@@ -1,4 +1,22 @@
-# Install Windows
+# Windows
+
+## WSL
+
+1. Make sure `virtualization` is enable at the Bios.
+1. Enable the virtual machine Virtual Machine Platform and Windows Subsystem for Linux are enabled as follows:
+Press Windows Key+R then run `optionalfeatures` and enable those.
+1. Powershell as admin, run:
+```
+wsl --install
+wsl --update
+
+```
+
+### Fedora in WSL
+
+## winget package manager
+
+## Install Windows
 ### This document is to help family and friends to format and install windows on their machines. In Spaninsh as well.
 ( Please friend, install some gnu/linux, it is much better, Again, friend, you can install a linux distro )
  
