@@ -1,5 +1,11 @@
 # Windows
 
+## My settings
+
+In win32H2, enable `Systems > Multitasking > Snap windows` and disable all the options below in that tree.
+
+Then, below, set as `Don't show tabs` in the `show tabs from apps when snapping or pressing Alt + Tab ` option.
+
 ## WSL
 
 1. Make sure `virtualization` is enable at the Bios.
@@ -11,10 +17,19 @@ wsl --install
 wsl --update
 
 ```
+#### Awesome WSL
+
+https://github.com/sirredbeard/Awesome-WSL
 
 ### Fedora in WSL
 
+https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL
+
+
+
 ## winget package manager
+
+` --force --ignore-security-hash `
 
 ## Install Windows
 ### This document is to help family and friends to format and install windows on their machines. In Spaninsh as well.
