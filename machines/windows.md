@@ -17,6 +17,7 @@ wsl --install
 wsl --update
 
 ```
+https://learn.microsoft.com/en-us/windows/wsl/basic-commands
 #### Awesome WSL
 
 https://github.com/sirredbeard/Awesome-WSL
@@ -28,6 +29,11 @@ To install the Fedora Remix directly, download the artifact from github and inst
 Example `Fedora-Remix-for-WSL-SL_40.1.0.0_x64_arm64.msixbundle` from
 
 https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL/releases/download/40.1.0/Fedora-Remix-for-WSL-SL_40.1.0.0_x64_arm64.msixbundle
+
+#### Launch Fedora Remix
+```
+wsl --distribution fedoraremix
+```
 
 ## winget package manager
 
