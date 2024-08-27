@@ -23,9 +23,11 @@ https://github.com/sirredbeard/Awesome-WSL
 
 ### Fedora in WSL
 
-https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL
+To install the Fedora Remix directly, download the artifact from github and install the `msixbundle`
 
+Example `Fedora-Remix-for-WSL-SL_40.1.0.0_x64_arm64.msixbundle` from
 
+https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL/releases/download/40.1.0/Fedora-Remix-for-WSL-SL_40.1.0.0_x64_arm64.msixbundle
 
 ## winget package manager
 
