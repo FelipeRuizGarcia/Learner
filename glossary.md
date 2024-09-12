@@ -1,3 +1,7 @@
+### DI - Dependency injection
+
+In software engineering, dependency injection (DI) is a design pattern used to achieve inversion of control between classes and their dependencies. This technique allows an object to receive its dependencies from an external source rather than creating them internally, promoting loose coupling and enhancing code maintainability.
+
 ### RPC
 
 Remote Procedure Call

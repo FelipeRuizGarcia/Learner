@@ -19,3 +19,5 @@ https://biomejs.dev/recipes/continuous-integration/
 ### config file biome.json
 
 https://biomejs.dev/reference/configuration/#filesignore
+
+#### biome range

@@ -1,3 +1,7 @@
+## Firefox Profiler
+
+https://profiler.firefox.com/
+
 ## Building Firefox On Linux
 
 https://firefox-source-docs.mozilla.org/setup/linux_build.html#building-firefox-on-linux

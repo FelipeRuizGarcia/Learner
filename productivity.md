@@ -1,5 +1,9 @@
 # Productivity
 
+## Focus
+
+https://youtu.be/fH7N9YRxMYc
+
 ---
 
 debugging and testing to make right conclusions.

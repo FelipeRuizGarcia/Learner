@@ -2,6 +2,38 @@
 
 ## Topics and Concepts
 
+```
+key differences between const, let, and var in JavaScript:
+Scope
+
+    var has function scope or global scope
+    let and const have block scope (within {})
+
+Hoisting
+
+    var variables are hoisted and initialized with undefined
+    let and const are hoisted but not initialized, resulting in a "Temporal Dead Zone"
+
+Reassignment
+
+    var and let variables can be reassigned
+    const variables cannot be reassigned
+
+Redeclaration
+
+    var variables can be redeclared in the same scope
+    let variables cannot be redeclared in the same scope
+    const variables cannot be redeclared in the same scope
+
+Initialization
+
+    var and let can be declared without initialization
+    const must be initialized upon declaration
+
+In summary, const provides the most restrictions, followed by let, while var is the most flexible but also the most error-prone. The general recommendation is to use const by default, and only use let when you need to reassign a variable. var should be avoided in modern JavaScript developmen
+
+```
+
 #### Sourcemap
 
 https://esbuild.github.io/api/#sourcemap

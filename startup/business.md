@@ -1,6 +1,14 @@
 # Startup
 
+## Teams
+
 "Team, Team, Team, Market, market, progress and idea"
+
+https://youtu.be/bh7uUbdI21Y
+
+### Motivation - Productivity Teams
+
+https://youtu.be/ogtpxA6brGo
 
 ### Feedback loop
 

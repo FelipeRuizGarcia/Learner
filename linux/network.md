@@ -1,14 +1,29 @@
-### which process is bound N port
-$ sudo netstat -tulpn 
+# Networks
 
-### all network interfaces
-$ ip a
+## Utils
 
-### range of the available? ( random )  ports
+### range of the available? ( random ) ports
+
 $ cat /proc/sys/net/ipv4/ip_local_port_range
 
 ### network interfaces
+
 $ /sys/class/net/
 
 ### Know networks
+
 /etc/NetworkManager/system-connections/
+
+## Commands
+
+### iptables
+
+### firewalld
+
+### which process is bound N port
+
+$ sudo netstat -tulpn
+
+### all network interfaces
+
+$ ip a

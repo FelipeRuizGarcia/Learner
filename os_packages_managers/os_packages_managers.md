@@ -1,4 +1,4 @@
-### cargo
+## cargo
 
 Cargo is the Rust package manager
 
@@ -8,7 +8,28 @@ https://crates.io/
 
 ---
 
-### dnf
+## dnf
+
+reinstall old kernel / workaround in dnf5
+https://github.com/rpm-software-management/dnf5/issues/720
+
+```
+dnf-3 reinstall / install / downgrade
+```
+
+### keep packages in the host
+
+Modify the keepcache option:
+Add or update the keepcache option to ensure that downloaded packages are kept.
+Setting keepcache=true ensures that packages are not removed after installation.
+
+```
+# sudo nano /etc/dnf5/dnf5.conf
+[main]
+keepcache=true
+```
+
+---
 
 reinstall all the subpackages installed of a package
 
@@ -46,7 +67,7 @@ sudo dnf5 install 'alsa-*.x86_64'
 
 ```
 
-### brew
+## brew
 
 https://github.com/Homebrew/brew
 
@@ -61,7 +82,7 @@ You can build from sources with `-s` or `--build-from-source`.
 
 ---
 
-#### How to 'build-from-source' from a specific checkout, not HEAD? #1230
+### How to 'build-from-source' from a specific checkout, not HEAD? #1230
 
 https://github.com/orgs/Homebrew/discussions/1230
 
@@ -87,6 +108,13 @@ Homebrew package definition that installs macOS native applications
 ```
 
 ---
+
+### Brewfile to Import / Export
+
+```
+brew bundle dump
+brew bundle install --file=/path/to/Brewfile
+```
 
 # Flatpak
 

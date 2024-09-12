@@ -76,7 +76,13 @@ https://lyz-code.github.io/blue-book/devops/helmfile/
 
 https://github.com/roboll/helmfile
 
-### containers
+## Docker containers
+
+### NVIDIA Container Toolkit
+
+https://github.com/NVIDIA/nvidia-container-toolkit
+
+https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html#installing-with-yum-or-dnf
 
 ##### attach to running container
 

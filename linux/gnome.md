@@ -1,3 +1,15 @@
+# Gnome
+
+## Development
+
+https://apps.gnome.org/en/#development
+
+### Logs
+
+```
+/usr/lib/systemd/user/gnome*
+```
+
 ### Shortcuts
 
 https://wiki.gnome.org/Design/OS/KeyboardShortcuts

@@ -24,6 +24,15 @@ the stages for the presenter and for the team are
 4. Present / Share / Teach:
    The presenter reinforce his knowledge
 
+#### Notes
+
+First priority - if possible, document things at ` Learner repo ( Personal repo shared public )`
+
+    + long term
+    - non internal info
+
+SEcond priority - safe - Interal Notes ( Personal repo shared internally a company )
+Company Private Notes
 
 #### Rewriting Technique
 

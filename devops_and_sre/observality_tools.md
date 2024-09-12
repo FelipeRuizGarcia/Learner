@@ -1,4 +1,21 @@
-#
+# Observability
+
+## Telemetry
+
+### OTLP
+
+https://github.com/open-telemetry
+
+### Tracing
+
+https://github.com/jaegertracing
+https://github.com/jaegertracing/jaeger
+
+---
+
+https://github.com/openzipkin/zipkin
+
+### WIP
 
 https://github.com/louislam/uptime-kuma
 

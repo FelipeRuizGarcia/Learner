@@ -34,6 +34,11 @@ https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code
 
 ## Key Concepts
 
+### Data Sources
+
+Data sources allow you to fetch data from external sources that are not managed by Terraform.
+This could be querying an API, reading from a file, or referencing state from another configuration.
+
 ### Terraform State
 
 <br>
@@ -240,6 +245,8 @@ https://www.terraform.io/cli/commands/graph
 ```
 
 #### Articles
+
+https://k21academy.com/terraform-iac/important-terraform-concepts/
 
 TF isnt open sources anymore, instead
 <br>
