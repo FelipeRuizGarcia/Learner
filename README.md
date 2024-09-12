@@ -52,3 +52,5 @@ Benefits
     Produces texts of higher quality, clarity, and coherence.
 
 Those personal notes are in `./rewriting` directory
+
+#### Questiosn leads to conclusions
