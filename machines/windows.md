@@ -42,7 +42,6 @@ Ctrl + Arrow keys (to select) + Spacebar - Select multiple items on desktop or F
 
 Ctrl + Click a grouped app button - Cycle through windows in the group from the Taskbar.
 
-
 Ctrl + F5 (or) Ctrl + R - Refresh current window.
 
 Ctrl + Shift - Switch keyboard layout.
@@ -96,6 +95,10 @@ Considerations
 https://learn.microsoft.com/en-us/windows/wsl/filesystems#file-storage-and-performance-across-file-systems
 
 https://learn.microsoft.com/en-us/windows/wsl/basic-commands
+
+#### Working across Windows and Linux file systems
+
+https://learn.microsoft.com/en-us/windows/wsl/filesystems#file-storage-and-performance-across-file-systems
 
 #### Awesome WSL
 

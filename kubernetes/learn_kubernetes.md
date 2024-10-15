@@ -11,6 +11,10 @@ that need to run on every node.
 
 https://youtu.be/X48VuDVv0do
 
+https://youtu.be/DCoBcpOA7W4
+
+https://youtu.be/7bA0gTroJjw
+
 ### kubectl
 
 https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/#install-using-native-package-management
@@ -48,7 +52,13 @@ minikube start --driver=docker
 
 --
 
+### Plugins
+
+https://github.com/int128/kubelogin
+
 ### Tools
+
+https://github.com/aws/karpenter-provider-aws
 
 https://k8slens.dev/
 <br>
@@ -92,3 +102,9 @@ exit of a contianer without stop it :
 in other words, we turn the interactive mode and say
 to the daemon "hey, return me back to my shell
 `ctrl + p -> ctrl + q `
+
+### Docker Desktop
+
+#### Enable WSL integration
+
+Settings > Resources > WSL Integration > select the distro and enable it

@@ -29,3 +29,8 @@ I learned from them.
 | Name             | "Main" Topics              | Youtube / Twitch / ?                    | Website / Social Networks / ? |
 | ---------------- | -------------------------- | --------------------------------------- | ----------------------------- |
 | Sedega de Riumar | Spanish AUDIO / DAO Debian | https://www.youtube.com/@sedegaderiumar |                               |
+
+### CEO'S
+
+Tim Sweeney
+https://en.wikipedia.org/wiki/Tim_Sweeney
