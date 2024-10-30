@@ -76,15 +76,15 @@ https://github.com/traefik/traefik
 
 #### Helm
 
+https://github.com/helmfile/helmfile
+
 ##### Helmfile
 
-https://github.com/roboll/helmfile/blob/master/docs/writing-helmfile.md
-<br>
-Best Practices writing helmfiles
+https://github.com/helmfile/helmfile/blob/main/docs/writing-helmfile.md
+
+#### Best Practices writing helmfiles
 
 https://lyz-code.github.io/blue-book/devops/helmfile/
-
-https://github.com/roboll/helmfile
 
 ## Docker containers
 
