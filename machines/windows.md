@@ -87,6 +87,8 @@ https://support.microsoft.com/en-us/windows/windows-keyboard-shortcuts-3d444b08-
 
 ```
 wsl --install
+
+# to update the latest linux subsystem
 wsl --update
 
 ```
