@@ -17,14 +17,9 @@ https://youtu.be/7bA0gTroJjw
 
 ### kubectl
 
+https://kubernetes.io/docs/reference/kubectl/
+
 https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/#install-using-native-package-management
-
-Use moby instead of docker-ce
-
-```
-# dnf install moby-engine
-
-```
 
 ## Clusters
 
@@ -74,11 +69,17 @@ brew install istioctl
 
 https://github.com/traefik/traefik
 
-#### Helm
+### Helm
 
 https://github.com/helmfile/helmfile
 
-##### Helmfile
+https://helm.sh/docs/intro/cheatsheet/
+
+#### Charts
+
+https://helm.sh/docs/topics/charts/
+
+#### Helmfile
 
 https://github.com/helmfile/helmfile/blob/main/docs/writing-helmfile.md
 
@@ -86,7 +87,24 @@ https://github.com/helmfile/helmfile/blob/main/docs/writing-helmfile.md
 
 https://lyz-code.github.io/blue-book/devops/helmfile/
 
+#### Articles
+
+https://www.baeldung.com/ops/kubernetes-helm
+
+### actions-runner-controller
+
+https://github.com/actions/actions-runner-controller
+
 ## Docker containers
+
+## Moby containers
+
+Use moby instead of docker-ce
+
+```
+# dnf install moby-engine
+
+```
 
 ### NVIDIA Container Toolkit
 
