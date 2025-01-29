@@ -91,9 +91,22 @@ wsl --install
 # to update the latest linux subsystem
 wsl --update
 
+# to shutdown use
+wsl --shutdown
+
 ```
 
-Considerations
+#### Considerations
+
+###### integrations with windows browsers
+
+https://wslutiliti.es/wslu/install.html#fedora-remix-for-wsl
+
+```
+dnf5 reinstall wslu*
+dnf5 install xdg*
+```
+
 https://learn.microsoft.com/en-us/windows/wsl/filesystems#file-storage-and-performance-across-file-systems
 
 https://learn.microsoft.com/en-us/windows/wsl/basic-commands
@@ -105,6 +118,10 @@ https://learn.microsoft.com/en-us/windows/wsl/filesystems#file-storage-and-perfo
 #### Awesome WSL
 
 https://github.com/sirredbeard/Awesome-WSL
+
+#### WSLG support for Wayland and X
+
+https://github.com/microsoft/wslg
 
 ### Fedora in WSL
 
@@ -120,19 +137,22 @@ https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL/releases/download/40.1
 wsl --distribution fedoraremix
 ```
 
+### Custom Kernel in WSL
+
+https://learn.microsoft.com/en-us/windows/wsl/kernel-release-notes
+
+https://github.com/microsoft/WSL2-Linux-Kernel
+
+https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
+
 ## winget package manager
 
-`--force --ignore-security-hash`
+`winget --force --ignore-security-hash`
 
 ## Install Windows
 
-### This document is to help family and friends to format and install windows on their machines. In Spaninsh as well.
-
-( Please friend, install some gnu/linux, it is much better, Again, friend, you can install a linux distro )
-
 Requisitos
 Memoria USB de 8GB libres, disponible para FORMATEAR
-( Toda la informacion le sera eliminada. )
 
 Otro sistema operativo Windows/Mac para descargar la imagen de windows
 
