@@ -147,8 +147,19 @@ https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-t
 
 ## winget package manager
 
+https://github.com/microsoft/winget-cli
+
 `winget --force --ignore-security-hash`
 
+### update all the windows software
+
+```
+$ winget update --all --accept-package-agreements --accept-source-agreements
+
+or from the wsl
+$ powershell.exe winget update --all --accept-package-agreements --accept-source-agreements
+
+```
 ## Install Windows
 
 Requisitos
