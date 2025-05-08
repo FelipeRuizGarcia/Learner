@@ -19,3 +19,7 @@ https://www.kernel.org/doc/html/latest/filesystems/ramfs-rootfs-initramfs.html
 ```
 /etc/modprobe.d/
 ```
+
+## Kernel Debug
+
+https://fedoraproject.org/wiki/How_to_use_kdump_to_debug_kernel_crashes

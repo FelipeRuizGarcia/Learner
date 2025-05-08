@@ -1,5 +1,20 @@
 # Networks
 
+## quickstart
+
+```
+
+# ip link show
+# ip link set eno1 up
+
+
+# systemctl start NetworkManager
+
+# dhclient eno1
+
+
+```
+
 ## Utils
 
 ### range of the available? ( random ) ports

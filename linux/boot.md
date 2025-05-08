@@ -1,10 +1,23 @@
 # Boot
 
+### initramfs guide
+
+https://jfearn.fedorapeople.org/fdocs/en-US/Fedora_Draft_Documentation/0.1/html/System_Administrators_Guide/sec-Verifying_the_Initial_RAM_Disk_Image.html
+
+#### dracut
+
 ```
-# allow to load the kernel and execute rescue mode 
-ro nomodeset single
- 
+# dracut --regenerate-all -p --force
+
+# dracut --force --regenerate-all --no-hostonly -v
+
+# dracut 
 ```
+
+debugging
+https://fedoraproject.org/wiki/How_to_debug_Dracut_problems#Using_the_dracut_shell
+https://fedoramagazine.org/initramfs-dracut-and-the-dracut-emergency-shell/
+
 
 #### error: ../../grub-core/fs/fshelp.c:257:file
 
@@ -66,14 +79,34 @@ By following these steps, you should be able to resolve the GRUB error and succe
 
 #### Targets vs Runlevels
 
-runlevels are deprecated
+runlevels are deprecated, instead use systemd targets.
 
-## Grub Parameters
+## Grub
+
+```
+
+https://www.gnu.org/software/grub/manual/grub/html_node/Menu-interface
+
+# `e` to edit a boot entry
+# Ctrl+X OR F10 to enter a kernel
+
+`normal` to come back to the interface from the grub commandline.
+
+
+```
+
+### Grub Parameters
 
 Define as `GRUB_CMDLINE_LINUX` in the file
 
 ```
 /etc/default/grub
+```
+
+```
+# allow to load the kernel and execute rescue mode
+ro nomodeset single
+
 ```
 
 example
@@ -88,7 +121,11 @@ after modifications in the file, recreate the grub with
 sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 ```
 
-## Secure Boot
+## EFI
+
+https://www.happyassassin.net/posts/2014/01/25/uefi-boot-how-does-that-actually-work-then/
+
+### Secure Boot
 
 Secure Boot Overview
 
@@ -127,6 +164,17 @@ In this context, the shim database encompasses the following components:
     Operating System Boot: The next-stage bootloader loads and verifies the kernel and other critical components using the same set of trusted keys.
 
 ## Commands
+
+### efibootmgr
+
+efibootmgr -v
+
+### bootctl
+
+```
+bootctl status
+bootctl update
+```
 
 ### mokutil
 

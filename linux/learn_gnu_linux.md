@@ -43,8 +43,6 @@ https://distrowatch.com/
 
 #### spanish references
 
-#### spanish references
-
 [Richard Stallman en Chile\, por una sociedad digital libre\. \- YouTube](https://www.youtube.com/watch?v=ihmw5vAWXno&t=2909s "Richard Stallman en Chile, por una sociedad digital libre. - YouTube")
 
 the reference to the GNU + Linux is in the 48:30
@@ -63,3 +61,14 @@ https://www.youtube.com/watch?v=tEe2nMlbezQ
 
 Why Windows programs do not run on Linux, Syscall, Wine - YouTube
 https://www.youtube.com/watch?v=xM7fObMSKqE
+
+## Boot
+
+general bootin overview
+https://youtu.be/XpFsMB6FoOs
+
+## Partition
+
+#### spanish references
+
+https://youtu.be/jWmY5uwC8gU
