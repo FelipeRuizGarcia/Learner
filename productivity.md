@@ -1,10 +1,53 @@
 # Productivity
 
-## Focus
+## Focus Mode - Flow state
+
+### How to Stay Deeply Focused Despite Noise, Interruptions, and Pressure
+
+1.  **Drop everything** you're doing, no matter where you are.
+2.  **Be clear on your priority**:
+
+        - _"Deciding means letting go."_
+        - By choosing one task, you're accepting that others **won’t** be done right now.
+
+3.  **Physically release distractions**—put things down, take a breath.
+
+#### Handling Intrusive Thoughts
+
+I constantly ask myself about intrusive thoughts:
+
+Can I discard this right away?
+
+If not, then:  
+Is it in a safe place where I can continue it in the future?  
+If not, then:  
+Is it worth saving now? Is it an important milestone?  
+If not, then...
+
+-   **Write them down** but don’t engage with them.
+-   Try to **discard** them instead of letting them take over.
+-   **Intrusive thoughts** vs. **Deep focus thoughts**—know the difference.
+
+#### List of DON'Ts
+
+Thinking CLEARLY "NO gona do that now"
+Don’t get sidetracked by things that aren’t worth it.
+
+DON'T obsess over things that aren’t important at the moment.
+
+Don’t switch tasks.
+
+time doesn’t matter, nor does anything else — the only thing that matters is completing the task.
+
+#### Turn Off All Notifications—Completely.
+
+---
 
 https://youtu.be/fH7N9YRxMYc
 
 ---
+
+## Focus Development
 
 debugging and testing to make right conclusions.
 questions and answers as table
@@ -98,5 +141,3 @@ https://www.forestapp.cc/
 ###### if you going to work all the night, put funny videos in the second screen, really worth not "feeling tired"
 
 ### Blogs | Must
-
-https://medium.com/nowports-freight/c%C3%B3mo-mejorar-tu-productividad-mientras-desarrollas-tu-primera-empresa-292df71d2d91
