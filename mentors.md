@@ -18,11 +18,14 @@ I learned from them.
 | Josean Martinez | Neovim / DX - Developer Experience |                      | https://www.josean.com/       |
 | Elijah Manor    | Neovim / DX - Developer Experience |                      | https://elijahmanor.com/      |
 
-### Linux / GNU / Fedora
+### Linux / GNU / Floss / Fedora
 
-| Name         | "Main" Topics    | Youtube / Twitch / ? | Website / Social Networks / ? |
-| ------------ | ---------------- | -------------------- | ----------------------------- |
-| Major Hayden | Fedora / Red Hat |                      | https://major.io/             |
+| Name         | "Main" Topics    | Youtube / Twitch / Github  | Website / Social Networks / ? |
+| ------------ | ---------------- | -------------------------- | ----------------------------- |
+| Major Hayden | Fedora / Red Hat |                            | https://major.io/             |
+| Shlomi Fish  | FLOSS            | https://github.com/shlomif | https://www.shlomifish.org/   |
+
+---
 
 ### Producers / DAO / AUDIO / "Ju$T000 Records"
 
