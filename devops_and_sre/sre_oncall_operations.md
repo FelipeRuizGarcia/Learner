@@ -73,7 +73,7 @@ with the conclusion at the time.
 ### SUMMARY
 
 Fill this section as you learn about the live incident.
-Include timestamp.
+Include timestamp. // use an company standart timezome like UTC time.
 
 ### ROOT CAUSE
 
