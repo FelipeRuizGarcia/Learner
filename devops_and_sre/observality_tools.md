@@ -2,7 +2,7 @@
 
 ## Telemetry
 
-### OTLP
+### OTEL / OTLP
 
 https://github.com/open-telemetry
 
@@ -15,7 +15,7 @@ https://github.com/jaegertracing/jaeger
 
 https://github.com/openzipkin/zipkin
 
-### WIP
+### Free uptime monitor and status page
 
 https://github.com/louislam/uptime-kuma
 
@@ -48,7 +48,7 @@ its core features in a single binary.
 
 ## Data Tools
 
-#### Splunk
+### Splunk
 
 Auto format the query:
 
@@ -56,3 +56,7 @@ Auto format the query:
     On Mac OSX use Command + \. You can also use Command + Shift + F, which works well with many non-English keyboards.
 
 https://docs.splunk.com/Documentation/SplunkCloud/latest/SearchTutorial/Useasubsearch#Make_the_search_syntax_easier_to_read
+
+### New Relic
+
+https://docs.newrelic.com/docs/nrql/nrql-tutorials/introduction-nrql-tutorial/
