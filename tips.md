@@ -1,3 +1,11 @@
+## use the formal languange for context
+
+At times, development utilizes
+tools or specific scenarios that involve a specialized vocabulary.
+It is essential to always learn the
+"formal concepts," also known as the "glossary,"
+including terms related to tools, databases, backends, platforms, etc.
+
 ## embrace Ship-show-ask as workflow
 
 https://martinfowler.com/articles/ship-show-ask.html
