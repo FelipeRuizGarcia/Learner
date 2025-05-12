@@ -125,6 +125,12 @@ https://github.com/microsoft/wslg
 
 ### Fedora in WSL
 
+Now, there is a official Fedora Distro
+
+https://docs.fedoraproject.org/en-US/cloud/wsl/
+
+https://devblogs.microsoft.com/commandline/fedora-linux-is-now-an-official-wsl-distro/
+
 To install the Fedora Remix directly, download the artifact from github and install the `msixbundle`
 
 Example `Fedora-Remix-for-WSL-SL_40.1.0.0_x64_arm64.msixbundle` from
@@ -160,6 +166,7 @@ or from the wsl
 $ powershell.exe winget update --all --accept-package-agreements --accept-source-agreements
 
 ```
+
 ## Install Windows
 
 Requisitos
